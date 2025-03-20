@@ -1,0 +1,1496 @@
+,location,price,area,bhk,locations,abs_price,sqft_val,price_per_sqft,type,num_bhk
+0,Residential land / Plot in Bogadi,₹17 - 41.25 Lac,"581 - 1,453 sqft",Plot/Land,Bogadi,2912500.0,1017,2863.8,Plot,
+1,Residential land / Plot in Jayapura,₹12.85 - 43.61 Lac,"680 - 2,560 sqft",Plot/Land,Jayapura,2823000.0,1620,1742.6,Plot,
+2,Residential land / Plot in Lalithadripura,₹74 Lac,"1,200 sqft",Plot/Land,Lalithadripura,7400000.0,1200,6166.7,Plot,
+3,3 BHK Flat in Vishweshwara Nagar ,₹90 Lac,"1,420 sqft",3 BHK,Vishweshwara Nagar ,9000000.0,1420,6338.0,House,3.0
+4,4 Bedroom House in Vidyaranyapura,₹2.59 Cr,"2,587 sqft",4 BHK,Vidyaranyapura,25900000.0,2587,10011.6,House,4.0
+5,"Residential land / Plot in Madagalli, Kalyaninagar",₹1.57 Cr,"2,400 sqft",Plot/Land,"Madagalli, Kalyaninagar",15700000.0,2400,6541.7,Plot,
+6,Residential land / Plot in E and F Block,₹2.28 Cr,"2,400 sqft",Plot/Land,E and F Block,22800000.0,2400,9500.0,Plot,
+7,10 Bedroom House in Hebbal 2nd Stage,₹2.3 Cr,"3,900 sqft",10 BHK,Hebbal 2nd Stage,23000000.0,3900,5897.4,House,10.0
+8,3 Bedroom House in Roopa Nagar,₹3.6 Cr,"2,400 sqft",3 BHK,Roopa Nagar,36000000.0,2400,15000.0,House,3.0
+9,Residential land / Plot in RT Nagar,₹1.32 Cr,"2,400 sqft",Plot/Land,RT Nagar,13200000.0,2400,5500.0,Plot,
+10,3 Bedroom House in Choranahalli,₹75 Lac,600 sqft,3 BHK,Choranahalli,7500000.0,600,12500.0,House,3.0
+11,Residential land / Plot in Kesare,₹55 Lac,"1,450 sqft",Plot/Land,Kesare,5500000.0,1450,3793.1,Plot,
+12,Residential land / Plot in Mandakalli,₹65 Lac,"1,500 sqft",Plot/Land,Mandakalli,6500000.0,1500,4333.3,Plot,
+13,Residential land / Plot in sun city homes,₹70 Lac,"4,800 sqft",Plot/Land,sun city homes,7000000.0,4800,1458.3,Plot,
+14,3 Bedroom House in Alanahalli,₹1.55 Cr,"1,200 sqft",3 BHK,Alanahalli,15500000.0,1200,12916.7,House,3.0
+15,Residential land / Plot in Yelwala,₹56 Lac,"2,368 sqft",Plot/Land,Yelwala,5600000.0,2368,2364.9,Plot,
+16,Residential land / Plot in Bilikere,₹24 Lac,"1,200 sqft",Plot/Land,Bilikere,2400000.0,1200,2000.0,Plot,
+17,Residential land / Plot in Bilikere,₹20.25 Lac,"1,500 sqft",Plot/Land,Bilikere,2025000.0,1500,1350.0,Plot,
+18,Residential land / Plot in Thaluru,₹20.4 Lac,"1,200 sqft",Plot/Land,Thaluru,2040000.0,1200,1700.0,Plot,
+19,Residential land / Plot in Thaluru,₹24 Lac,"1,500 sqft",Plot/Land,Thaluru,2400000.0,1500,1600.0,Plot,
+20,Residential land / Plot in Mananthavadi Road,₹36 Lac,"1,200 sqft",Plot/Land,Mananthavadi Road,3600000.0,1200,3000.0,Plot,
+21,Residential land / Plot in Dattagalli 3rd Stage,₹72.65 Lac,"1,453 sqft",Plot/Land,Dattagalli 3rd Stage,7265000.0,1453,5000.0,Plot,
+22,Residential land / Plot in RT Nagar,₹1.6 Cr,"3,600 sqft",Plot/Land,RT Nagar,16000000.0,3600,4444.4,Plot,
+47,Residential land / Plot in Dattagalli 3rd Stage,₹69.11 Lac,"1,304 sqft",Plot/Land,Dattagalli 3rd Stage,6911000.0,1304,5299.8,Plot,
+48,Residential land / Plot in Basthipura,₹42 Lac,"1,200 sqft",Plot/Land,Basthipura,4200000.0,1200,3500.0,Plot,
+49,Residential land / Plot in Beerihundi,₹31.5 Lac,"1,500 sqft",Plot/Land,Beerihundi,3150000.0,1500,2100.0,Plot,
+50,Residential land / Plot in 2nd Stage Vijay Nagar,₹60 Lac,600 sqft,Plot/Land,2nd Stage Vijay Nagar,6000000.0,600,10000.0,Plot,
+51,Residential land / Plot in 2nd Stage Vijay Nagar,₹75 Lac,750 sqft,Plot/Land,2nd Stage Vijay Nagar,7500000.0,750,10000.0,Plot,
+52,Residential land / Plot in Bank Employees Colony,₹85 Lac,"1,200 sqft",Plot/Land,Bank Employees Colony,8500000.0,1200,7083.3,Plot,
+53,Residential land / Plot in 3rd Stage Vijayanagar,₹2.25 Cr,"2,400 sqft",Plot/Land,3rd Stage Vijayanagar,22500000.0,2400,9375.0,Plot,
+54,Residential land / Plot in Emerald Enclave.,₹2.8 Cr,"9,600 sqft",Plot/Land,Emerald Enclave.,28000000.0,9600,2916.7,Plot,
+55,Residential land / Plot in Gohalli,₹68 Lac,"2,400 sqft",Plot/Land,Gohalli,6800000.0,2400,2833.3,Plot,
+56,Residential land / Plot in Mahadevpura Road,₹25.5 Lac,"1,500 sqft",Plot/Land,Mahadevpura Road,2550000.0,1500,1700.0,Plot,
+57,Residential land / Plot in 2nd Stage Vijay Nagar,₹1.35 Cr,"1,200 sqft",Plot/Land,2nd Stage Vijay Nagar,13500000.0,1200,11250.0,Plot,
+58,Residential land / Plot in 4th Stage Vijayanagar,₹4 Cr,"4,000 sqft",Plot/Land,4th Stage Vijayanagar,40000000.0,4000,10000.0,Plot,
+59,Residential land / Plot in Srirampura,₹69 Lac,"1,200 sqft",Plot/Land,Srirampura,6900000.0,1200,5750.0,Plot,
+60,Residential land / Plot in Kuvempunagar,₹2.18 Cr,"1,980 sqft",Plot/Land,Kuvempunagar,21800000.0,1980,11010.1,Plot,
+61,Residential land / Plot in Gohalli,₹31.2 Lac,"1,200 sqft",Plot/Land,Gohalli,3120000.0,1200,2600.0,Plot,
+62,Residential land / Plot in Yelwala,₹42 Lac,"1,200 sqft",Plot/Land,Yelwala,4200000.0,1200,3500.0,Plot,
+63,Residential land / Plot in Madagalli,₹86 Lac,"1,500 sqft",Plot/Land,Madagalli,8600000.0,1500,5733.3,Plot,
+64,Residential land / Plot in Bilikere,₹16.2 Lac,"1,200 sqft",Plot/Land,Bilikere,1620000.0,1200,1350.0,Plot,
+65,2 Bedroom House in JP Nagar,₹1.45 Cr,"1,200 sqft",2 BHK,JP Nagar,14500000.0,1200,12083.3,House,2.0
+66,Residential land / Plot in Srirampura,₹51 Lac,"1,200 sqft",Plot/Land,Srirampura,5100000.0,1200,4250.0,Plot,
+67,Residential land / Plot in Uttanahalli,₹72 Lac,"6,534 sqft",Plot/Land,Uttanahalli,7200000.0,6534,1101.9,Plot,
+68,5 BHK Independent Builder Floor in JP Nagar,₹1.55 Cr,"1,000 sqft",5 BHK,JP Nagar,15500000.0,1000,15500.0,House,5.0
+69,3 Bedroom House in Srinagara Layout,₹1.5 Cr,"1,500 sqft",3 BHK,Srinagara Layout,15000000.0,1500,10000.0,House,3.0
+70,Residential land / Plot in Sree Sapthamathrukha Layout,₹18 Lac,"1,200 sqft",Plot/Land,Sree Sapthamathrukha Layout,1800000.0,1200,1500.0,Plot,
+72,Residential land / Plot in Roopa Nagar,₹1.25 Cr,"2,400 sqft",Plot/Land,Roopa Nagar,12500000.0,2400,5208.3,Plot,
+73,Residential land / Plot in Hebbal,₹1.25 Cr,"1,300 sqft",Plot/Land,Hebbal,12500000.0,1300,9615.4,Plot,
+74,Residential land / Plot in Jss Layout,₹56 Lac,"1,500 sqft",Plot/Land,Jss Layout,5600000.0,1500,3733.3,Plot,
+75,3 Bedroom House in Lal Bahadur Shastri Nagar,₹80 Lac,600 sqft,3 BHK,Lal Bahadur Shastri Nagar,8000000.0,600,13333.3,House,3.0
+76,Residential land / Plot in Roopa Nagar,₹1.6 Cr,"4,000 sqft",Plot/Land,Roopa Nagar,16000000.0,4000,4000.0,Plot,
+77,5 Bedroom House in JP Nagar,₹2.5 Cr,"1,800 sqft",5 BHK,JP Nagar,25000000.0,1800,13888.9,House,5.0
+78,3 Bedroom House in JP Nagar,₹1.65 Cr,"1,200 sqft",3 BHK,JP Nagar,16500000.0,1200,13750.0,House,3.0
+79,Residential land / Plot in Bogadi Road,₹22.5 Lac,"1,500 sqft",Plot/Land,Bogadi Road,2250000.0,1500,1500.0,Plot,
+80,Residential land / Plot in JP Nagar,₹29.5 Lac,"1,163 sqft",Plot/Land,JP Nagar,2950000.0,1163,2536.5,Plot,
+81,3 Bedroom House in Srinagara Layout,₹1.1 Cr,"1,475 sqft",3 BHK,Srinagara Layout,11000000.0,1475,7457.6,House,3.0
+82,2 Bedroom House in Lal Bahadur Shastri Nagar,₹95 Lac,"1,200 sqft",2 BHK,Lal Bahadur Shastri Nagar,9500000.0,1200,7916.7,House,2.0
+83,4 Bedroom House in JP Nagar,₹1.5 Cr,"1,200 sqft",4 BHK,JP Nagar,15000000.0,1200,12500.0,House,4.0
+84,4 Bedroom House in Lal Bahadur Shastri Nagar,₹85 Lac,600 sqft,4 BHK,Lal Bahadur Shastri Nagar,8500000.0,600,14166.7,House,4.0
+85,3 Bedroom House in Srinagara Layout,₹1.15 Cr,"1,440 sqft",3 BHK,Srinagara Layout,11500000.0,1440,7986.1,House,3.0
+87,2 Bedroom House in Lal Bahadur Shastri Nagar,₹90 Lac,"1,200 sqft",2 BHK,Lal Bahadur Shastri Nagar,9000000.0,1200,7500.0,House,2.0
+88,2 Bedroom House in Srinagara Layout,₹95 Lac,"1,200 sqft",2 BHK,Srinagara Layout,9500000.0,1200,7916.7,House,2.0
+89,3 Bedroom House in Block I Ramakrishnanagar,₹1.5 Cr,"1,200 sqft",3 BHK,Block I Ramakrishnanagar,15000000.0,1200,12500.0,House,3.0
+90,3 BHK Flat in JP Nagar,₹95 Lac,"1,707 sqft",3 BHK,JP Nagar,9500000.0,1707,5565.3,House,3.0
+91,2 Bedroom House in JP Nagar,₹95 Lac,"1,200 sqft",2 BHK,JP Nagar,9500000.0,1200,7916.7,House,2.0
+92,Residential land / Plot in Hadinaru,₹16 Lac,"1,200 sqft",Plot/Land,Hadinaru,1600000.0,1200,1333.3,Plot,
+93,2 Bedroom House in Subramanya Nagar,₹95 Lac,936 sqft,2 BHK,Subramanya Nagar,9500000.0,936,10149.6,House,2.0
+94,Residential land / Plot in Vijayanagar,₹77 Lac,"1,500 sqft",Plot/Land,Vijayanagar,7700000.0,1500,5133.3,Plot,
+95,Residential land / Plot in Huyilalu,₹57 Lac,"2,020 sqft",Plot/Land,Huyilalu,5700000.0,2020,2821.8,Plot,
+169,2 BHK Independent Builder Floor in Bogadi,₹73 Lac,30 sqft,2 BHK,Bogadi,7300000.0,30,243333.3,House,2.0
+170,Residential land / Plot in Huyilalu,₹1 Cr,"2,400 sqft",Plot/Land,Huyilalu,10000000.0,2400,4166.7,Plot,
+171,Residential land / Plot in Ilavala Hobli,₹19.5 Lac,"1,200 sqft",Plot/Land,Ilavala Hobli,1950000.0,1200,1625.0,Plot,
+173,3 Bedroom House in 3rd Stage Vijayanagar,₹3.3 Cr,"2,325 sqft",3 BHK,3rd Stage Vijayanagar,33000000.0,2325,14193.5,House,3.0
+174,5 BHK Independent Builder Floor in JP Nagar,₹1.95 Cr,"1,750 sqft",5 BHK,JP Nagar,19500000.0,1750,11142.9,House,5.0
+175,2 BHK Flat in Gokulam,₹96 Lac,"1,385 sqft",2 BHK,Gokulam,9600000.0,1385,6931.4,House,2.0
+176,Residential land / Plot in Hebbal,₹47 Lac,"1,200 sqft",Plot/Land,Hebbal,4700000.0,1200,3916.7,Plot,
+177,3 Bedroom House in Shakthinagar,₹2.9 Cr,"5,500 sqft",3 BHK,Shakthinagar,29000000.0,5500,5272.7,House,3.0
+178,Residential land / Plot in 4th Stage Vijayanagar,₹85 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,8500000.0,1200,7083.3,Plot,
+179,Residential land / Plot in K Hemmanahalli,₹35 Lac,"1,200 sqft",Plot/Land,K Hemmanahalli,3500000.0,1200,2916.7,Plot,
+180,2 Bedroom House in Yelwala,₹1.1 Cr,"1,200 sqft",2 BHK,Yelwala,11000000.0,1200,9166.7,House,2.0
+181,5 Bedroom House in Police Layout,₹1.3 Cr,"1,162 sqft",5 BHK,Police Layout,13000000.0,1162,11187.6,House,5.0
+182,Residential land / Plot in Karakanahalli,₹1.2 Cr,"4,935 sqft",Plot/Land,Karakanahalli,12000000.0,4935,2431.6,Plot,
+183,2 Bedroom House in Sriramapura 2nd Stage,₹2.1 Cr,"1,953 sqft",2 BHK,Sriramapura 2nd Stage,21000000.0,1953,10752.7,House,2.0
+184,"Residential land / Plot in Shankara Nagar(Gayathri Layout), Dattagalli, 3rd stage",₹72 Lac,"1,470 sqft",Plot/Land,"Shankara Nagar(Gayathri Layout), Dattagalli, 3rd stage",7200000.0,1470,4898.0,Plot,
+185,Residential land / Plot in Teachers Layout 1st Stage,₹1.6 Cr,"2,000 sqft",Plot/Land,Teachers Layout 1st Stage,16000000.0,2000,8000.0,Plot,
+186,5 Bedroom House in Koppa,₹1.1 Cr,"1,500 sqft",5 BHK,Koppa,11000000.0,1500,7333.3,House,5.0
+187,Residential land / Plot in Nanjangud Road,₹1.12 Cr,"60,983 sqft",Plot/Land,Nanjangud Road,11200000.0,60983,183.7,Plot,
+188,3 Bedroom House in Vidyaranyapura,₹1.15 Cr,900 sqft,3 BHK,Vidyaranyapura,11500000.0,900,12777.8,House,3.0
+189,Residential land / Plot in Allanahalli Layout,₹98 Lac,"2,400 sqft",Plot/Land,Allanahalli Layout,9800000.0,2400,4083.3,Plot,
+190,Residential land / Plot in Bilikere,₹44 Lac,"2,192 sqft",Plot/Land,Bilikere,4400000.0,2192,2007.3,Plot,
+191,Residential land / Plot in Nagawala,₹24 Lac,"1,200 sqft",Plot/Land,Nagawala,2400000.0,1200,2000.0,Plot,
+192,Residential land / Plot in RS Naidu Nagar,₹1.89 Cr,"2,700 sqft",Plot/Land,RS Naidu Nagar,18900000.0,2700,7000.0,Plot,
+193,"5 Bedroom House in Police Layout, 3rd stage, IPS Nagar",₹1.3 Cr,"1,162 sqft",5 BHK,"Police Layout, 3rd stage, IPS Nagar",13000000.0,1162,11187.6,House,5.0
+292,Residential land / Plot in Yelwala,₹28 Lac,"1,500 sqft",Plot/Land,Yelwala,2800000.0,1500,1866.7,Plot,
+293,Residential land / Plot in Mahadevapura,₹42.5 Lac,"1,500 sqft",Plot/Land,Mahadevapura,4250000.0,1500,2833.3,Plot,
+294,Residential land / Plot in Kesare,₹67 Lac,"1,500 sqft",Plot/Land,Kesare,6700000.0,1500,4466.7,Plot,
+295,2 Bedroom House in 4th Stage Vijayanagar,₹68 Lac,600 sqft,2 BHK,4th Stage Vijayanagar,6800000.0,600,11333.3,House,2.0
+296,Residential land / Plot in Danagalli,₹14.4 Lac,"1,199 sqft",Plot/Land,Danagalli,1440000.0,1199,1201.0,Plot,
+297,Residential land / Plot in Jantagalli,₹50 Lac,"2,560 sqft",Plot/Land,Jantagalli,5000000.0,2560,1953.1,Plot,
+298,Residential land / Plot in 3rd Stage Vijayanagar,₹2.25 Cr,"2,325 sqft",Plot/Land,3rd Stage Vijayanagar,22500000.0,2325,9677.4,Plot,
+299,2 BHK Flat in JP Nagar,₹70 Lac,"1,128 sqft",2 BHK,JP Nagar,7000000.0,1128,6205.7,House,2.0
+300,4 Bedroom House in Bogadi,₹1.92 Cr,"1,200 sqft",4 BHK,Bogadi,19200000.0,1200,16000.0,House,4.0
+301,Residential land / Plot in K Hemmanahalli,₹31 Lac,"1,200 sqft",Plot/Land,K Hemmanahalli,3100000.0,1200,2583.3,Plot,
+302,3 Bedroom House in Hampapura,₹69.5 Lac,"1,500 sqft",3 BHK,Hampapura,6950000.0,1500,4633.3,House,3.0
+303,Residential land / Plot in Rajiv Nagar,₹1.15 Cr,"2,400 sqft",Plot/Land,Rajiv Nagar,11500000.0,2400,4791.7,Plot,
+304,Residential land / Plot in Vijaynagar,₹2 Cr,"1,120 sqft",Plot/Land,Vijaynagar,20000000.0,1120,17857.1,Plot,
+305,3 BHK Independent Builder Floor in Hullenahalli,₹4.2 Cr,"2,400 sqft",3 BHK,Hullenahalli,42000000.0,2400,17500.0,House,3.0
+306,2 BHK Flat in New Sayyaji Rao Road,₹60 Lac,760 sqft,2 BHK,New Sayyaji Rao Road,6000000.0,760,7894.7,House,2.0
+307,Residential land / Plot in Police Layout,₹75 Lac,"1,200 sqft",Plot/Land,Police Layout,7500000.0,1200,6250.0,Plot,
+308,4 Bedroom House in Hampapura,₹1.35 Cr,"3,000 sqft",4 BHK,Hampapura,13500000.0,3000,4500.0,House,4.0
+309,4 Bedroom House in KR Mohalla,₹2 Cr,"1,079 sqft",4 BHK,KR Mohalla,20000000.0,1079,18535.7,House,4.0
+310,Residential land / Plot in Elivala ,₹19.2 Lac,"1,200 sqft",Plot/Land,Elivala ,1920000.0,1200,1600.0,Plot,
+311,3 Bedroom House in Kuvempunagar,₹90 Lac,450 sqft,3 BHK,Kuvempunagar,9000000.0,450,20000.0,House,3.0
+312,5 Bedroom House in 2nd Stage Vijay Nagar,₹1.95 Cr,"1,200 sqft",5 BHK,2nd Stage Vijay Nagar,19500000.0,1200,16250.0,House,5.0
+313,Residential land / Plot in Kesare,₹1.22 Cr,"2,400 sqft",Plot/Land,Kesare,12200000.0,2400,5083.3,Plot,
+314,Residential land / Plot in Kenchalagudu,₹40 Lac,"1,272 sqft",Plot/Land,Kenchalagudu,4000000.0,1272,3144.7,Plot,
+315,Residential land / Plot in Madahalli,₹27.6 Lac,"1,200 sqft",Plot/Land,Madahalli,2760000.0,1200,2300.0,Plot,
+316,3 Bedroom House in Hebbal,₹2.2 Cr,"1,500 sqft",3 BHK,Hebbal,22000000.0,1500,14666.7,House,3.0
+317,3 Bedroom House in Tumakuru,₹69 Lac,"1,800 sqft",3 BHK,Tumakuru,6900000.0,1800,3833.3,House,3.0
+318,Residential land / Plot in Hootagalli,₹2 Cr,"3,000 sqft",Plot/Land,Hootagalli,20000000.0,3000,6666.7,Plot,
+319,4 Bedroom House in Nadanahalli,₹69 Lac,1 sqft,4 BHK,Nadanahalli,6900000.0,1,6900000.0,House,4.0
+320,Residential land / Plot in Gungralchatra,₹63.6 Lac,"2,400 sqft",Plot/Land,Gungralchatra,6360000.0,2400,2650.0,Plot,
+321,3 BHK Flat in Dattagalli,₹1.04 Cr,"1,640 sqft",3 BHK,Dattagalli,10400000.0,1640,6341.5,House,3.0
+322,Residential land / Plot in Basthipura,₹45 Lac,"1,137 sqft",Plot/Land,Basthipura,4500000.0,1137,3957.8,Plot,
+323,4 Bedroom House in 3rd Stage Vijayanagar,₹2.15 Cr,"1,200 sqft",4 BHK,3rd Stage Vijayanagar,21500000.0,1200,17916.7,House,4.0
+324,Residential land / Plot in Kesare,₹1.26 Cr,"2,400 sqft",Plot/Land,Kesare,12600000.0,2400,5250.0,Plot,
+325,Residential land / Plot in Gohalli,₹55 Lac,"2,150 sqft",Plot/Land,Gohalli,5500000.0,2150,2558.1,Plot,
+326,Residential land / Plot in Danagalli,₹30 Lac,"1,200 sqft",Plot/Land,Danagalli,3000000.0,1200,2500.0,Plot,
+327,Residential land / Plot in Hanchya,₹45 Lac,"1,242 sqft",Plot/Land,Hanchya,4500000.0,1242,3623.2,Plot,
+328,Residential land / Plot in Uttanahalli,₹2.8 Cr,"38,115 sqft",Plot/Land,Uttanahalli,28000000.0,38115,734.6,Plot,
+329,3 Bedroom House in Dasanakoppalu,₹80 Lac,19 sqft,3 BHK,Dasanakoppalu,8000000.0,19,421052.6,House,3.0
+330,Residential land / Plot in srirangpatna,₹2.2 Cr,"17,500 sqft",Plot/Land,srirangpatna,22000000.0,17500,1257.1,Plot,
+331,2 BHK Flat in Hebbal,₹90 Lac,961 sqft,2 BHK,Hebbal,9000000.0,961,9365.2,House,2.0
+332,7 BHK Independent Builder Floor in Vontikoppal,₹2.15 Cr,"2,400 sqft",7 BHK,Vontikoppal,21500000.0,2400,8958.3,House,7.0
+333,4 Bedroom House in Dattagalli,₹2.1 Cr,"1,200 sqft",4 BHK,Dattagalli,21000000.0,1200,17500.0,House,4.0
+334,Residential land / Plot in Rajiv Nagar 2nd Stage,₹55 Lac,600 sqft,Plot/Land,Rajiv Nagar 2nd Stage,5500000.0,600,9166.7,Plot,
+335,Residential land / Plot in Jettihundi,₹30 Lac,"1,200 sqft",Plot/Land,Jettihundi,3000000.0,1200,2500.0,Plot,
+336,Residential land / Plot in Moulim Nagar,₹86 Lac,"1,446 sqft",Plot/Land,Moulim Nagar,8600000.0,1446,5947.4,Plot,
+337,Residential property in Heggadadevankote,₹5 Cr,"87,120 sqft",Plot/Land,Heggadadevankote,50000000.0,87120,573.9,Plot,
+338,Residential land / Plot in Ilavala Hobli,₹2.4 Cr,"14,400 sqft",Plot/Land,Ilavala Hobli,24000000.0,14400,1666.7,Plot,
+339,5 Bedroom House in Srirampura,₹1.78 Cr,"1,200 sqft",5 BHK,Srirampura,17800000.0,1200,14833.3,House,5.0
+340,5 Bedroom House in Udayagiri,₹1.1 Cr,"1,200 sqft",5 BHK,Udayagiri,11000000.0,1200,9166.7,House,5.0
+341,Residential land / Plot in HPO and RMS Layout,₹1.15 Cr,"2,400 sqft",Plot/Land,HPO and RMS Layout,11500000.0,2400,4791.7,Plot,
+342,Residential land / Plot in Kesare,₹36 Lac,"1,800 sqft",Plot/Land,Kesare,3600000.0,1800,2000.0,Plot,
+343,Residential land / Plot in Lalithadripura,₹98.5 Lac,"2,812 sqft",Plot/Land,Lalithadripura,9850000.0,2812,3502.8,Plot,
+344,Residential land / Plot in 1st Stage Vijayanagar,₹1.62 Cr,"1,200 sqft",Plot/Land,1st Stage Vijayanagar,16200000.0,1200,13500.0,Plot,
+345,Residential land / Plot in Kesare,₹56.25 Lac,"1,876 sqft",Plot/Land,Kesare,5625000.0,1876,2998.4,Plot,
+346,3 BHK Independent Builder Floor in KR Nagar,₹75 Lac,"2,400 sqft",3 BHK,KR Nagar,7500000.0,2400,3125.0,House,3.0
+347,Residential land / Plot in Basaveshwara nagar vijayanagar 4th stage,₹77 Lac,"1,630 sqft",Plot/Land,Basaveshwara nagar vijayanagar 4th stage,7700000.0,1630,4723.9,Plot,
+348,4 Bedroom House in E and F Block,₹3.1 Cr,"1,200 sqft",4 BHK,E and F Block,31000000.0,1200,25833.3,House,4.0
+350,Residential land / Plot in K.R. Srinivasan IPS Nagar,₹66 Lac,"1,200 sqft",Plot/Land,K.R. Srinivasan IPS Nagar,6600000.0,1200,5500.0,Plot,
+351,Residential land / Plot in Manuganahalli,₹15.1 Lac,755 sqft,Plot/Land,Manuganahalli,1510000.0,755,2000.0,Plot,
+352,3 Bedroom House in Azeez Sait Nagar,₹45 Lac,860 sqft,3 BHK,Azeez Sait Nagar,4500000.0,860,5232.6,House,3.0
+353,Residential land / Plot in Doora,₹5 Cr,"87,120 sqft",Plot/Land,Doora,50000000.0,87120,573.9,Plot,
+354,3 Bedroom House in Gurur,₹80 Lac,"2,178 sqft",3 BHK,Gurur,8000000.0,2178,3673.1,House,3.0
+356,Residential land / Plot in Yelwala,₹38 Lac,"1,550 sqft",Plot/Land,Yelwala,3800000.0,1550,2451.6,Plot,
+357,5 BHK Independent Builder Floor in Ramanahalli,₹1.05 Cr,"1,200 sqft",5 BHK,Ramanahalli,10500000.0,1200,8750.0,House,5.0
+358,3 Bedroom House in Bugathagalli,₹1.6 Cr,"2,400 sqft",3 BHK,Bugathagalli,16000000.0,2400,6666.7,House,3.0
+359,Residential land / Plot in RT Nagar,₹1.32 Cr,"2,400 sqft",Plot/Land,RT Nagar,13200000.0,2400,5500.0,Plot,
+360,2 Bedroom House in 4th Stage Kuvempu Nagar,₹1.5 Cr,"1,200 sqft",2 BHK,4th Stage Kuvempu Nagar,15000000.0,1200,12500.0,House,2.0
+361,Residential land / Plot in Lalithadripura,₹40 Lac,600 sqft,Plot/Land,Lalithadripura,4000000.0,600,6666.7,Plot,
+362,Residential land / Plot in Elivala ,₹40 Lac,"1,200 sqft",Plot/Land,Elivala ,4000000.0,1200,3333.3,Plot,
+363,3 BHK Independent Builder Floor in Police Layout,₹78 Lac,"1,200 sqft",3 BHK,Police Layout,7800000.0,1200,6500.0,House,3.0
+364,Residential land / Plot in JP Nagar 2nd Stage,₹1.81 Cr,"2,700 sqft",Plot/Land,JP Nagar 2nd Stage,18100000.0,2700,6703.7,Plot,
+365,Residential land / Plot in Bugathagalli,₹46 Lac,"1,200 sqft",Plot/Land,Bugathagalli,4600000.0,1200,3833.3,Plot,
+366,Residential land / Plot in Periyapatna,₹2.5 Cr,"283,140 sqft",Plot/Land,Periyapatna,25000000.0,283140,88.3,Plot,
+367,Residential land / Plot in Yedahalli,₹41 Lac,"1,250 sqft",Plot/Land,Yedahalli,4100000.0,1250,3280.0,Plot,
+368,4 BHK Independent Builder Floor in Lalithmahal Nagar,₹4.5 Cr,"10,000 sqft",4 BHK,Lalithmahal Nagar,45000000.0,10000,4500.0,House,4.0
+369,Residential land / Plot in Dadadahalli,₹60 Lac,"2,400 sqft",Plot/Land,Dadadahalli,6000000.0,2400,2500.0,Plot,
+370,Residential land / Plot in ramohalli,₹31.8 Lac,"1,200 sqft",Plot/Land,ramohalli,3180000.0,1200,2650.0,Plot,
+371,4 Bedroom House in D Block Vijay Nagar 3rd Stage,₹2.1 Cr,"1,200 sqft",4 BHK,D Block Vijay Nagar 3rd Stage,21000000.0,1200,17500.0,House,4.0
+372,3 Bedroom House in Koorgalli,₹1.58 Cr,"4,312,440 sqft",3 BHK,Koorgalli,15800000.0,4312440,3.7,House,3.0
+373,Residential land / Plot in infosys,₹3.3 Cr,"5,500 sqft",Plot/Land,infosys,33000000.0,5500,6000.0,Plot,
+374,3 Bedroom House in Rajarajeshwari Nagar,₹1.35 Cr,"1,260 sqft",3 BHK,Rajarajeshwari Nagar,13500000.0,1260,10714.3,House,3.0
+375,Residential land / Plot in Kesare,₹56.25 Lac,"1,876 sqft",Plot/Land,Kesare,5625000.0,1876,2998.4,Plot,
+376,Residential land / Plot in Jayapura,₹56 Lac,"3,480 sqft",Plot/Land,Jayapura,5600000.0,3480,1609.2,Plot,
+377,Residential land / Plot in Sardar Vallabh Bhai Patel Nagar,₹40 Lac,600 sqft,Plot/Land,Sardar Vallabh Bhai Patel Nagar,4000000.0,600,6666.7,Plot,
+378,"Residential land / Plot in RT Nagar, Yedahalli",₹54 Lac,"1,200 sqft",Plot/Land,"RT Nagar, Yedahalli",5400000.0,1200,4500.0,Plot,
+379,Residential land / Plot in Varuna,₹26 Lac,"1,200 sqft",Plot/Land,Varuna,2600000.0,1200,2166.7,Plot,
+380,Residential property in Shantinagar,₹30 Lac,"1,400 sqft",Plot/Land,Shantinagar,3000000.0,1400,2142.9,Plot,
+381,"Residential land / Plot in Talur Village, Behind Mysore Airport, Kadakola",₹20 Lac,"1,200 sqft",Plot/Land,"Talur Village, Behind Mysore Airport, Kadakola",2000000.0,1200,1666.7,Plot,
+382,4 Bedroom Farm house in Jayapura Hobli,₹1.6 Cr,"11,000 sqft",4 BHK,Jayapura Hobli,16000000.0,11000,1454.5,House,4.0
+383,2 Bedroom House in Lal Bahadur Shastri Nagar,₹95.01 Lac,"1,200 sqft",2 BHK,Lal Bahadur Shastri Nagar,9501000.0,1200,7917.5,House,2.0
+384,Residential land / Plot in Bogadi,₹44 Lac,"1,164 sqft",Plot/Land,Bogadi,4400000.0,1164,3780.1,Plot,
+385,Residential land / Plot in Dadadahalli,₹32 Lac,"1,200 sqft",Plot/Land,Dadadahalli,3200000.0,1200,2666.7,Plot,
+386,Residential land / Plot in Vajamangala,₹85 Lac,"2,400 sqft",Plot/Land,Vajamangala,8500000.0,2400,3541.7,Plot,
+387,1 BHK Independent Builder Floor in Gurur,₹46.5 Lac,850 sqft,1 BHK,Gurur,4650000.0,850,5470.6,House,1.0
+388,Residential land / Plot in Preethi layout,₹72 Lac,"1,200 sqft",Plot/Land,Preethi layout,7200000.0,1200,6000.0,Plot,
+390,3 Bedroom House in Bogadi,₹2.3 Cr,"2,454 sqft",3 BHK,Bogadi,23000000.0,2454,9372.5,House,3.0
+391,3 BHK Flat in Ramachandra Agrahara,₹2.3 Cr,"2,070 sqft",3 BHK,Ramachandra Agrahara,23000000.0,2070,11111.1,House,3.0
+392,Residential land / Plot in Sree Sapthamathrukha Layout,₹1.3 Cr,"2,471 sqft",Plot/Land,Sree Sapthamathrukha Layout,13000000.0,2471,5261.0,Plot,
+393,Residential land / Plot in Nagawala,₹29 Lac,"1,163 sqft",Plot/Land,Nagawala,2900000.0,1163,2493.6,Plot,
+394,Residential land / Plot in Hampapura,₹35.99 Lac,"1,200 sqft",Plot/Land,Hampapura,3599000.0,1200,2999.2,Plot,
+395,Residential land / Plot in Sathgalli,₹1.3 Cr,"2,400 sqft",Plot/Land,Sathgalli,13000000.0,2400,5416.7,Plot,
+396,Residential land / Plot in Hullahalli,₹1.2 Cr,"9,800 sqft",Plot/Land,Hullahalli,12000000.0,9800,1224.5,Plot,
+397,Residential land / Plot in Mallahalli,₹25.99 Lac,"1,200 sqft",Plot/Land,Mallahalli,2599000.0,1200,2165.8,Plot,
+398,Residential land / Plot in Murudagalli,₹4 Cr,"2,152 sqft",Plot/Land,Murudagalli,40000000.0,2152,18587.4,Plot,
+399,3 Bedroom House in Srirampura,₹1.5 Cr,"2,400 sqft",3 BHK,Srirampura,15000000.0,2400,6250.0,House,3.0
+400,Residential land / Plot in Shankara Nagar,₹60 Lac,"1,200 sqft",Plot/Land,Shankara Nagar,6000000.0,1200,5000.0,Plot,
+401,1 Bedroom House in Lashkar Mohalla,₹1.49 Cr,594 sqft,1 BHK,Lashkar Mohalla,14900000.0,594,25084.2,House,1.0
+402,Residential land / Plot in Hootagalli,₹55 Lac,825 sqft,Plot/Land,Hootagalli,5500000.0,825,6666.7,Plot,
+403,Residential land / Plot in Hampapura,₹35 Lac,"1,200 sqft",Plot/Land,Hampapura,3500000.0,1200,2916.7,Plot,
+404,Residential land / Plot in Hampapura,₹37.2 Lac,"1,200 sqft",Plot/Land,Hampapura,3720000.0,1200,3100.0,Plot,
+405,Residential land / Plot in Koorgalli,₹42 Lac,"1,400 sqft",Plot/Land,Koorgalli,4200000.0,1400,3000.0,Plot,
+406,Residential land / Plot in Koorgalli,₹35 Lac,"1,400 sqft",Plot/Land,Koorgalli,3500000.0,1400,2500.0,Plot,
+407,Residential land / Plot in Hampapura,₹36 Lac,"1,200 sqft",Plot/Land,Hampapura,3600000.0,1200,3000.0,Plot,
+408,Residential land / Plot in Elivala ,₹1.5 Cr,"23,957 sqft",Plot/Land,Elivala ,15000000.0,23957,626.1,Plot,
+409,Residential land / Plot in Yelwala,₹46 Lac,"2,800 sqft",Plot/Land,Yelwala,4600000.0,2800,1642.9,Plot,
+410,2 Bedroom House in Srinagara Layout,₹90 Lac,"1,200 sqft",2 BHK,Srinagara Layout,9000000.0,1200,7500.0,House,2.0
+411,2 Bedroom House in Srinagara Layout,₹92 Lac,"1,200 sqft",2 BHK,Srinagara Layout,9200000.0,1200,7666.7,House,2.0
+412,2 Bedroom House in Lal Bahadur Shastri Nagar,₹53.01 Lac,600 sqft,2 BHK,Lal Bahadur Shastri Nagar,5301000.0,600,8835.0,House,2.0
+413,Residential land / Plot in kaveri grameena bank layout,₹1.2 Cr,"2,411 sqft",Plot/Land,kaveri grameena bank layout,12000000.0,2411,4977.2,Plot,
+414,8 Bedroom House in Srirampura,₹2.75 Cr,"2,400 sqft",8 BHK,Srirampura,27500000.0,2400,11458.3,House,8.0
+415,2 BHK Flat in Chamarajapura,₹1.15 Cr,"1,342 sqft",2 BHK,Chamarajapura,11500000.0,1342,8569.3,House,2.0
+416,Residential land / Plot in Kote Hundi,₹45 Lac,"1,200 sqft",Plot/Land,Kote Hundi,4500000.0,1200,3750.0,Plot,
+418,3 BHK Independent Builder Floor in Vidyaranyapura,₹1.2 Cr,920 sqft,3 BHK,Vidyaranyapura,12000000.0,920,13043.5,House,3.0
+419,3 Bedroom House in Dattagalli,₹92 Lac,600 sqft,3 BHK,Dattagalli,9200000.0,600,15333.3,House,3.0
+420,2 BHK Independent Builder Floor in Kuvempunagar,₹4.16 Cr,"3,330 sqft",2 BHK,Kuvempunagar,41600000.0,3330,12492.5,House,2.0
+421,Residential land / Plot in Dattagalli,₹3.6 Cr,"4,260 sqft",Plot/Land,Dattagalli,36000000.0,4260,8450.7,Plot,
+422,Residential land / Plot in Gohalli,₹1.5 Cr,"4,303 sqft",Plot/Land,Gohalli,15000000.0,4303,3485.9,Plot,
+423,Residential land / Plot in Kergalli,₹2.4 Cr,"4,359 sqft",Plot/Land,Kergalli,24000000.0,4359,5505.8,Plot,
+424,4 Bedroom House in Mogarahalli,₹85 Lac,"1,200 sqft",4 BHK,Mogarahalli,8500000.0,1200,7083.3,House,4.0
+425,4 BHK Independent Builder Floor in Nadanahalli,₹75 Lac,600 sqft,4 BHK,Nadanahalli,7500000.0,600,12500.0,House,4.0
+426,2 BHK Flat in KR Mohalla,₹1.15 Cr,"1,342 sqft",2 BHK,KR Mohalla,11500000.0,1342,8569.3,House,2.0
+427,Residential land / Plot in Kuppalur,₹67.38 Lac,"1,846 sqft",Plot/Land,Kuppalur,6738000.0,1846,3650.1,Plot,
+428,2 BHK Independent Builder Floor in Raghavendra Nagar,₹80 Lac,"1,200 sqft",2 BHK,Raghavendra Nagar,8000000.0,1200,6666.7,House,2.0
+429,3 BHK Flat in SBM colony Srirampura 2nd stage,₹1.1 Cr,"1,400 sqft",3 BHK,SBM colony Srirampura 2nd stage,11000000.0,1400,7857.1,House,3.0
+430,Residential property in Talakadu,₹3.72 Cr,"540,144 sqft",Plot/Land,Talakadu,37200000.0,540144,68.9,Plot,
+431,Residential land / Plot in Yelwala,₹28.49 Lac,"1,163 sqft",Plot/Land,Yelwala,2849000.0,1163,2449.7,Plot,
+432,2 Bedroom House in KR Nagar,₹85 Lac,"6,458 sqft",2 BHK,KR Nagar,8500000.0,6458,1316.2,House,2.0
+433,Residential land / Plot in 3rd Stage Sriramapura,₹55 Lac,"1,163 sqft",Plot/Land,3rd Stage Sriramapura,5500000.0,1163,4729.1,Plot,
+434,2 Bedroom House in Hunsur,₹40 Lac,750 sqft,2 BHK,Hunsur,4000000.0,750,5333.3,House,2.0
+435,Residential land / Plot in Varuna,₹32 Lac,"1,200 sqft",Plot/Land,Varuna,3200000.0,1200,2666.7,Plot,
+436,5 Bedroom House in Shanthaveri Gopal Gowda Nagar,₹2.15 Cr,"2,400 sqft",5 BHK,Shanthaveri Gopal Gowda Nagar,21500000.0,2400,8958.3,House,5.0
+437,Residential land / Plot in Hunsur,₹30 Lac,"2,200 sqft",Plot/Land,Hunsur,3000000.0,2200,1363.6,Plot,
+438,Residential land / Plot in Maratikyatana Halli,₹2 Cr,"15,246 sqft",Plot/Land,Maratikyatana Halli,20000000.0,15246,1311.8,Plot,
+439,Residential land / Plot in Siddhartha Layout,₹4.08 Cr,"2,720 sqft",Plot/Land,Siddhartha Layout,40800000.0,2720,15000.0,Plot,
+440,3 Bedroom House in Yelwala,₹79 Lac,600 sqft,3 BHK,Yelwala,7900000.0,600,13166.7,House,3.0
+441,2 Bedroom House in Kalyanagiri,₹75 Lac,850 sqft,2 BHK,Kalyanagiri,7500000.0,850,8823.5,House,2.0
+442,9 Bedroom House in Gayathripuram,₹1.4 Cr,"348,480 sqft",9 BHK,Gayathripuram,14000000.0,348480,40.2,House,9.0
+443,Residential land / Plot in Hunsur,₹48 Lac,"2,800 sqft",Plot/Land,Hunsur,4800000.0,2800,1714.3,Plot,
+444,Residential land / Plot in Pragathi Nagar,₹49.68 Lac,"1,840 sqft",Plot/Land,Pragathi Nagar,4968000.0,1840,2700.0,Plot,
+445,Residential land / Plot in Moulim Nagar,₹60 Lac,"1,386 sqft",Plot/Land,Moulim Nagar,6000000.0,1386,4329.0,Plot,
+446,Residential land / Plot in Varuna,₹32 Lac,"1,453 sqft",Plot/Land,Varuna,3200000.0,1453,2202.3,Plot,
+447,Residential land / Plot in Anagahalli,₹3.6 Cr,"125,952 sqft",Plot/Land,Anagahalli,36000000.0,125952,285.8,Plot,
+448,Residential land / Plot in Gejjagalli,₹25 Lac,581 sqft,Plot/Land,Gejjagalli,2500000.0,581,4302.9,Plot,
+449,Residential land / Plot in Vyasthi Serenity Manuganahalli Ilwala Mysore,₹12.6 Lac,"1,200 sqft",Plot/Land,Vyasthi Serenity Manuganahalli Ilwala Mysore,1260000.0,1200,1050.0,Plot,
+450,Residential land / Plot in Kadakola,₹38 Lac,"1,200 sqft",Plot/Land,Kadakola,3800000.0,1200,3166.7,Plot,
+451,Residential land / Plot in Saligrama,₹70 Lac,"43,560 sqft",Plot/Land,Saligrama,7000000.0,43560,160.7,Plot,
+452,Residential land / Plot in Ilavala Hobli,₹54 Lac,"1,550 sqft",Plot/Land,Ilavala Hobli,5400000.0,1550,3483.9,Plot,
+453,Residential land / Plot in Elivala ,₹42 Lac,"1,385 sqft",Plot/Land,Elivala ,4200000.0,1385,3032.5,Plot,
+454,Residential land / Plot in Maratikyatana Halli,₹2.64 Cr,"4,800 sqft",Plot/Land,Maratikyatana Halli,26400000.0,4800,5500.0,Plot,
+455,Residential land / Plot in Moulim Nagar,₹1.56 Cr,"2,400 sqft",Plot/Land,Moulim Nagar,15600000.0,2400,6500.0,Plot,
+456,Residential land / Plot in Tirumakudalu Narasipura,₹65 Lac,"3,280 sqft",Plot/Land,Tirumakudalu Narasipura,6500000.0,3280,1981.7,Plot,
+457,Residential land / Plot in Maidanahalli,₹1.3 Cr,"4,935 sqft",Plot/Land,Maidanahalli,13000000.0,4935,2634.2,Plot,
+458,Residential land / Plot in Thaluru,₹18 Lac,"1,200 sqft",Plot/Land,Thaluru,1800000.0,1200,1500.0,Plot,
+459,Residential land / Plot in Sindhuvalli,₹19.8 Lac,"1,200 sqft",Plot/Land,Sindhuvalli,1980000.0,1200,1650.0,Plot,
+460,6 Bedroom House in 2nd Stage Vijay Nagar,₹2.55 Cr,"2,400 sqft",6 BHK,2nd Stage Vijay Nagar,25500000.0,2400,10625.0,House,6.0
+461,Residential land / Plot in Kumarabeedu,₹27.44 Lac,"1,193 sqft",Plot/Land,Kumarabeedu,2744000.0,1193,2300.1,Plot,
+462,Residential land / Plot in Bandipalya,₹24 Lac,600 sqft,Plot/Land,Bandipalya,2400000.0,600,4000.0,Plot,
+463,Residential land / Plot in Vajamangala,₹75.9 Lac,"1,614 sqft",Plot/Land,Vajamangala,7590000.0,1614,4702.6,Plot,
+464,Residential land / Plot in Yelwala,₹35 Lac,"1,600 sqft",Plot/Land,Yelwala,3500000.0,1600,2187.5,Plot,
+465,3 Bedroom House in Lingambudhi Kere,₹1.5 Cr,"1,500 sqft",3 BHK,Lingambudhi Kere,15000000.0,1500,10000.0,House,3.0
+466,3 BHK Flat in Yaraganahalli,₹1.55 Cr,"1,717 sqft",3 BHK,Yaraganahalli,15500000.0,1717,9027.4,House,3.0
+467,Residential land / Plot in Nagawala,₹46.52 Lac,"2,325 sqft",Plot/Land,Nagawala,4652000.0,2325,2000.9,Plot,
+468,Residential land / Plot in Yelwala,₹29 Lac,"1,200 sqft",Plot/Land,Yelwala,2900000.0,1200,2416.7,Plot,
+469,Residential land / Plot in Manuganahalli Hunsur road,₹22.2 Lac,"1,200 sqft",Plot/Land,Manuganahalli Hunsur road,2220000.0,1200,1850.0,Plot,
+470,Residential land / Plot in Allanahalli Layout,₹1.07 Cr,"2,145 sqft",Plot/Land,Allanahalli Layout,10700000.0,2145,4988.3,Plot,
+471,4 BHK Independent Builder Floor in Talakadu,₹1.3 Cr,"3,000 sqft",4 BHK,Talakadu,13000000.0,3000,4333.3,House,4.0
+472,Residential land / Plot in Dadadahalli,₹65 Lac,"2,325 sqft",Plot/Land,Dadadahalli,6500000.0,2325,2795.7,Plot,
+473,Residential land / Plot in Mahadevpura Road,₹20.4 Lac,"1,200 sqft",Plot/Land,Mahadevpura Road,2040000.0,1200,1700.0,Plot,
+474,Residential land / Plot in Yelwala,₹55 Lac,"1,200 sqft",Plot/Land,Yelwala,5500000.0,1200,4583.3,Plot,
+475,Residential land / Plot in Srinagara Layout,₹55 Lac,"1,163 sqft",Plot/Land,Srinagara Layout,5500000.0,1163,4729.1,Plot,
+476,Residential land / Plot in Devagahalli,₹15 Lac,660 sqft,Plot/Land,Devagahalli,1500000.0,660,2272.7,Plot,
+477,Residential land / Plot in Shrinivasan ips nagar,₹95 Lac,"1,200 sqft",Plot/Land,Shrinivasan ips nagar,9500000.0,1200,7916.7,Plot,
+478,Residential land / Plot in 4th Stage Vijayanagar,₹1.95 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,19500000.0,2400,8125.0,Plot,
+479,Residential land / Plot in Vajamangala,₹54 Lac,"1,500 sqft",Plot/Land,Vajamangala,5400000.0,1500,3600.0,Plot,
+480,Residential land / Plot in Chikkanahalli,₹40 Lac,"1,500 sqft",Plot/Land,Chikkanahalli,4000000.0,1500,2666.7,Plot,
+481,4 BHK Flat in KRS Road,₹1.5 Cr,"2,200 sqft",4 BHK,KRS Road,15000000.0,2200,6818.2,House,4.0
+482,4 Bedroom House in Mandi Mohalla,₹65 Lac,981 sqft,4 BHK,Mandi Mohalla,6500000.0,981,6625.9,House,4.0
+483,3 BHK Flat in Madagalli,₹1.12 Cr,"1,580 sqft",3 BHK,Madagalli,11200000.0,1580,7088.6,House,3.0
+484,6 BHK Independent Builder Floor in Gokulam 1st Stage,₹2.2 Cr,600 sqft,6 BHK,Gokulam 1st Stage,22000000.0,600,36666.7,House,6.0
+485,Residential land / Plot in Nagarathahalli,₹35 Lac,"1,200 sqft",Plot/Land,Nagarathahalli,3500000.0,1200,2916.7,Plot,
+486,Residential land / Plot in Kesare,₹47 Lac,"1,200 sqft",Plot/Land,Kesare,4700000.0,1200,3916.7,Plot,
+487,Residential land / Plot in Shyadanahalli,₹15 Lac,600 sqft,Plot/Land,Shyadanahalli,1500000.0,600,2500.0,Plot,
+488,3 Bedroom House in Metagalli,₹2 Cr,"14,208 sqft",3 BHK,Metagalli,20000000.0,14208,1407.7,House,3.0
+489,Residential land / Plot in Srinagara Layout,₹90 Lac,"1,800 sqft",Plot/Land,Srinagara Layout,9000000.0,1800,5000.0,Plot,
+490,Residential land / Plot in Varuna,₹42 Lac,"1,800 sqft",Plot/Land,Varuna,4200000.0,1800,2333.3,Plot,
+491,Residential land / Plot in Nagawala,₹25 Lac,"1,200 sqft",Plot/Land,Nagawala,2500000.0,1200,2083.3,Plot,
+492,2 Bedroom House in Vijay Nagar 2nd Stage,₹2 Cr,"1,200 sqft",2 BHK,Vijay Nagar 2nd Stage,20000000.0,1200,16666.7,House,2.0
+493,"2 Bedroom House in Vasanthnagar, Aalanahalli. Mysore",₹95 Lac,12 sqft,2 BHK,"Vasanthnagar, Aalanahalli. Mysore",9500000.0,12,791666.7,House,2.0
+494,8 Bedroom House in Ilavala Hobli,₹2.5 Cr,"2,400 sqft",8 BHK,Ilavala Hobli,25000000.0,2400,10416.7,House,8.0
+495,4 Bedroom House in HPO and RMS Layout,₹1.1 Cr,"2,400 sqft",4 BHK,HPO and RMS Layout,11000000.0,2400,4583.3,House,4.0
+496,3 Bedroom House in Bogadi,₹2.3 Cr,"2,453 sqft",3 BHK,Bogadi,23000000.0,2453,9376.3,House,3.0
+497,Residential land / Plot in Nanjangud,₹1.6 Cr,"57,934 sqft",Plot/Land,Nanjangud,16000000.0,57934,276.2,Plot,
+498,Residential land / Plot in Hampapura,₹3.15 Cr,"43,560 sqft",Plot/Land,Hampapura,31500000.0,43560,723.1,Plot,
+499,Residential land / Plot in Hampapura,₹3.15 Cr,"36,000 sqft",Plot/Land,Hampapura,31500000.0,36000,875.0,Plot,
+500,2 Bedroom House in Ramabai nagar,₹82 Lac,"1,200 sqft",2 BHK,Ramabai nagar,8200000.0,1200,6833.3,House,2.0
+501,7 Bedroom House in CFTRI layout,₹2 Cr,"1,550 sqft",7 BHK,CFTRI layout,20000000.0,1550,12903.2,House,7.0
+502,Residential land / Plot in Srirampura,₹1.08 Cr,"2,400 sqft",Plot/Land,Srirampura,10800000.0,2400,4500.0,Plot,
+503,Residential land / Plot in Gungralchatra,₹30 Lac,"1,495 sqft",Plot/Land,Gungralchatra,3000000.0,1495,2006.7,Plot,
+504,Residential land / Plot in KRS Road,₹55 Lac,"1,200 sqft",Plot/Land,KRS Road,5500000.0,1200,4583.3,Plot,
+505,4 Bedroom House in JP Nagar,₹1.8 Cr,"1,200 sqft",4 BHK,JP Nagar,18000000.0,1200,15000.0,House,4.0
+506,Residential land / Plot in Lalithadripura,₹39 Lac,610 sqft,Plot/Land,Lalithadripura,3900000.0,610,6393.4,Plot,
+507,3 Bedroom House in Alanahalli,₹1.62 Cr,"2,400 sqft",3 BHK,Alanahalli,16200000.0,2400,6750.0,House,3.0
+508,Residential land / Plot in 4th Stage Vijayanagar,₹2.33 Cr,"3,874 sqft",Plot/Land,4th Stage Vijayanagar,23300000.0,3874,6014.5,Plot,
+509,2 Bedroom House in Shakthinagar,₹1.75 Cr,"1,500 sqft",2 BHK,Shakthinagar,17500000.0,1500,11666.7,House,2.0
+510,1 Bedroom Farm house in Heggadadevankote,₹60 Lac,"65,340 sqft",1 BHK,Heggadadevankote,6000000.0,65340,91.8,House,1.0
+511,Residential land / Plot in Sree Sapthamathrukha Layout,₹1.3 Cr,"2,470 sqft",Plot/Land,Sree Sapthamathrukha Layout,13000000.0,2470,5263.2,Plot,
+512,Residential land / Plot in Yelwala,₹31.2 Lac,"1,200 sqft",Plot/Land,Yelwala,3120000.0,1200,2600.0,Plot,
+513,Residential land / Plot in Basthipura,₹46.48 Lac,"1,162 sqft",Plot/Land,Basthipura,4648000.0,1162,4000.0,Plot,
+514,Residential land / Plot in Hootagalli,₹71.25 Lac,"1,250 sqft",Plot/Land,Hootagalli,7125000.0,1250,5700.0,Plot,
+515,Residential land / Plot in Hebbal,₹99.76 Lac,"2,320 sqft",Plot/Land,Hebbal,9976000.0,2320,4300.0,Plot,
+516,Residential land / Plot in Rajendra Nagar,₹1.05 Cr,"1,750 sqft",Plot/Land,Rajendra Nagar,10500000.0,1750,6000.0,Plot,
+517,Residential land / Plot in Parasaiyyana Hundi,₹1.8 Cr,"3,276 sqft",Plot/Land,Parasaiyyana Hundi,18000000.0,3276,5494.5,Plot,
+518,Residential land / Plot in Sree Sapthamathrukha Layout,₹31 Lac,"1,200 sqft",Plot/Land,Sree Sapthamathrukha Layout,3100000.0,1200,2583.3,Plot,
+519,Residential land / Plot in Srinagara Layout,₹96 Lac,"1,743 sqft",Plot/Land,Srinagara Layout,9600000.0,1743,5507.7,Plot,
+520,Residential land / Plot in Anandhasagara Layout,₹96 Lac,"2,403 sqft",Plot/Land,Anandhasagara Layout,9600000.0,2403,3995.0,Plot,
+521,Residential land / Plot in DTS RAO NAGAR LAYOUT SATHAGALLI VILLAGE,₹1.2 Cr,"2,400 sqft",Plot/Land,DTS RAO NAGAR LAYOUT SATHAGALLI VILLAGE,12000000.0,2400,5000.0,Plot,
+522,Residential land / Plot in Ramanahalli,₹30 Lac,"1,600 sqft",Plot/Land,Ramanahalli,3000000.0,1600,1875.0,Plot,
+523,Residential land / Plot in Bugathagalli,₹48 Lac,"1,200 sqft",Plot/Land,Bugathagalli,4800000.0,1200,4000.0,Plot,
+524,6 Bedroom House in Rajiv Nagar 2nd Stage,₹3.8 Cr,40 sqft,6 BHK,Rajiv Nagar 2nd Stage,38000000.0,40,950000.0,House,6.0
+525,6 Bedroom House in Maratikyatana Halli,₹1.4 Cr,"1,340 sqft",6 BHK,Maratikyatana Halli,14000000.0,1340,10447.8,House,6.0
+526,Residential land / Plot in Koodanahalli,₹14.52 Lac,581 sqft,Plot/Land,Koodanahalli,1452000.0,581,2499.1,Plot,
+527,3 Bedroom House in Vidyashankara Layout,₹3 Cr,"2,400 sqft",3 BHK,Vidyashankara Layout,30000000.0,2400,12500.0,House,3.0
+528,Residential land / Plot in Srirampura,₹1.2 Cr,"2,400 sqft",Plot/Land,Srirampura,12000000.0,2400,5000.0,Plot,
+529,Residential land / Plot in Nadanahalli,₹36 Lac,"1,500 sqft",Plot/Land,Nadanahalli,3600000.0,1500,2400.0,Plot,
+530,Residential land / Plot in Jayapura,₹1 Cr,"1,500 sqft",Plot/Land,Jayapura,10000000.0,1500,6666.7,Plot,
+531,Residential land / Plot in Ramanahalli,₹30 Lac,"1,200 sqft",Plot/Land,Ramanahalli,3000000.0,1200,2500.0,Plot,
+532,Residential land / Plot in Hanchya,₹1.56 Cr,"2,400 sqft",Plot/Land,Hanchya,15600000.0,2400,6500.0,Plot,
+533,5 Bedroom House in Block G Ramakrishnanagar,₹1.1 Cr,600 sqft,5 BHK,Block G Ramakrishnanagar,11000000.0,600,18333.3,House,5.0
+534,2 Bedroom House in Hebbal 2nd Stage,₹68 Lac,520 sqft,2 BHK,Hebbal 2nd Stage,6800000.0,520,13076.9,House,2.0
+535,Residential land / Plot in gss temple hill view,₹35 Lac,"1,453 sqft",Plot/Land,gss temple hill view,3500000.0,1453,2408.8,Plot,
+536,2 BHK Independent Builder Floor in Periyapatna,₹48 Lac,"1,050 sqft",2 BHK,Periyapatna,4800000.0,1050,4571.4,House,2.0
+537,Residential land / Plot in Hunsur,₹17 Lac,"1,200 sqft",Plot/Land,Hunsur,1700000.0,1200,1416.7,Plot,
+538,Residential land / Plot in Tirumakudalu Narasipura,₹45 Lac,"1,600 sqft",Plot/Land,Tirumakudalu Narasipura,4500000.0,1600,2812.5,Plot,
+539,Residential land / Plot in Hunsur,₹22 Lac,"1,500 sqft",Plot/Land,Hunsur,2200000.0,1500,1466.7,Plot,
+540,Residential land / Plot in Kergalli,₹60 Lac,"1,200 sqft",Plot/Land,Kergalli,6000000.0,1200,5000.0,Plot,
+541,Residential land / Plot in Kenchalagudu,₹45 Lac,"1,400 sqft",Plot/Land,Kenchalagudu,4500000.0,1400,3214.3,Plot,
+542,Residential land / Plot in Dadadahalli,₹75 Lac,"1,500 sqft",Plot/Land,Dadadahalli,7500000.0,1500,5000.0,Plot,
+543,Residential land / Plot in Nanjangud,₹36 Lac,"2,400 sqft",Plot/Land,Nanjangud,3600000.0,2400,1500.0,Plot,
+544,3 Bedroom House in KR Mohalla,₹1.43 Cr,"1,189 sqft",3 BHK,KR Mohalla,14300000.0,1189,12026.9,House,3.0
+545,Residential land / Plot in Huyilalu,₹75.2 Lac,"2,403 sqft",Plot/Land,Huyilalu,7520000.0,2403,3129.4,Plot,
+546,Residential land / Plot in Mogarahalli,₹1.16 Cr,"2,600 sqft",Plot/Land,Mogarahalli,11600000.0,2600,4461.5,Plot,
+547,5 Bedroom House in Hebbal 1st Stage,₹1 Cr,600 sqft,5 BHK,Hebbal 1st Stage,10000000.0,600,16666.7,House,5.0
+548,Residential land / Plot in Koodanahalli,₹32 Lac,"1,163 sqft",Plot/Land,Koodanahalli,3200000.0,1163,2751.5,Plot,
+549,6 Bedroom House in JP Nagar,₹1.75 Cr,"1,400 sqft",6 BHK,JP Nagar,17500000.0,1400,12500.0,House,6.0
+550,Residential land / Plot in Uttanahalli,₹72 Lac,"2,400 sqft",Plot/Land,Uttanahalli,7200000.0,2400,3000.0,Plot,
+551,2 BHK Flat in Bannimantap,₹90 Lac,"1,430 sqft",2 BHK,Bannimantap,9000000.0,1430,6293.7,House,2.0
+552,Residential land / Plot in Vajamangala,₹36 Lac,"1,200 sqft",Plot/Land,Vajamangala,3600000.0,1200,3000.0,Plot,
+553,Residential land / Plot in Ilavala Hobli,₹32.5 Lac,"1,200 sqft",Plot/Land,Ilavala Hobli,3250000.0,1200,2708.3,Plot,
+554,Residential land / Plot in Ilavala Hobli,₹30 Lac,690 sqft,Plot/Land,Ilavala Hobli,3000000.0,690,4347.8,Plot,
+555,Residential land / Plot in Yelwala,₹30 Lac,690 sqft,Plot/Land,Yelwala,3000000.0,690,4347.8,Plot,
+556,Residential land / Plot in Kesare,₹42 Lac,"1,200 sqft",Plot/Land,Kesare,4200000.0,1200,3500.0,Plot,
+557,Residential land / Plot in Dattagalli,₹1.22 Cr,"1,200 sqft",Plot/Land,Dattagalli,12200000.0,1200,10166.7,Plot,
+558,Residential land / Plot in 4th Stage Vijayanagar,₹1.75 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,17500000.0,2400,7291.7,Plot,
+559,3 Bedroom Farm house in Hunsur,₹2.97 Cr,"167,000 sqft",3 BHK,Hunsur,29700000.0,167000,177.8,House,3.0
+560,Residential land / Plot in Darasaguppe,₹52 Lac,"15,000 sqft",Plot/Land,Darasaguppe,5200000.0,15000,346.7,Plot,
+561,Residential land / Plot in Sindhuvalli,₹23.04 Lac,"2,400 sqft",Plot/Land,Sindhuvalli,2304000.0,2400,960.0,Plot,
+562,Residential land / Plot in Vidyashankara Layout,₹78 Lac,"1,200 sqft",Plot/Land,Vidyashankara Layout,7800000.0,1200,6500.0,Plot,
+563,2 Bedroom House in Bogadi,₹2 Cr,"3,375 sqft",2 BHK,Bogadi,20000000.0,3375,5925.9,House,2.0
+564,Residential land / Plot in Nagarathahalli,₹90 Lac,"2,325 sqft",Plot/Land,Nagarathahalli,9000000.0,2325,3871.0,Plot,
+565,Residential land / Plot in Udayagiri,₹1.44 Cr,"3,200 sqft",Plot/Land,Udayagiri,14400000.0,3200,4500.0,Plot,
+566,Residential land / Plot in Basvanguddi,₹99 Lac,"4,000 sqft",Plot/Land,Basvanguddi,9900000.0,4000,2475.0,Plot,
+567,Residential land / Plot in T Narsipura Road,₹42 Lac,"1,200 sqft",Plot/Land,T Narsipura Road,4200000.0,1200,3500.0,Plot,
+568,Residential land / Plot in Hootagalli,₹55 Lac,908 sqft,Plot/Land,Hootagalli,5500000.0,908,6057.3,Plot,
+569,3 Bedroom House in Gokulam 3rd Stage,₹3.98 Cr,"3,417 sqft",3 BHK,Gokulam 3rd Stage,39800000.0,3417,11647.6,House,3.0
+570,2 BHK Flat in KRS Road,₹58 Lac,"1,250 sqft",2 BHK,KRS Road,5800000.0,1250,4640.0,House,2.0
+571,2 Bedroom House in Kesare,₹82 Lac,"1,100 sqft",2 BHK,Kesare,8200000.0,1100,7454.5,House,2.0
+572,Residential land / Plot in Yelwala,₹29 Lac,"1,200 sqft",Plot/Land,Yelwala,2900000.0,1200,2416.7,Plot,
+573,Residential land / Plot in Srinagara Layout,₹64 Lac,"1,615 sqft",Plot/Land,Srinagara Layout,6400000.0,1615,3962.8,Plot,
+574,3 Bedroom House in Bogadi,₹1.88 Cr,"1,200 sqft",3 BHK,Bogadi,18800000.0,1200,15666.7,House,3.0
+575,2 BHK Independent Builder Floor in Bogadi,₹72.4 Lac,"1,068 sqft",2 BHK,Bogadi,7240000.0,1068,6779.0,House,2.0
+576,3 Bedroom House in 4th Stage Vijayanagar,₹1.7 Cr,"1,200 sqft",3 BHK,4th Stage Vijayanagar,17000000.0,1200,14166.7,House,3.0
+577,4 BHK Independent Builder Floor in Hebbal,₹1 Cr,600 sqft,4 BHK,Hebbal,10000000.0,600,16666.7,House,4.0
+578,4 BHK Independent Builder Floor in 1st Stage Vijayanagar,₹3.5 Cr,"2,400 sqft",4 BHK,1st Stage Vijayanagar,35000000.0,2400,14583.3,House,4.0
+579,4 Bedroom House in 4th Stage Vijayanagar,₹1.95 Cr,"1,500 sqft",4 BHK,4th Stage Vijayanagar,19500000.0,1500,13000.0,House,4.0
+580,Residential land / Plot in Lalithadripura,₹59.5 Lac,"2,400 sqft",Plot/Land,Lalithadripura,5950000.0,2400,2479.2,Plot,
+581,Residential land / Plot in 4th Stage Vijayanagar,₹2.23 Cr,"3,430 sqft",Plot/Land,4th Stage Vijayanagar,22300000.0,3430,6501.5,Plot,
+582,Residential land / Plot in Hebbal,₹70 Lac,"1,500 sqft",Plot/Land,Hebbal,7000000.0,1500,4666.7,Plot,
+583,Residential land / Plot in Bogadi Road,₹27.47 Lac,999 sqft,Plot/Land,Bogadi Road,2747000.0,999,2749.7,Plot,
+584,Residential land / Plot in Sardar Vallabh Bhai Patel Nagar,₹51.6 Lac,"1,200 sqft",Plot/Land,Sardar Vallabh Bhai Patel Nagar,5160000.0,1200,4300.0,Plot,
+585,Residential land / Plot in Sardar Vallabh Bhai Patel Nagar,₹80.56 Lac,"1,831 sqft",Plot/Land,Sardar Vallabh Bhai Patel Nagar,8056000.0,1831,4399.8,Plot,
+586,Residential land / Plot in Sathgalli,₹20.4 Lac,"1,200 sqft",Plot/Land,Sathgalli,2040000.0,1200,1700.0,Plot,
+587,Residential land / Plot in Uttanahalli,₹39 Lac,"1,200 sqft",Plot/Land,Uttanahalli,3900000.0,1200,3250.0,Plot,
+588,3 Bedroom House in 1st Stage Vijayanagar,₹3.2 Cr,"2,400 sqft",3 BHK,1st Stage Vijayanagar,32000000.0,2400,13333.3,House,3.0
+589,Residential land / Plot in T Narsipura Road,₹28.8 Lac,"1,200 sqft",Plot/Land,T Narsipura Road,2880000.0,1200,2400.0,Plot,
+590,Residential land / Plot in Srirampura,₹78.46 Lac,"1,453 sqft",Plot/Land,Srirampura,7846000.0,1453,5399.9,Plot,
+591,Residential land / Plot in T Narsipura Road,₹60.45 Lac,"3,100 sqft",Plot/Land,T Narsipura Road,6045000.0,3100,1950.0,Plot,
+592,Residential land / Plot in Sathgalli,₹40.8 Lac,"2,400 sqft",Plot/Land,Sathgalli,4080000.0,2400,1700.0,Plot,
+593,Residential land / Plot in Maidanahalli,₹81.12 Lac,"2,400 sqft",Plot/Land,Maidanahalli,8112000.0,2400,3380.0,Plot,
+594,Residential land / Plot in Kergalli,₹85 Lac,"1,500 sqft",Plot/Land,Kergalli,8500000.0,1500,5666.7,Plot,
+595,Residential land / Plot in 4th Stage Vijayanagar,₹2.75 Cr,"4,000 sqft",Plot/Land,4th Stage Vijayanagar,27500000.0,4000,6875.0,Plot,
+596,Residential land / Plot in Nanjangud,₹37.22 Lac,"1,163 sqft",Plot/Land,Nanjangud,3722000.0,1163,3200.3,Plot,
+597,Residential land / Plot in Hebbal,₹1.2 Cr,"2,400 sqft",Plot/Land,Hebbal,12000000.0,2400,5000.0,Plot,
+598,Residential land / Plot in Yelwala,₹29 Lac,"1,163 sqft",Plot/Land,Yelwala,2900000.0,1163,2493.6,Plot,
+599,Residential land / Plot in Elivala ,₹27.91 Lac,"1,163 sqft",Plot/Land,Elivala ,2791000.0,1163,2399.8,Plot,
+600,2 BHK Flat in Jayalakshmipuram,₹65 Lac,"1,200 sqft",2 BHK,Jayalakshmipuram,6500000.0,1200,5416.7,House,2.0
+601,2 BHK Flat in Bannimantap,₹55 Lac,"1,050 sqft",2 BHK,Bannimantap,5500000.0,1050,5238.1,House,2.0
+602,Residential land / Plot in Uttanahalli,₹19.5 Lac,600 sqft,Plot/Land,Uttanahalli,1950000.0,600,3250.0,Plot,
+603,Residential land / Plot in Elivala ,₹36 Lac,"2,400 sqft",Plot/Land,Elivala ,3600000.0,2400,1500.0,Plot,
+604,Residential land / Plot in Gohalli,₹27 Lac,"1,200 sqft",Plot/Land,Gohalli,2700000.0,1200,2250.0,Plot,
+605,Residential land / Plot in Jayapura,₹3.25 Cr,"32,670 sqft",Plot/Land,Jayapura,32500000.0,32670,994.8,Plot,
+606,Residential land / Plot in Nazarbhad,₹4.68 Cr,"4,925 sqft",Plot/Land,Nazarbhad,46800000.0,4925,9502.5,Plot,
+607,Residential land / Plot in Basthipura,₹60 Lac,"1,500 sqft",Plot/Land,Basthipura,6000000.0,1500,4000.0,Plot,
+608,Residential land / Plot in Dattagalli 3rd Stage,₹60.42 Lac,"1,162 sqft",Plot/Land,Dattagalli 3rd Stage,6042000.0,1162,5199.7,Plot,
+609,Residential land / Plot in Dattagalli 3rd Stage,₹72.65 Lac,"1,453 sqft",Plot/Land,Dattagalli 3rd Stage,7265000.0,1453,5000.0,Plot,
+610,4 Bedroom House in Dattagalli 3rd Stage,₹2.15 Cr,"1,200 sqft",4 BHK,Dattagalli 3rd Stage,21500000.0,1200,17916.7,House,4.0
+611,Residential land / Plot in Maidanahalli,₹36 Lac,"1,200 sqft",Plot/Land,Maidanahalli,3600000.0,1200,3000.0,Plot,
+612,Residential land / Plot in Yelwala,₹18.38 Lac,750 sqft,Plot/Land,Yelwala,1838000.0,750,2450.7,Plot,
+613,Residential land / Plot in Yelwala,₹36 Lac,"2,400 sqft",Plot/Land,Yelwala,3600000.0,2400,1500.0,Plot,
+614,3 BHK Flat in Yadavagiri,₹1.35 Cr,"1,800 sqft",3 BHK,Yadavagiri,13500000.0,1800,7500.0,House,3.0
+615,2 BHK Flat in Hebbal,₹1.05 Cr,"1,500 sqft",2 BHK,Hebbal,10500000.0,1500,7000.0,House,2.0
+616,3 Bedroom House in 2nd Stage Vijay Nagar,₹1.6 Cr,"1,200 sqft",3 BHK,2nd Stage Vijay Nagar,16000000.0,1200,13333.3,House,3.0
+617,Residential land / Plot in 4th Stage Vijayanagar,₹2 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,20000000.0,2400,8333.3,Plot,
+618,Residential land / Plot in Srinagara Layout,₹2.83 Cr,"10,890 sqft",Plot/Land,Srinagara Layout,28300000.0,10890,2598.7,Plot,
+619,Residential land / Plot in Roopa Nagar,₹1.5 Cr,"2,720 sqft",Plot/Land,Roopa Nagar,15000000.0,2720,5514.7,Plot,
+620,Residential land / Plot in Maratikyatana Halli,₹36 Lac,"1,500 sqft",Plot/Land,Maratikyatana Halli,3600000.0,1500,2400.0,Plot,
+621,Residential land / Plot in 4th Stage Vijayanagar,₹58 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,5800000.0,1200,4833.3,Plot,
+622,Residential land / Plot in Kote Hundi,₹45.6 Lac,"1,200 sqft",Plot/Land,Kote Hundi,4560000.0,1200,3800.0,Plot,
+623,Residential land / Plot in 4th Stage Vijayanagar,₹60 Lac,"1,500 sqft",Plot/Land,4th Stage Vijayanagar,6000000.0,1500,4000.0,Plot,
+624,3 BHK Independent Builder Floor in Jayalakshmipuram,₹3.25 Cr,"2,700 sqft",3 BHK,Jayalakshmipuram,32500000.0,2700,12037.0,House,3.0
+625,Residential land / Plot in 2nd Stage Vijay Nagar,₹2.96 Cr,"2,580 sqft",Plot/Land,2nd Stage Vijay Nagar,29600000.0,2580,11472.9,Plot,
+626,Residential land / Plot in Belawadi,₹45.6 Lac,"1,200 sqft",Plot/Land,Belawadi,4560000.0,1200,3800.0,Plot,
+627,Residential land / Plot in 3rd Stage Vijayanagar,₹3.25 Cr,"4,000 sqft",Plot/Land,3rd Stage Vijayanagar,32500000.0,4000,8125.0,Plot,
+629,3 BHK Flat in Bogadi,₹1.1 Cr,"1,580 sqft",3 BHK,Bogadi,11000000.0,1580,6962.0,House,3.0
+630,Residential land / Plot in VV Mohalla,₹3.31 Cr,"2,203 sqft",Plot/Land,VV Mohalla,33100000.0,2203,15025.0,Plot,
+631,3 BHK Independent Builder Floor in Gokulam 3rd Stage,₹3.5 Cr,"2,700 sqft",3 BHK,Gokulam 3rd Stage,35000000.0,2700,12963.0,House,3.0
+632,Residential land / Plot in 3rd Stage Vijayanagar,₹2.4 Cr,"2,400 sqft",Plot/Land,3rd Stage Vijayanagar,24000000.0,2400,10000.0,Plot,
+633,3 BHK Independent Builder Floor in Gokulam 3rd Stage,₹3.2 Cr,"3,150 sqft",3 BHK,Gokulam 3rd Stage,32000000.0,3150,10158.7,House,3.0
+634,Residential land / Plot in D Block Vijay Nagar 3rd Stage,₹2.35 Cr,"2,400 sqft",Plot/Land,D Block Vijay Nagar 3rd Stage,23500000.0,2400,9791.7,Plot,
+635,Residential land / Plot in Vijay Nagar 2nd Stage,₹4.25 Cr,"4,000 sqft",Plot/Land,Vijay Nagar 2nd Stage,42500000.0,4000,10625.0,Plot,
+636,Residential land / Plot in Elivala ,₹18 Lac,600 sqft,Plot/Land,Elivala ,1800000.0,600,3000.0,Plot,
+637,Residential land / Plot in Saraswathipuram,₹4 Cr,"3,360 sqft",Plot/Land,Saraswathipuram,40000000.0,3360,11904.8,Plot,
+638,Residential land / Plot in Maidanahalli,₹65 Lac,"2,400 sqft",Plot/Land,Maidanahalli,6500000.0,2400,2708.3,Plot,
+639,2 Bedroom House in Srirampura,₹1.5 Cr,"2,400 sqft",2 BHK,Srirampura,15000000.0,2400,6250.0,House,2.0
+640,2 Bedroom House in JP Nagar,₹1.58 Cr,"1,200 sqft",2 BHK,JP Nagar,15800000.0,1200,13166.7,House,2.0
+641,2 Bedroom House in Lalithadripura,₹1 Cr,"1,200 sqft",2 BHK,Lalithadripura,10000000.0,1200,8333.3,House,2.0
+642,3 Bedroom House in 3rd Stage Sriramapura,₹1.55 Cr,"1,200 sqft",3 BHK,3rd Stage Sriramapura,15500000.0,1200,12916.7,House,3.0
+644,2 Bedroom House in JP Nagar,₹1.55 Cr,"1,200 sqft",2 BHK,JP Nagar,15500000.0,1200,12916.7,House,2.0
+645,Residential land / Plot in Roopa Nagar,₹65 Lac,"1,200 sqft",Plot/Land,Roopa Nagar,6500000.0,1200,5416.7,Plot,
+646,Residential land / Plot in Roopa Nagar,₹2.4 Cr,"5,957 sqft",Plot/Land,Roopa Nagar,24000000.0,5957,4028.9,Plot,
+647,Residential land / Plot in Indira Nagar,₹2.88 Cr,"2,400 sqft",Plot/Land,Indira Nagar,28800000.0,2400,12000.0,Plot,
+648,Residential land / Plot in Roopa Nagar,₹95 Lac,"2,000 sqft",Plot/Land,Roopa Nagar,9500000.0,2000,4750.0,Plot,
+649,Residential land / Plot in Roopa Nagar,₹1.8 Cr,"4,000 sqft",Plot/Land,Roopa Nagar,18000000.0,4000,4500.0,Plot,
+650,4 Bedroom House in D Block Vijay Nagar 3rd Stage,₹3.5 Cr,"2,844 sqft",4 BHK,D Block Vijay Nagar 3rd Stage,35000000.0,2844,12306.6,House,4.0
+651,Residential land / Plot in 4th Stage Vijayanagar,₹2.6 Cr,"4,000 sqft",Plot/Land,4th Stage Vijayanagar,26000000.0,4000,6500.0,Plot,
+652,Residential land / Plot in Ring Road,₹29 Lac,600 sqft,Plot/Land,Ring Road,2900000.0,600,4833.3,Plot,
+653,Residential land / Plot in Lakshmipuram,₹3.31 Cr,"2,650 sqft",Plot/Land,Lakshmipuram,33100000.0,2650,12490.6,Plot,
+654,Residential land / Plot in Lakshmipuram,₹1.56 Cr,"1,200 sqft",Plot/Land,Lakshmipuram,15600000.0,1200,13000.0,Plot,
+655,Residential land / Plot in Kumarabeedu,₹40 Lac,"1,200 sqft",Plot/Land,Kumarabeedu,4000000.0,1200,3333.3,Plot,
+656,Residential land / Plot in Block A JP Nagar,₹1.3 Cr,"1,750 sqft",Plot/Land,Block A JP Nagar,13000000.0,1750,7428.6,Plot,
+657,2 BHK Flat in Siddharthanagar,₹81 Lac,"1,100 sqft",2 BHK,Siddharthanagar,8100000.0,1100,7363.6,House,2.0
+658,Residential land / Plot in Vishwapragna Layout,₹43 Lac,"1,200 sqft",Plot/Land,Vishwapragna Layout,4300000.0,1200,3583.3,Plot,
+659,Residential land / Plot in 4th Stage Vijayanagar,₹1.8 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,18000000.0,2400,7500.0,Plot,
+660,Residential land / Plot in Indira Nagar,₹3.1 Cr,"2,400 sqft",Plot/Land,Indira Nagar,31000000.0,2400,12916.7,Plot,
+661,Residential land / Plot in Roopa Nagar,₹2.7 Cr,"5,958 sqft",Plot/Land,Roopa Nagar,27000000.0,5958,4531.7,Plot,
+662,Residential land / Plot in Roopa Nagar,₹1.72 Cr,"4,000 sqft",Plot/Land,Roopa Nagar,17200000.0,4000,4300.0,Plot,
+663,Residential land / Plot in Indira Nagar,₹4.5 Cr,"3,290 sqft",Plot/Land,Indira Nagar,45000000.0,3290,13677.8,Plot,
+664,Residential land / Plot in Kanakadasa Nagar,₹1.8 Cr,"2,400 sqft",Plot/Land,Kanakadasa Nagar,18000000.0,2400,7500.0,Plot,
+665,Residential land / Plot in Kanakadasa Nagar,₹95 Lac,"1,200 sqft",Plot/Land,Kanakadasa Nagar,9500000.0,1200,7916.7,Plot,
+666,Residential land / Plot in Police Layout,₹65 Lac,"1,200 sqft",Plot/Land,Police Layout,6500000.0,1200,5416.7,Plot,
+667,Residential land / Plot in University Layout,₹1.75 Cr,"3,425 sqft",Plot/Land,University Layout,17500000.0,3425,5109.5,Plot,
+668,4 Bedroom House in 4th Stage Vijayanagar,₹3.5 Cr,"4,500 sqft",4 BHK,4th Stage Vijayanagar,35000000.0,4500,7777.8,House,4.0
+669,Residential land / Plot in Yelwala,₹13.5 Lac,"1,200 sqft",Plot/Land,Yelwala,1350000.0,1200,1125.0,Plot,
+670,Residential land / Plot in Kuvempunagar,₹66 Lac,700 sqft,Plot/Land,Kuvempunagar,6600000.0,700,9428.6,Plot,
+671,Residential land / Plot in 4th Stage Vijayanagar,₹27 Lac,600 sqft,Plot/Land,4th Stage Vijayanagar,2700000.0,600,4500.0,Plot,
+672,Residential land / Plot in Bogadi Road,₹1.25 Cr,"4,574 sqft",Plot/Land,Bogadi Road,12500000.0,4574,2732.8,Plot,
+673,Residential land / Plot in Hebbal,₹36 Lac,"1,200 sqft",Plot/Land,Hebbal,3600000.0,1200,3000.0,Plot,
+674,4 BHK Independent Builder Floor in JP Nagar,₹1.4 Cr,"1,200 sqft",4 BHK,JP Nagar,14000000.0,1200,11666.7,House,4.0
+675,4 Bedroom House in JP Nagar,₹1.6 Cr,"1,200 sqft",4 BHK,JP Nagar,16000000.0,1200,13333.3,House,4.0
+676,2 BHK Flat in Chamarajapura,₹1.3 Cr,"1,325 sqft",2 BHK,Chamarajapura,13000000.0,1325,9811.3,House,2.0
+677,Residential land / Plot in Sharadadevi Nagar,₹1.7 Cr,"2,400 sqft",Plot/Land,Sharadadevi Nagar,17000000.0,2400,7083.3,Plot,
+678,Residential land / Plot in RT Nagar,₹1.12 Cr,"2,400 sqft",Plot/Land,RT Nagar,11200000.0,2400,4666.7,Plot,
+679,Residential land / Plot in RT Nagar,₹1.13 Cr,"2,400 sqft",Plot/Land,RT Nagar,11300000.0,2400,4708.3,Plot,
+681,3 Bedroom House in Lal Bahadur Shastri Nagar,₹55 Lac,600 sqft,3 BHK,Lal Bahadur Shastri Nagar,5500000.0,600,9166.7,House,3.0
+682,Residential land / Plot in Bannur Road,₹56 Lac,"1,200 sqft",Plot/Land,Bannur Road,5600000.0,1200,4666.7,Plot,
+683,Residential land / Plot in Nivedita Nagar,₹1.85 Cr,"2,400 sqft",Plot/Land,Nivedita Nagar,18500000.0,2400,7708.3,Plot,
+684,Residential land / Plot in Bannur Road,₹57 Lac,"1,200 sqft",Plot/Land,Bannur Road,5700000.0,1200,4750.0,Plot,
+685,4 Bedroom House in Tk Layout,₹2.5 Cr,"2,400 sqft",4 BHK,Tk Layout,25000000.0,2400,10416.7,House,4.0
+686,2 BHK Flat in 4th Stage Vijayanagar,₹89 Lac,669 sqft,2 BHK,4th Stage Vijayanagar,8900000.0,669,13303.4,House,2.0
+687,Residential land / Plot in Ramakrishna Nagar,₹2.3 Cr,"2,818 sqft",Plot/Land,Ramakrishna Nagar,23000000.0,2818,8161.8,Plot,
+689,Residential land / Plot in 4th Stage Vijayanagar,₹1.65 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,16500000.0,2400,6875.0,Plot,
+690,3 BHK Flat in Bannur Road,₹1.65 Cr,"1,218 sqft",3 BHK,Bannur Road,16500000.0,1218,13546.8,House,3.0
+691,2 Bedroom House in Srinagara Layout,₹85 Lac,"1,200 sqft",2 BHK,Srinagara Layout,8500000.0,1200,7083.3,House,2.0
+692,3 BHK Independent Builder Floor in Lalithadripura,₹76 Lac,600 sqft,3 BHK,Lalithadripura,7600000.0,600,12666.7,House,3.0
+693,2 BHK Flat in Chamarajapuram Mohalla,₹1.15 Cr,"1,342 sqft",2 BHK,Chamarajapuram Mohalla,11500000.0,1342,8569.3,House,2.0
+694,3 BHK Flat in Rahmania Mohalla,₹95 Lac,"1,875 sqft",3 BHK,Rahmania Mohalla,9500000.0,1875,5066.7,House,3.0
+695,Residential land / Plot in Dattagalli,₹2.25 Cr,"2,400 sqft",Plot/Land,Dattagalli,22500000.0,2400,9375.0,Plot,
+696,3 Bedroom House in University Layout,₹2.1 Cr,"1,440 sqft",3 BHK,University Layout,21000000.0,1440,14583.3,House,3.0
+698,4 Bedroom House in Police Layout,₹2.75 Cr,"2,400 sqft",4 BHK,Police Layout,27500000.0,2400,11458.3,House,4.0
+699,3 Bedroom House in police layout 2nd stage,₹78 Lac,800 sqft,3 BHK,police layout 2nd stage,7800000.0,800,9750.0,House,3.0
+700,4 Bedroom House in Lal Bahadur Shastri Nagar,₹1.4 Cr,"1,200 sqft",4 BHK,Lal Bahadur Shastri Nagar,14000000.0,1200,11666.7,House,4.0
+701,Residential land / Plot in Ring Road,₹1.9 Cr,"2,400 sqft",Plot/Land,Ring Road,19000000.0,2400,7916.7,Plot,
+702,3 Bedroom House in Lal Bahadur Shastri Nagar,₹78 Lac,600 sqft,3 BHK,Lal Bahadur Shastri Nagar,7800000.0,600,13000.0,House,3.0
+703,3 Bedroom House in Police Layout 3rd Stage,₹1.45 Cr,"1,200 sqft",3 BHK,Police Layout 3rd Stage,14500000.0,1200,12083.3,House,3.0
+704,Residential land / Plot in Nivedita Nagar,₹1.9 Cr,"2,400 sqft",Plot/Land,Nivedita Nagar,19000000.0,2400,7916.7,Plot,
+705,Residential land / Plot in Bannur Road,₹65 Lac,"1,200 sqft",Plot/Land,Bannur Road,6500000.0,1200,5416.7,Plot,
+706,3 BHK Flat in Yadavagiri,₹1.5 Cr,"1,700 sqft",3 BHK,Yadavagiri,15000000.0,1700,8823.5,House,3.0
+707,Residential land / Plot in Hunsur road,₹62 Lac,"4,000 sqft",Plot/Land,Hunsur road,6200000.0,4000,1550.0,Plot,
+709,Residential land / Plot in JP Nagar,₹1.75 Cr,"2,400 sqft",Plot/Land,JP Nagar,17500000.0,2400,7291.7,Plot,
+710,3 Bedroom House in Vijay Nagar 2nd Stage,₹2.4 Cr,"2,400 sqft",3 BHK,Vijay Nagar 2nd Stage,24000000.0,2400,10000.0,House,3.0
+711,Residential land / Plot in Bogadi Road,₹1.33 Cr,"2,542 sqft",Plot/Land,Bogadi Road,13300000.0,2542,5232.1,Plot,
+712,Residential land / Plot in Bannur Road,₹93 Lac,"3,875 sqft",Plot/Land,Bannur Road,9300000.0,3875,2400.0,Plot,
+713,2 Bedroom House in KG Koppal,₹3.98 Cr,"4,680 sqft",2 BHK,KG Koppal,39800000.0,4680,8504.3,House,2.0
+714,Residential land / Plot in Bannur Road,₹1.2 Cr,"4,000 sqft",Plot/Land,Bannur Road,12000000.0,4000,3000.0,Plot,
+715,3 Bedroom House in Bogadi,₹2 Cr,"1,200 sqft",3 BHK,Bogadi,20000000.0,1200,16666.7,House,3.0
+716,Residential land / Plot in Uttanahalli,₹92 Lac,"2,400 sqft",Plot/Land,Uttanahalli,9200000.0,2400,3833.3,Plot,
+717,2 Bedroom House in Brindavan Extension,₹2 Cr,"1,600 sqft",2 BHK,Brindavan Extension,20000000.0,1600,12500.0,House,2.0
+718,Residential land / Plot in Somanatha Nagar,₹40 Lac,660 sqft,Plot/Land,Somanatha Nagar,4000000.0,660,6060.6,Plot,
+719,Residential land / Plot in 4th Stage Vijayanagar,₹1.6 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,16000000.0,2400,6666.7,Plot,
+720,Residential land / Plot in Kote Hundi,₹58 Lac,"1,200 sqft",Plot/Land,Kote Hundi,5800000.0,1200,4833.3,Plot,
+721,Residential land / Plot in JSS Layout 2nd Stage,₹63 Lac,"1,650 sqft",Plot/Land,JSS Layout 2nd Stage,6300000.0,1650,3818.2,Plot,
+722,Residential land / Plot in Uttanahalli,₹45.5 Lac,"1,200 sqft",Plot/Land,Uttanahalli,4550000.0,1200,3791.7,Plot,
+723,Residential land / Plot in Bogadi Road,₹52 Lac,"1,200 sqft",Plot/Land,Bogadi Road,5200000.0,1200,4333.3,Plot,
+724,Residential land / Plot in RT Nagar,₹74 Lac,"1,500 sqft",Plot/Land,RT Nagar,7400000.0,1500,4933.3,Plot,
+725,Residential land / Plot in Bogadi Road,₹34 Lac,"1,200 sqft",Plot/Land,Bogadi Road,3400000.0,1200,2833.3,Plot,
+726,3 Bedroom House in Dattagalli,₹1.65 Cr,"1,200 sqft",3 BHK,Dattagalli,16500000.0,1200,13750.0,House,3.0
+727,3 Bedroom House in Srirampura,₹1.65 Cr,"1,200 sqft",3 BHK,Srirampura,16500000.0,1200,13750.0,House,3.0
+728,Residential land / Plot in Srirampura,₹75 Lac,"1,500 sqft",Plot/Land,Srirampura,7500000.0,1500,5000.0,Plot,
+730,Residential land / Plot in Bogadi 2nd Stage,₹1.4 Cr,"1,800 sqft",Plot/Land,Bogadi 2nd Stage,14000000.0,1800,7777.8,Plot,
+731,3 Bedroom House in Bogadi Road,₹1.85 Cr,"1,200 sqft",3 BHK,Bogadi Road,18500000.0,1200,15416.7,House,3.0
+732,3 BHK Flat in 4th Stage Vijayanagar,₹1.2 Cr,"1,500 sqft",3 BHK,4th Stage Vijayanagar,12000000.0,1500,8000.0,House,3.0
+733,Residential land / Plot in Dattagalli 3rd Stage,₹60 Lac,"1,200 sqft",Plot/Land,Dattagalli 3rd Stage,6000000.0,1200,5000.0,Plot,
+734,Residential land / Plot in Choranahalli,₹1.84 Cr,"4,000 sqft",Plot/Land,Choranahalli,18400000.0,4000,4600.0,Plot,
+735,Residential land / Plot in Kesare,₹1.44 Cr,"4,020 sqft",Plot/Land,Kesare,14400000.0,4020,3582.1,Plot,
+736,Residential land / Plot in 4th Stage Vijayanagar,₹1.75 Cr,"4,000 sqft",Plot/Land,4th Stage Vijayanagar,17500000.0,4000,4375.0,Plot,
+737,Residential land / Plot in Tirumakudalu Narasipura,₹39.99 Lac,"1,730 sqft",Plot/Land,Tirumakudalu Narasipura,3999000.0,1730,2311.6,Plot,
+738,Residential land / Plot in Jss Layout,₹61.99 Lac,"1,500 sqft",Plot/Land,Jss Layout,6199000.0,1500,4132.7,Plot,
+739,Residential land / Plot in Jss Layout,₹64 Lac,"1,670 sqft",Plot/Land,Jss Layout,6400000.0,1670,3832.3,Plot,
+740,Residential land / Plot in Uttanahalli,₹20 Lac,600 sqft,Plot/Land,Uttanahalli,2000000.0,600,3333.3,Plot,
+741,Residential land / Plot in Tirumakudalu Narasipura,₹33 Lac,"1,200 sqft",Plot/Land,Tirumakudalu Narasipura,3300000.0,1200,2750.0,Plot,
+742,Residential land / Plot in Hebbal,₹58 Lac,"1,500 sqft",Plot/Land,Hebbal,5800000.0,1500,3866.7,Plot,
+743,3 Bedroom House in Gokulam 3rd Stage,₹3.25 Cr,"2,700 sqft",3 BHK,Gokulam 3rd Stage,32500000.0,2700,12037.0,House,3.0
+744,3 Bedroom House in Kuvempunagar,₹2.85 Cr,"2,400 sqft",3 BHK,Kuvempunagar,28500000.0,2400,11875.0,House,3.0
+745,Residential land / Plot in 3rd Stage Vijayanagar,₹1.35 Cr,"1,200 sqft",Plot/Land,3rd Stage Vijayanagar,13500000.0,1200,11250.0,Plot,
+746,Residential land / Plot in Roopa Nagar,₹1.32 Cr,"2,400 sqft",Plot/Land,Roopa Nagar,13200000.0,2400,5500.0,Plot,
+747,Residential land / Plot in Sree Sapthamathrukha Layout,₹17 Lac,"1,200 sqft",Plot/Land,Sree Sapthamathrukha Layout,1700000.0,1200,1416.7,Plot,
+748,Residential land / Plot in Lakshmipuram,₹1.44 Cr,"1,200 sqft",Plot/Land,Lakshmipuram,14400000.0,1200,12000.0,Plot,
+749,Residential land / Plot in Mysore - Hunsur Road,₹54.9 Lac,"2,400 sqft",Plot/Land,Mysore - Hunsur Road,5490000.0,2400,2287.5,Plot,
+750,Residential land / Plot in JP Nagar,₹28.5 Lac,"1,163 sqft",Plot/Land,JP Nagar,2850000.0,1163,2450.6,Plot,
+751,Residential land / Plot in Railway Layout,₹69.99 Lac,"3,300 sqft",Plot/Land,Railway Layout,6999000.0,3300,2120.9,Plot,
+752,Residential land / Plot in Periyapatna,₹20.39 Lac,"1,200 sqft",Plot/Land,Periyapatna,2039000.0,1200,1699.2,Plot,
+753,5 Bedroom House in JP Nagar,₹2.45 Cr,"1,800 sqft",5 BHK,JP Nagar,24500000.0,1800,13611.1,House,5.0
+754,Residential land / Plot in Gejjagalli,₹25 Lac,600 sqft,Plot/Land,Gejjagalli,2500000.0,600,4166.7,Plot,
+755,Residential land / Plot in Roopa Nagar,₹1.3 Cr,"2,400 sqft",Plot/Land,Roopa Nagar,13000000.0,2400,5416.7,Plot,
+756,4 Bedroom House in Roopa Nagar,₹1.2 Cr,"1,200 sqft",4 BHK,Roopa Nagar,12000000.0,1200,10000.0,House,4.0
+757,Residential land / Plot in Near sardar vallabh bhai patel nagara,₹68.51 Lac,"1,557 sqft",Plot/Land,Near sardar vallabh bhai patel nagara,6851000.0,1557,4400.1,Plot,
+758,Residential land / Plot in Sardar Vallabh Bhai Patel Nagar,₹69.65 Lac,"1,583 sqft",Plot/Land,Sardar Vallabh Bhai Patel Nagar,6965000.0,1583,4399.9,Plot,
+759,Residential land / Plot in Lal Bahadur Shastri Nagar,₹52.5 Lac,"1,500 sqft",Plot/Land,Lal Bahadur Shastri Nagar,5250000.0,1500,3500.0,Plot,
+760,1 Bedroom House in M Block Kuvempunagar,₹60 Lac,600 sqft,1 BHK,M Block Kuvempunagar,6000000.0,600,10000.0,House,1.0
+761,Residential land / Plot in Bogadi,₹50.85 Lac,"1,453 sqft",Plot/Land,Bogadi,5085000.0,1453,3499.7,Plot,
+762,Residential land / Plot in Sardar Vallabh Bhai Patel Nagar,₹67.85 Lac,"1,542 sqft",Plot/Land,Sardar Vallabh Bhai Patel Nagar,6785000.0,1542,4400.1,Plot,
+763,Residential land / Plot in Lal Bahadur Shastri Nagar,₹50.85 Lac,"1,453 sqft",Plot/Land,Lal Bahadur Shastri Nagar,5085000.0,1453,3499.7,Plot,
+764,Residential land / Plot in Sardar Vallabh Bhai Patel Nagar,₹64.5 Lac,"1,500 sqft",Plot/Land,Sardar Vallabh Bhai Patel Nagar,6450000.0,1500,4300.0,Plot,
+765,Residential land / Plot in Hebbal 2nd Stage,₹1.02 Cr,"2,600 sqft",Plot/Land,Hebbal 2nd Stage,10200000.0,2600,3923.1,Plot,
+766,Residential land / Plot in Hebbal 2nd Stage,₹52 Lac,"1,500 sqft",Plot/Land,Hebbal 2nd Stage,5200000.0,1500,3466.7,Plot,
+767,2 BHK Flat in Hinkal,₹75 Lac,"1,130 sqft",2 BHK,Hinkal,7500000.0,1130,6637.2,House,2.0
+768,Residential land / Plot in Kanakadasa Nagar,₹1.9 Cr,"2,400 sqft",Plot/Land,Kanakadasa Nagar,19000000.0,2400,7916.7,Plot,
+769,Residential land / Plot in 4th Stage Vijayanagar,₹88 Lac,"1,600 sqft",Plot/Land,4th Stage Vijayanagar,8800000.0,1600,5500.0,Plot,
+770,Residential land / Plot in Hebbal Industrial Area,₹80 Lac,"2,400 sqft",Plot/Land,Hebbal Industrial Area,8000000.0,2400,3333.3,Plot,
+771,Residential land / Plot in Hebbal Industrial Area,₹36 Lac,"1,200 sqft",Plot/Land,Hebbal Industrial Area,3600000.0,1200,3000.0,Plot,
+772,Residential land / Plot in 4th Stage Vijayanagar,₹53 Lac,600 sqft,Plot/Land,4th Stage Vijayanagar,5300000.0,600,8833.3,Plot,
+773,3 Bedroom House in Jayalakshmipuram,₹3.25 Cr,"2,600 sqft",3 BHK,Jayalakshmipuram,32500000.0,2600,12500.0,House,3.0
+774,4 Bedroom House in 1st stage Kuvempunagar,₹3.5 Cr,"2,400 sqft",4 BHK,1st stage Kuvempunagar,35000000.0,2400,14583.3,House,4.0
+775,4 Bedroom House in Saraswathipuram,₹5 Cr,"4,675 sqft",4 BHK,Saraswathipuram,50000000.0,4675,10695.2,House,4.0
+776,Residential land / Plot in Hebbal 2nd Stage,₹1.35 Cr,"2,400 sqft",Plot/Land,Hebbal 2nd Stage,13500000.0,2400,5625.0,Plot,
+777,Residential land / Plot in Hebbal 2nd Stage,₹3.1 Cr,"4,000 sqft",Plot/Land,Hebbal 2nd Stage,31000000.0,4000,7750.0,Plot,
+778,Residential land / Plot in 4th Stage Vijayanagar,₹3.25 Cr,"4,000 sqft",Plot/Land,4th Stage Vijayanagar,32500000.0,4000,8125.0,Plot,
+779,2 Bedroom House in Jayalakshmipuram,₹4.7 Cr,"4,200 sqft",2 BHK,Jayalakshmipuram,47000000.0,4200,11190.5,House,2.0
+780,Residential land / Plot in 3rd Stage Vijayanagar,₹2.2 Cr,"2,400 sqft",Plot/Land,3rd Stage Vijayanagar,22000000.0,2400,9166.7,Plot,
+781,Residential land / Plot in 3rd Stage Vijayanagar,₹2.1 Cr,"2,400 sqft",Plot/Land,3rd Stage Vijayanagar,21000000.0,2400,8750.0,Plot,
+782,Residential land / Plot in Dattagalli,₹3.3 Cr,"4,000 sqft",Plot/Land,Dattagalli,33000000.0,4000,8250.0,Plot,
+783,3 Bedroom House in 1st Stage Vijayanagar,₹2.7 Cr,"2,400 sqft",3 BHK,1st Stage Vijayanagar,27000000.0,2400,11250.0,House,3.0
+784,Residential land / Plot in 3rd Stage Vijayanagar,₹2 Cr,"2,400 sqft",Plot/Land,3rd Stage Vijayanagar,20000000.0,2400,8333.3,Plot,
+785,2 Bedroom House in Block I Ramakrishnanagar,₹3.75 Cr,"4,000 sqft",2 BHK,Block I Ramakrishnanagar,37500000.0,4000,9375.0,House,2.0
+786,Residential land / Plot in 2nd Stage Vijay Nagar,₹2.5 Cr,"2,400 sqft",Plot/Land,2nd Stage Vijay Nagar,25000000.0,2400,10416.7,Plot,
+787,3 Bedroom House in Ramakrishna Nagar,₹3 Cr,"2,400 sqft",3 BHK,Ramakrishna Nagar,30000000.0,2400,12500.0,House,3.0
+788,Residential land / Plot in Roopa Nagar,₹1.15 Cr,"2,400 sqft",Plot/Land,Roopa Nagar,11500000.0,2400,4791.7,Plot,
+789,Residential land / Plot in JP Nagar,₹1.05 Cr,"2,400 sqft",Plot/Land,JP Nagar,10500000.0,2400,4375.0,Plot,
+790,Residential land / Plot in 4th Stage Vijayanagar,₹1.26 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,12600000.0,2400,5250.0,Plot,
+791,4 Bedroom House in 4th Stage Vijayanagar,₹2.25 Cr,"1,200 sqft",4 BHK,4th Stage Vijayanagar,22500000.0,1200,18750.0,House,4.0
+792,Residential land / Plot in 3rd Stage Vijayanagar,₹2.35 Cr,"4,000 sqft",Plot/Land,3rd Stage Vijayanagar,23500000.0,4000,5875.0,Plot,
+793,Residential land / Plot in 4th Stage Vijayanagar,₹1.5 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,15000000.0,2400,6250.0,Plot,
+794,Residential land / Plot in Maratikyatana Halli,₹3.06 Cr,"15,300 sqft",Plot/Land,Maratikyatana Halli,30600000.0,15300,2000.0,Plot,
+795,Residential land / Plot in Roopa Nagar,₹1.2 Cr,"2,400 sqft",Plot/Land,Roopa Nagar,12000000.0,2400,5000.0,Plot,
+796,4 Bedroom House in Sathagalli Layout,₹70 Lac,600 sqft,4 BHK,Sathagalli Layout,7000000.0,600,11666.7,House,4.0
+798,Residential land / Plot in Dasanakoppalu,₹1.15 Cr,"2,400 sqft",Plot/Land,Dasanakoppalu,11500000.0,2400,4791.7,Plot,
+799,Residential land / Plot in brahmins layout,₹45 Lac,"2,400 sqft",Plot/Land,brahmins layout,4500000.0,2400,1875.0,Plot,
+800,Residential land / Plot in Hunsur road,₹70 Lac,"4,000 sqft",Plot/Land,Hunsur road,7000000.0,4000,1750.0,Plot,
+801,4 Bedroom House in 4th Stage Vijayanagar,₹2.2 Cr,"1,200 sqft",4 BHK,4th Stage Vijayanagar,22000000.0,1200,18333.3,House,4.0
+802,Residential land / Plot in Bogadi,₹18 Lac,"1,200 sqft",Plot/Land,Bogadi,1800000.0,1200,1500.0,Plot,
+803,Residential land / Plot in Yelwala,₹42 Lac,"2,400 sqft",Plot/Land,Yelwala,4200000.0,2400,1750.0,Plot,
+804,3 BHK Flat in JP Nagar,₹1.2 Cr,"1,500 sqft",3 BHK,JP Nagar,12000000.0,1500,8000.0,House,3.0
+805,2 BHK Flat in JP Nagar,₹70.25 Lac,"1,128 sqft",2 BHK,JP Nagar,7025000.0,1128,6227.8,House,2.0
+806,3 BHK Flat in JP Nagar,₹85.1 Lac,"1,500 sqft",3 BHK,JP Nagar,8510000.0,1500,5673.3,House,3.0
+807,3 BHK Flat in JP Nagar,₹75.3 Lac,"1,308 sqft",3 BHK,JP Nagar,7530000.0,1308,5756.9,House,3.0
+809,3 BHK Flat in JP Nagar,₹85.5 Lac,"1,500 sqft",3 BHK,JP Nagar,8550000.0,1500,5700.0,House,3.0
+810,3 BHK Flat in JP Nagar,₹74.75 Lac,"1,308 sqft",3 BHK,JP Nagar,7475000.0,1308,5714.8,House,3.0
+811,Residential land / Plot in Yelwala,₹21.8 Lac,"1,626 sqft",Plot/Land,Yelwala,2180000.0,1626,1340.7,Plot,
+812,Residential land / Plot in Thaluru,₹19.8 Lac,"1,163 sqft",Plot/Land,Thaluru,1980000.0,1163,1702.5,Plot,
+813,Residential land / Plot in Roopa Nagar,₹1.13 Cr,"2,400 sqft",Plot/Land,Roopa Nagar,11300000.0,2400,4708.3,Plot,
+814,Residential land / Plot in Bogadi Road,₹95 Lac,"4,000 sqft",Plot/Land,Bogadi Road,9500000.0,4000,2375.0,Plot,
+815,Residential land / Plot in Yelawala Bypass,₹28.2 Lac,"1,163 sqft",Plot/Land,Yelawala Bypass,2820000.0,1163,2424.8,Plot,
+816,Residential land / Plot in Bogadi Road,₹39.96 Lac,"1,453 sqft",Plot/Land,Bogadi Road,3996000.0,1453,2750.2,Plot,
+817,Residential land / Plot in Bogadi-Gaddige Main Road,₹39.96 Lac,"1,453 sqft",Plot/Land,Bogadi-Gaddige Main Road,3996000.0,1453,2750.2,Plot,
+818,Residential land / Plot in Bommenahalli,₹28.49 Lac,"1,163 sqft",Plot/Land,Bommenahalli,2849000.0,1163,2449.7,Plot,
+819,Residential land / Plot in KC Layout,₹2.2 Cr,"2,400 sqft",Plot/Land,KC Layout,22000000.0,2400,9166.7,Plot,
+820,Residential land / Plot in 4th Stage Vijayanagar,₹70 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,7000000.0,1200,5833.3,Plot,
+821,3 Bedroom House in Ring Road,₹78 Lac,600 sqft,3 BHK,Ring Road,7800000.0,600,13000.0,House,3.0
+823,5 Bedroom House in JP Nagar,₹2.4 Cr,"1,800 sqft",5 BHK,JP Nagar,24000000.0,1800,13333.3,House,5.0
+824,3 Bedroom House in Ring Road,₹1.1 Cr,"1,500 sqft",3 BHK,Ring Road,11000000.0,1500,7333.3,House,3.0
+825,Residential land / Plot in Ramakrishna Nagar,₹1.2 Cr,"1,200 sqft",Plot/Land,Ramakrishna Nagar,12000000.0,1200,10000.0,Plot,
+826,Residential land / Plot in Ramakrishna Nagara K Block,₹95 Lac,"1,000 sqft",Plot/Land,Ramakrishna Nagara K Block,9500000.0,1000,9500.0,Plot,
+827,4 Bedroom House in Sathgalli,₹85 Lac,600 sqft,4 BHK,Sathgalli,8500000.0,600,14166.7,House,4.0
+828,Residential land / Plot in University Layout,₹36 Lac,"1,200 sqft",Plot/Land,University Layout,3600000.0,1200,3000.0,Plot,
+829,Residential land / Plot in Huyilalu,₹78 Lac,"2,400 sqft",Plot/Land,Huyilalu,7800000.0,2400,3250.0,Plot,
+830,4 Bedroom House in Ramakrishna Nagar,₹2.55 Cr,"2,400 sqft",4 BHK,Ramakrishna Nagar,25500000.0,2400,10625.0,House,4.0
+831,2 BHK Flat in Yadavagiri,₹1.1 Cr,"1,392 sqft",2 BHK,Yadavagiri,11000000.0,1392,7902.3,House,2.0
+832,Residential land / Plot in Bogadi,₹1.55 Cr,"4,000 sqft",Plot/Land,Bogadi,15500000.0,4000,3875.0,Plot,
+833,3 BHK Flat in Chamrajpuram,₹1.05 Cr,"1,400 sqft",3 BHK,Chamrajpuram,10500000.0,1400,7500.0,House,3.0
+834,Residential land / Plot in 4th Stage Vijayanagar,₹1.55 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,15500000.0,2400,6458.3,Plot,
+835,Residential land / Plot in Bannur Road,₹70 Lac,"2,400 sqft",Plot/Land,Bannur Road,7000000.0,2400,2916.7,Plot,
+836,2 Bedroom House in Ring Road,₹95 Lac,"1,200 sqft",2 BHK,Ring Road,9500000.0,1200,7916.7,House,2.0
+837,Residential land / Plot in Hebbal,₹1.05 Cr,"2,750 sqft",Plot/Land,Hebbal,10500000.0,2750,3818.2,Plot,
+838,5 Bedroom House in Dattagalli,₹1.55 Cr,"1,200 sqft",5 BHK,Dattagalli,15500000.0,1200,12916.7,House,5.0
+839,4 Bedroom House in Dattagalli,₹1.4 Cr,"1,200 sqft",4 BHK,Dattagalli,14000000.0,1200,11666.7,House,4.0
+840,Residential land / Plot in Bannur Road,₹55 Lac,"1,200 sqft",Plot/Land,Bannur Road,5500000.0,1200,4583.3,Plot,
+841,Residential land / Plot in Srirampura,₹66 Lac,"1,200 sqft",Plot/Land,Srirampura,6600000.0,1200,5500.0,Plot,
+842,Residential land / Plot in Dattagalli 3rd Stage,₹1.3 Cr,"2,400 sqft",Plot/Land,Dattagalli 3rd Stage,13000000.0,2400,5416.7,Plot,
+843,Residential land / Plot in Hebbal,₹86 Lac,"2,400 sqft",Plot/Land,Hebbal,8600000.0,2400,3583.3,Plot,
+844,Residential land / Plot in Hebbal,₹1.05 Cr,"2,400 sqft",Plot/Land,Hebbal,10500000.0,2400,4375.0,Plot,
+845,Residential land / Plot in Varuna,₹30 Lac,"1,200 sqft",Plot/Land,Varuna,3000000.0,1200,2500.0,Plot,
+846,Residential land / Plot in Hebbal 1st Stage,₹3.49 Cr,"4,000 sqft",Plot/Land,Hebbal 1st Stage,34900000.0,4000,8725.0,Plot,
+847,Residential land / Plot in Bannur Road,₹76 Lac,"1,500 sqft",Plot/Land,Bannur Road,7600000.0,1500,5066.7,Plot,
+848,Residential land / Plot in JSS Layout 2nd Stage,₹30 Lac,"1,200 sqft",Plot/Land,JSS Layout 2nd Stage,3000000.0,1200,2500.0,Plot,
+849,Residential land / Plot in Sree Sapthamathrukha Layout,₹62 Lac,"2,400 sqft",Plot/Land,Sree Sapthamathrukha Layout,6200000.0,2400,2583.3,Plot,
+850,2 BHK Flat in VV Mohalla,₹70 Lac,"1,050 sqft",2 BHK,VV Mohalla,7000000.0,1050,6666.7,House,2.0
+851,Residential land / Plot in Police Layout,₹53 Lac,"1,500 sqft",Plot/Land,Police Layout,5300000.0,1500,3533.3,Plot,
+852,3 Bedroom House in Vasanth Nagar,₹1.35 Cr,"1,200 sqft",3 BHK,Vasanth Nagar,13500000.0,1200,11250.0,House,3.0
+853,Residential land / Plot in 3rd Stage Vijayanagar,₹1.6 Cr,"2,400 sqft",Plot/Land,3rd Stage Vijayanagar,16000000.0,2400,6666.7,Plot,
+854,4 BHK Independent Builder Floor in Police Layout,₹1.8 Cr,"1,200 sqft",4 BHK,Police Layout,18000000.0,1200,15000.0,House,4.0
+855,Residential land / Plot in Yelwala,₹54.9 Lac,"2,400 sqft",Plot/Land,Yelwala,5490000.0,2400,2287.5,Plot,
+856,Residential land / Plot in Varuna,₹54 Lac,"1,700 sqft",Plot/Land,Varuna,5400000.0,1700,3176.5,Plot,
+857,Residential land / Plot in Yelwala,₹22.25 Lac,"1,200 sqft",Plot/Land,Yelwala,2225000.0,1200,1854.2,Plot,
+858,Residential land / Plot in Lalithadripura,₹49 Lac,"1,453 sqft",Plot/Land,Lalithadripura,4900000.0,1453,3372.3,Plot,
+859,3 Bedroom House in Police Layout,₹1.85 Cr,"2,400 sqft",3 BHK,Police Layout,18500000.0,2400,7708.3,House,3.0
+860,3 Bedroom House in Bogadi Road,₹1.25 Cr,"1,200 sqft",3 BHK,Bogadi Road,12500000.0,1200,10416.7,House,3.0
+861,Residential land / Plot in 1st Stage Vijayanagar,₹2.62 Cr,"2,400 sqft",Plot/Land,1st Stage Vijayanagar,26200000.0,2400,10916.7,Plot,
+862,Residential land / Plot in Police Layout,₹92 Lac,"2,400 sqft",Plot/Land,Police Layout,9200000.0,2400,3833.3,Plot,
+863,Residential land / Plot in Police Layout,₹1.06 Cr,"2,400 sqft",Plot/Land,Police Layout,10600000.0,2400,4416.7,Plot,
+864,2 Bedroom House in HPO and RMS Layout,₹85 Lac,"1,200 sqft",2 BHK,HPO and RMS Layout,8500000.0,1200,7083.3,House,2.0
+866,Residential land / Plot in Murudagalli,₹16.4 Lac,"1,200 sqft",Plot/Land,Murudagalli,1640000.0,1200,1366.7,Plot,
+867,Residential land / Plot in Manuganahalli,₹25 Lac,"1,550 sqft",Plot/Land,Manuganahalli,2500000.0,1550,1612.9,Plot,
+868,Residential land / Plot in Srinagara Layout,₹27.5 Lac,"1,200 sqft",Plot/Land,Srinagara Layout,2750000.0,1200,2291.7,Plot,
+869,Residential land / Plot in Dattagalli,₹1.44 Cr,"2,400 sqft",Plot/Land,Dattagalli,14400000.0,2400,6000.0,Plot,
+870,2 Bedroom House in Vasanth Nagar,₹78 Lac,600 sqft,2 BHK,Vasanth Nagar,7800000.0,600,13000.0,House,2.0
+871,2 Bedroom House in JP Nagar,₹1.61 Cr,"1,200 sqft",2 BHK,JP Nagar,16100000.0,1200,13416.7,House,2.0
+872,3 Bedroom House in JP Nagar,₹1.75 Cr,"1,518 sqft",3 BHK,JP Nagar,17500000.0,1518,11528.3,House,3.0
+874,Residential land / Plot in Kuvempunagar,₹2.28 Cr,"2,400 sqft",Plot/Land,Kuvempunagar,22800000.0,2400,9500.0,Plot,
+875,2 BHK Flat in Chamundipuram,₹75 Lac,"1,000 sqft",2 BHK,Chamundipuram,7500000.0,1000,7500.0,House,2.0
+876,3 BHK Flat in Madagalli,₹1.15 Cr,"1,580 sqft",3 BHK,Madagalli,11500000.0,1580,7278.5,House,3.0
+877,Residential land / Plot in Yandahalli,₹49.5 Lac,"1,500 sqft",Plot/Land,Yandahalli,4950000.0,1500,3300.0,Plot,
+878,Residential land / Plot in 4th Stage Vijayanagar,₹85 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,8500000.0,1200,7083.3,Plot,
+879,Residential land / Plot in Bogadi,₹62 Lac,"1,725 sqft",Plot/Land,Bogadi,6200000.0,1725,3594.2,Plot,
+880,Residential land / Plot in Yadavagiri,₹3 Cr,"2,400 sqft",Plot/Land,Yadavagiri,30000000.0,2400,12500.0,Plot,
+881,2 Bedroom House in Saraswathipuram,₹3.4 Cr,"2,850 sqft",2 BHK,Saraswathipuram,34000000.0,2850,11929.8,House,2.0
+882,4 Bedroom House in 2nd Stage Vijay Nagar,₹2.5 Cr,"2,400 sqft",4 BHK,2nd Stage Vijay Nagar,25000000.0,2400,10416.7,House,4.0
+883,Residential land / Plot in 3rd Stage Vijayanagar,₹4.5 Cr,"4,000 sqft",Plot/Land,3rd Stage Vijayanagar,45000000.0,4000,11250.0,Plot,
+884,4 Bedroom House in 1st Stage Vijayanagar,₹1.8 Cr,"1,200 sqft",4 BHK,1st Stage Vijayanagar,18000000.0,1200,15000.0,House,4.0
+885,Residential land / Plot in 2nd Stage Vijay Nagar,₹3.38 Cr,"2,700 sqft",Plot/Land,2nd Stage Vijay Nagar,33800000.0,2700,12518.5,Plot,
+886,2 Bedroom House in Krishnamurthipuram,₹3.6 Cr,"3,600 sqft",2 BHK,Krishnamurthipuram,36000000.0,3600,10000.0,House,2.0
+887,3 Bedroom House in LIG 3rd Stage,₹3.1 Cr,"2,400 sqft",3 BHK,LIG 3rd Stage,31000000.0,2400,12916.7,House,3.0
+888,Residential land / Plot in Srirampura,₹3.1 Cr,"4,000 sqft",Plot/Land,Srirampura,31000000.0,4000,7750.0,Plot,
+889,2 Bedroom House in 3rd Stage Vijayanagar,₹2.25 Cr,"2,400 sqft",2 BHK,3rd Stage Vijayanagar,22500000.0,2400,9375.0,House,2.0
+890,Residential land / Plot in Gayathripuram,₹2 Cr,"2,420 sqft",Plot/Land,Gayathripuram,20000000.0,2420,8264.5,Plot,
+891,Residential land / Plot in Vidyaranyapura,₹1.82 Cr,"2,280 sqft",Plot/Land,Vidyaranyapura,18200000.0,2280,7982.5,Plot,
+892,Residential land / Plot in 2nd Stage Vijay Nagar,₹4 Cr,"4,000 sqft",Plot/Land,2nd Stage Vijay Nagar,40000000.0,4000,10000.0,Plot,
+893,Residential land / Plot in 2nd Stage Gokulam,₹2.4 Cr,"2,400 sqft",Plot/Land,2nd Stage Gokulam,24000000.0,2400,10000.0,Plot,
+894,4 Bedroom House in Jayalakshmipuram,₹4 Cr,"2,600 sqft",4 BHK,Jayalakshmipuram,40000000.0,2600,15384.6,House,4.0
+895,3 BHK Flat in 4th Stage Vijayanagar,₹1.25 Cr,"1,490 sqft",3 BHK,4th Stage Vijayanagar,12500000.0,1490,8389.3,House,3.0
+896,3 Bedroom House in Bogadi,₹1.85 Cr,"1,200 sqft",3 BHK,Bogadi,18500000.0,1200,15416.7,House,3.0
+897,Residential land / Plot in 4th Stage Vijayanagar,₹86 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,8600000.0,1200,7166.7,Plot,
+898,Residential land / Plot in Hebbal,₹58 Lac,"1,200 sqft",Plot/Land,Hebbal,5800000.0,1200,4833.3,Plot,
+899,Residential land / Plot in Lalithadripura,₹66.25 Lac,"2,325 sqft",Plot/Land,Lalithadripura,6625000.0,2325,2849.5,Plot,
+900,Residential land / Plot in Sree Sapthamathrukha Layout,₹33 Lac,"1,200 sqft",Plot/Land,Sree Sapthamathrukha Layout,3300000.0,1200,2750.0,Plot,
+901,Residential land / Plot in Bogadi,₹1.2 Cr,"2,400 sqft",Plot/Land,Bogadi,12000000.0,2400,5000.0,Plot,
+902,Residential land / Plot in Lalithadripura,₹75 Lac,"1,500 sqft",Plot/Land,Lalithadripura,7500000.0,1500,5000.0,Plot,
+903,Residential land / Plot in Lalithadripura,₹67 Lac,"1,164 sqft",Plot/Land,Lalithadripura,6700000.0,1164,5756.0,Plot,
+904,6 Bedroom House in Bogadi 2nd Stage,₹3.2 Cr,"2,250 sqft",6 BHK,Bogadi 2nd Stage,32000000.0,2250,14222.2,House,6.0
+905,Residential land / Plot in 1st Stage Vijayanagar,₹3.3 Cr,"2,400 sqft",Plot/Land,1st Stage Vijayanagar,33000000.0,2400,13750.0,Plot,
+906,Residential land / Plot in Hebbal,₹1.6 Cr,"4,000 sqft",Plot/Land,Hebbal,16000000.0,4000,4000.0,Plot,
+907,Residential land / Plot in 4th Stage Vijayanagar,₹82 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,8200000.0,1200,6833.3,Plot,
+908,Residential land / Plot in Ramakrishna Nagar,₹2.35 Cr,"2,818 sqft",Plot/Land,Ramakrishna Nagar,23500000.0,2818,8339.2,Plot,
+909,Residential land / Plot in Police Layout,₹57 Lac,"1,500 sqft",Plot/Land,Police Layout,5700000.0,1500,3800.0,Plot,
+911,5 Bedroom House in Vidyaranyapura,₹1.62 Cr,"2,430 sqft",5 BHK,Vidyaranyapura,16200000.0,2430,6666.7,House,5.0
+912,4 Bedroom House in Dattagalli,₹1.85 Cr,"1,200 sqft",4 BHK,Dattagalli,18500000.0,1200,15416.7,House,4.0
+913,Residential land / Plot in Ramachandra Agrahara,₹27 Lac,"1,200 sqft",Plot/Land,Ramachandra Agrahara,2700000.0,1200,2250.0,Plot,
+914,Residential land / Plot in Yelwala,₹29.99 Lac,"1,200 sqft",Plot/Land,Yelwala,2999000.0,1200,2499.2,Plot,
+915,Residential land / Plot in Bogadi,₹16.5 Lac,600 sqft,Plot/Land,Bogadi,1650000.0,600,2750.0,Plot,
+916,Residential land / Plot in Mahadevpura Road,₹1.2 Cr,"9,000 sqft",Plot/Land,Mahadevpura Road,12000000.0,9000,1333.3,Plot,
+917,Residential land / Plot in Rajiv Nagar,₹85 Lac,"6,500 sqft",Plot/Land,Rajiv Nagar,8500000.0,6500,1307.7,Plot,
+918,3 BHK Flat in JP Nagar,₹75.25 Lac,"1,308 sqft",3 BHK,JP Nagar,7525000.0,1308,5753.1,House,3.0
+919,2 BHK Flat in JP Nagar,₹65.25 Lac,"1,128 sqft",2 BHK,JP Nagar,6525000.0,1128,5784.6,House,2.0
+920,Residential land / Plot in Yelwala,₹18.03 Lac,"1,163 sqft",Plot/Land,Yelwala,1803000.0,1163,1550.3,Plot,
+921,Residential land / Plot in Yelwala,₹18.61 Lac,"1,163 sqft",Plot/Land,Yelwala,1861000.0,1163,1600.2,Plot,
+922,Residential land / Plot in Nanjangud,₹46.5 Lac,"1,453 sqft",Plot/Land,Nanjangud,4650000.0,1453,3200.3,Plot,
+924,Residential land / Plot in Tirumakudalu Narasipura,₹40 Lac,"9,800 sqft",Plot/Land,Tirumakudalu Narasipura,4000000.0,9800,408.2,Plot,
+925,4 Bedroom House in Vijay Nagar 2nd Stage,₹2.1 Cr,"1,200 sqft",4 BHK,Vijay Nagar 2nd Stage,21000000.0,1200,17500.0,House,4.0
+927,2 Bedroom House in JP Nagar,₹90 Lac,"1,200 sqft",2 BHK,JP Nagar,9000000.0,1200,7500.0,House,2.0
+928,2 Bedroom House in JP Nagar 2nd Stage,₹90 Lac,"1,200 sqft",2 BHK,JP Nagar 2nd Stage,9000000.0,1200,7500.0,House,2.0
+930,Residential land / Plot in Ilavala Hobli,₹21.8 Lac,"1,453 sqft",Plot/Land,Ilavala Hobli,2180000.0,1453,1500.3,Plot,
+931,Residential land / Plot in Udbur,₹37 Lac,"1,200 sqft",Plot/Land,Udbur,3700000.0,1200,3083.3,Plot,
+932,Residential land / Plot in University Layout,₹66 Lac,"1,200 sqft",Plot/Land,University Layout,6600000.0,1200,5500.0,Plot,
+933,Residential land / Plot in Bogadi,₹22 Lac,800 sqft,Plot/Land,Bogadi,2200000.0,800,2750.0,Plot,
+934,Residential land / Plot in Jss Layout,₹1.1 Cr,"2,400 sqft",Plot/Land,Jss Layout,11000000.0,2400,4583.3,Plot,
+935,3 Bedroom House in Chamundipuram,₹4.9 Cr,"5,760 sqft",3 BHK,Chamundipuram,49000000.0,5760,8506.9,House,3.0
+936,4 BHK Independent Builder Floor in JSS Layout 2nd Stage,₹85 Lac,600 sqft,4 BHK,JSS Layout 2nd Stage,8500000.0,600,14166.7,House,4.0
+937,3 BHK Independent Builder Floor in Dattagalli,₹1.2 Cr,"1,200 sqft",3 BHK,Dattagalli,12000000.0,1200,10000.0,House,3.0
+938,4 Bedroom House in Sakthi Nagar,₹1.55 Cr,"1,200 sqft",4 BHK,Sakthi Nagar,15500000.0,1200,12916.7,House,4.0
+939,2 Bedroom House in Shanthaveri Gopal Gowda Nagar,₹55 Lac,600 sqft,2 BHK,Shanthaveri Gopal Gowda Nagar,5500000.0,600,9166.7,House,2.0
+940,3 BHK Flat in Hebbal,₹85 Lac,"1,793 sqft",3 BHK,Hebbal,8500000.0,1793,4740.7,House,3.0
+941,3 BHK Flat in Yadavagiri,₹1.75 Cr,"2,450 sqft",3 BHK,Yadavagiri,17500000.0,2450,7142.9,House,3.0
+942,Residential land / Plot in Police Layout,₹74 Lac,"2,400 sqft",Plot/Land,Police Layout,7400000.0,2400,3083.3,Plot,
+943,Residential land / Plot in Bogadi Road,₹24.75 Lac,900 sqft,Plot/Land,Bogadi Road,2475000.0,900,2750.0,Plot,
+944,Residential land / Plot in 4th Stage Vijayanagar,₹65 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,6500000.0,1200,5416.7,Plot,
+945,Residential land / Plot in Bogadi,₹1.6 Cr,"4,000 sqft",Plot/Land,Bogadi,16000000.0,4000,4000.0,Plot,
+946,2 BHK Flat in Hebbal,₹66 Lac,"1,250 sqft",2 BHK,Hebbal,6600000.0,1250,5280.0,House,2.0
+947,3 BHK Flat in JP Nagar,₹80 Lac,"1,275 sqft",3 BHK,JP Nagar,8000000.0,1275,6274.5,House,3.0
+948,2 Bedroom House in Srinagara Layout,₹62 Lac,"1,260 sqft",2 BHK,Srinagara Layout,6200000.0,1260,4920.6,House,2.0
+949,Residential land / Plot in 2nd Stage Vijay Nagar,₹2.35 Cr,"2,400 sqft",Plot/Land,2nd Stage Vijay Nagar,23500000.0,2400,9791.7,Plot,
+950,3 Bedroom House in Lal Bahadur Shastri Nagar,₹78 Lac,"1,100 sqft",3 BHK,Lal Bahadur Shastri Nagar,7800000.0,1100,7090.9,House,3.0
+951,2 BHK Flat in JP Nagar,₹66 Lac,900 sqft,2 BHK,JP Nagar,6600000.0,900,7333.3,House,2.0
+952,3 BHK Flat in JP Nagar,₹77 Lac,"1,275 sqft",3 BHK,JP Nagar,7700000.0,1275,6039.2,House,3.0
+953,Residential land / Plot in Bogadi,₹1.62 Cr,"4,000 sqft",Plot/Land,Bogadi,16200000.0,4000,4050.0,Plot,
+954,Residential land / Plot in Bannur Road,₹42 Lac,"1,200 sqft",Plot/Land,Bannur Road,4200000.0,1200,3500.0,Plot,
+955,2 BHK Flat in Dattagalli,₹70 Lac,"1,300 sqft",2 BHK,Dattagalli,7000000.0,1300,5384.6,House,2.0
+956,Residential land / Plot in Jayapura,₹17 Lac,"1,200 sqft",Plot/Land,Jayapura,1700000.0,1200,1416.7,Plot,
+957,Residential land / Plot in Varuna,₹24 Lac,"1,200 sqft",Plot/Land,Varuna,2400000.0,1200,2000.0,Plot,
+958,Residential land / Plot in Huyilalu,₹49.8 Lac,"1,550 sqft",Plot/Land,Huyilalu,4980000.0,1550,3212.9,Plot,
+959,Residential land / Plot in 1st Stage Vijayanagar,₹2.3 Cr,"2,400 sqft",Plot/Land,1st Stage Vijayanagar,23000000.0,2400,9583.3,Plot,
+960,Residential land / Plot in Hosahundi,₹52.5 Lac,"1,500 sqft",Plot/Land,Hosahundi,5250000.0,1500,3500.0,Plot,
+961,Residential land / Plot in Bogadi,₹1.5 Cr,"3,375 sqft",Plot/Land,Bogadi,15000000.0,3375,4444.4,Plot,
+962,Residential land / Plot in Sardar Vallabh Bhai Patel Nagar,₹60 Lac,"1,500 sqft",Plot/Land,Sardar Vallabh Bhai Patel Nagar,6000000.0,1500,4000.0,Plot,
+964,Residential land / Plot in Hebbal 2nd Stage,₹67 Lac,"1,900 sqft",Plot/Land,Hebbal 2nd Stage,6700000.0,1900,3526.3,Plot,
+965,4 Bedroom House in Kuvempunagara North,₹3.25 Cr,"2,400 sqft",4 BHK,Kuvempunagara North,32500000.0,2400,13541.7,House,4.0
+966,4 Bedroom House in 3rd Stage Vijayanagar,₹3.3 Cr,"2,400 sqft",4 BHK,3rd Stage Vijayanagar,33000000.0,2400,13750.0,House,4.0
+967,2 Bedroom House in Hebbal 2nd Stage,₹1.8 Cr,"2,400 sqft",2 BHK,Hebbal 2nd Stage,18000000.0,2400,7500.0,House,2.0
+968,Residential land / Plot in Roopa Nagar,₹1.05 Cr,"2,000 sqft",Plot/Land,Roopa Nagar,10500000.0,2000,5250.0,Plot,
+969,Residential land / Plot in Sindhuvalli,₹11.5 Lac,899 sqft,Plot/Land,Sindhuvalli,1150000.0,899,1279.2,Plot,
+970,Residential land / Plot in Tirumakudalu Narasipura,₹20 Lac,"1,200 sqft",Plot/Land,Tirumakudalu Narasipura,2000000.0,1200,1666.7,Plot,
+971,Residential land / Plot in Tirumakudalu Narasipura,₹52 Lac,"4,000 sqft",Plot/Land,Tirumakudalu Narasipura,5200000.0,4000,1300.0,Plot,
+972,Residential land / Plot in Choranahalli,₹65.99 Lac,"1,453 sqft",Plot/Land,Choranahalli,6599000.0,1453,4541.6,Plot,
+973,Residential land / Plot in Jayalakshmipuram,₹3.1 Cr,"2,600 sqft",Plot/Land,Jayalakshmipuram,31000000.0,2600,11923.1,Plot,
+974,Residential land / Plot in 3rd Stage Vijayanagar,₹1.68 Cr,"2,400 sqft",Plot/Land,3rd Stage Vijayanagar,16800000.0,2400,7000.0,Plot,
+975,Residential land / Plot in Dattagalli 3rd Stage,₹1.02 Cr,"1,200 sqft",Plot/Land,Dattagalli 3rd Stage,10200000.0,1200,8500.0,Plot,
+977,Residential land / Plot in Roopa Nagar,₹1.1 Cr,"2,400 sqft",Plot/Land,Roopa Nagar,11000000.0,2400,4583.3,Plot,
+978,Residential land / Plot in Choranahalli,₹60 Lac,"1,500 sqft",Plot/Land,Choranahalli,6000000.0,1500,4000.0,Plot,
+979,Residential land / Plot in Roopa Nagar,₹1.65 Cr,"4,000 sqft",Plot/Land,Roopa Nagar,16500000.0,4000,4125.0,Plot,
+980,3 BHK Flat in JP Nagar,₹75.2 Lac,"1,308 sqft",3 BHK,JP Nagar,7520000.0,1308,5749.2,House,3.0
+981,Residential land / Plot in 1st Stage Vijayanagar,₹2 Cr,"1,800 sqft",Plot/Land,1st Stage Vijayanagar,20000000.0,1800,11111.1,Plot,
+982,Residential land / Plot in Srinagara Layout,₹49 Lac,"1,050 sqft",Plot/Land,Srinagara Layout,4900000.0,1050,4666.7,Plot,
+983,3 Bedroom House in Dattagalli,₹1.65 Cr,"1,440 sqft",3 BHK,Dattagalli,16500000.0,1440,11458.3,House,3.0
+984,Residential land / Plot in 2nd Stage Gokulam,₹3 Cr,"2,600 sqft",Plot/Land,2nd Stage Gokulam,30000000.0,2600,11538.5,Plot,
+985,Residential land / Plot in 4th Stage Vijayanagar,₹90 Lac,"1,800 sqft",Plot/Land,4th Stage Vijayanagar,9000000.0,1800,5000.0,Plot,
+987,2 Bedroom House in Hebbal 2nd Stage,₹1.5 Cr,"1,200 sqft",2 BHK,Hebbal 2nd Stage,15000000.0,1200,12500.0,House,2.0
+989,Residential land / Plot in BOGADHI RAILWAY LAYOUT,₹1.5 Cr,"2,400 sqft",Plot/Land,BOGADHI RAILWAY LAYOUT,15000000.0,2400,6250.0,Plot,
+990,Residential land / Plot in Choranahalli,₹50.5 Lac,"1,200 sqft",Plot/Land,Choranahalli,5050000.0,1200,4208.3,Plot,
+991,3 BHK Flat in Vishweshwara Nagar ,₹80 Lac,"1,840 sqft",3 BHK,Vishweshwara Nagar ,8000000.0,1840,4347.8,House,3.0
+992,3 BHK Independent Builder Floor in Kuvempunagar,₹2.1 Cr,"3,500 sqft",3 BHK,Kuvempunagar,21000000.0,3500,6000.0,House,3.0
+993,2 BHK Flat in Yadavagiri,₹80 Lac,"1,175 sqft",2 BHK,Yadavagiri,8000000.0,1175,6808.5,House,2.0
+994,Residential land / Plot in Dattagalli,₹2.05 Cr,"2,400 sqft",Plot/Land,Dattagalli,20500000.0,2400,8541.7,Plot,
+995,Residential land / Plot in Dattagalli 3rd Stage,₹79 Lac,"1,200 sqft",Plot/Land,Dattagalli 3rd Stage,7900000.0,1200,6583.3,Plot,
+996,Residential land / Plot in 3rd Stage Sriramapura,₹75 Lac,"1,500 sqft",Plot/Land,3rd Stage Sriramapura,7500000.0,1500,5000.0,Plot,
+997,Residential land / Plot in Treasury layout,₹87 Lac,"1,500 sqft",Plot/Land,Treasury layout,8700000.0,1500,5800.0,Plot,
+998,Residential land / Plot in Nivedita Nagar,₹1.86 Cr,"2,400 sqft",Plot/Land,Nivedita Nagar,18600000.0,2400,7750.0,Plot,
+999,6 Bedroom House in Bogadi,₹1 Cr,600 sqft,6 BHK,Bogadi,10000000.0,600,16666.7,House,6.0
+1000,4 Bedroom House in Dattagalli,₹2.3 Cr,"1,200 sqft",4 BHK,Dattagalli,23000000.0,1200,19166.7,House,4.0
+1001,Residential land / Plot in Dattagalli 3rd Stage,₹68 Lac,800 sqft,Plot/Land,Dattagalli 3rd Stage,6800000.0,800,8500.0,Plot,
+1002,Residential land / Plot in Dattagalli,₹1.65 Cr,"2,400 sqft",Plot/Land,Dattagalli,16500000.0,2400,6875.0,Plot,
+1006,2 Bedroom House in Kuvempunagar,₹3 Cr,"2,400 sqft",2 BHK,Kuvempunagar,30000000.0,2400,12500.0,House,2.0
+1007,Residential land / Plot in Srirampura,₹1.45 Cr,"2,400 sqft",Plot/Land,Srirampura,14500000.0,2400,6041.7,Plot,
+1008,Residential land / Plot in Dattagalli,₹2 Cr,"2,400 sqft",Plot/Land,Dattagalli,20000000.0,2400,8333.3,Plot,
+1009,Residential land / Plot in Bogadi,₹80 Lac,"1,200 sqft",Plot/Land,Bogadi,8000000.0,1200,6666.7,Plot,
+1010,Residential land / Plot in Police Layout,₹55 Lac,"1,290 sqft",Plot/Land,Police Layout,5500000.0,1290,4263.6,Plot,
+1011,Residential land / Plot in Police Layout,₹42 Lac,"1,200 sqft",Plot/Land,Police Layout,4200000.0,1200,3500.0,Plot,
+1012,Residential land / Plot in 4th Stage Vijayanagar,₹1 Cr,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,10000000.0,1200,8333.3,Plot,
+1013,Residential land / Plot in Belawadi,₹60 Lac,"1,500 sqft",Plot/Land,Belawadi,6000000.0,1500,4000.0,Plot,
+1014,Residential land / Plot in University Layout,₹1.4 Cr,"2,400 sqft",Plot/Land,University Layout,14000000.0,2400,5833.3,Plot,
+1015,Residential land / Plot in JP Nagar,₹68 Lac,"1,500 sqft",Plot/Land,JP Nagar,6800000.0,1500,4533.3,Plot,
+1016,4 Bedroom House in Gokulam 3rd Stage,₹3.1 Cr,"2,400 sqft",4 BHK,Gokulam 3rd Stage,31000000.0,2400,12916.7,House,4.0
+1017,4 Bedroom House in Gokulam 3rd Stage,₹5 Cr,"4,000 sqft",4 BHK,Gokulam 3rd Stage,50000000.0,4000,12500.0,House,4.0
+1018,2 Bedroom House in Lakshmipuram,₹2.1 Cr,"1,750 sqft",2 BHK,Lakshmipuram,21000000.0,1750,12000.0,House,2.0
+1019,3 Bedroom House in Ramakrishna Nagar,₹1.9 Cr,"2,400 sqft",3 BHK,Ramakrishna Nagar,19000000.0,2400,7916.7,House,3.0
+1020,Residential land / Plot in Dattagalli,₹1.2 Cr,"1,800 sqft",Plot/Land,Dattagalli,12000000.0,1800,6666.7,Plot,
+1021,Residential land / Plot in 4th Stage Vijayanagar,₹1.58 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,15800000.0,2400,6583.3,Plot,
+1022,Residential land / Plot in Srinagara Layout,₹15.5 Lac,600 sqft,Plot/Land,Srinagara Layout,1550000.0,600,2583.3,Plot,
+1023,Residential land / Plot in Nagawala,₹42 Lac,"2,400 sqft",Plot/Land,Nagawala,4200000.0,2400,1750.0,Plot,
+1024,Residential land / Plot in Bogadi Road,₹31.8 Lac,"1,200 sqft",Plot/Land,Bogadi Road,3180000.0,1200,2650.0,Plot,
+1025,4 Bedroom House in 2nd Stage Gokulam,₹2.75 Cr,"2,400 sqft",4 BHK,2nd Stage Gokulam,27500000.0,2400,11458.3,House,4.0
+1026,Residential land / Plot in Chamundipuram,₹2.1 Cr,"2,405 sqft",Plot/Land,Chamundipuram,21000000.0,2405,8731.8,Plot,
+1028,Residential land / Plot in RT Nagar,₹57 Lac,"1,450 sqft",Plot/Land,RT Nagar,5700000.0,1450,3931.0,Plot,
+1029,2 BHK Independent Builder Floor in Lal Bahadur Shastri Nagar,₹53 Lac,600 sqft,2 BHK,Lal Bahadur Shastri Nagar,5300000.0,600,8833.3,House,2.0
+1030,4 Bedroom House in JP Nagar,₹1.75 Cr,"1,200 sqft",4 BHK,JP Nagar,17500000.0,1200,14583.3,House,4.0
+1031,Residential land / Plot in Lalithadripura,₹57 Lac,"1,200 sqft",Plot/Land,Lalithadripura,5700000.0,1200,4750.0,Plot,
+1032,Residential land / Plot in 4th Stage Vijayanagar,₹90 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,9000000.0,1200,7500.0,Plot,
+1033,Residential land / Plot in 2nd Stage Vijay Nagar,₹1.4 Cr,"1,320 sqft",Plot/Land,2nd Stage Vijay Nagar,14000000.0,1320,10606.1,Plot,
+1034,3 Bedroom House in Nadanahalli,₹70 Lac,600 sqft,3 BHK,Nadanahalli,7000000.0,600,11666.7,House,3.0
+1035,Residential land / Plot in Belawadi,₹6.15 Lac,153 sqft,Plot/Land,Belawadi,615000.0,153,4019.6,Plot,
+1036,3 Bedroom House in Vijaynagar,₹1 Cr,600 sqft,3 BHK,Vijaynagar,10000000.0,600,16666.7,House,3.0
+1037,3 Bedroom House in Dattagalli 3rd Stage,₹1.3 Cr,"1,200 sqft",3 BHK,Dattagalli 3rd Stage,13000000.0,1200,10833.3,House,3.0
+1038,Residential land / Plot in Hebbal,₹52 Lac,"1,500 sqft",Plot/Land,Hebbal,5200000.0,1500,3466.7,Plot,
+1039,Residential land / Plot in 2nd Stage Vijay Nagar,₹2.43 Cr,"2,700 sqft",Plot/Land,2nd Stage Vijay Nagar,24300000.0,2700,9000.0,Plot,
+1040,6 Bedroom House in Dattagalli,₹1 Cr,600 sqft,6 BHK,Dattagalli,10000000.0,600,16666.7,House,6.0
+1041,4 Bedroom House in Ramakrishna Nagara K Block,₹3.5 Cr,"2,400 sqft",4 BHK,Ramakrishna Nagara K Block,35000000.0,2400,14583.3,House,4.0
+1042,2 Bedroom House in Saraswathipuram,₹3.01 Cr,"2,408 sqft",2 BHK,Saraswathipuram,30100000.0,2408,12500.0,House,2.0
+1043,Residential land / Plot in Hebbal,₹3.86 Cr,"15,446 sqft",Plot/Land,Hebbal,38600000.0,15446,2499.0,Plot,
+1044,Residential land / Plot in Sree Sapthamathrukha Layout,₹52 Lac,"4,018 sqft",Plot/Land,Sree Sapthamathrukha Layout,5200000.0,4018,1294.2,Plot,
+1045,3 Bedroom House in 4th Stage Vijayanagar,₹1.65 Cr,"1,500 sqft",3 BHK,4th Stage Vijayanagar,16500000.0,1500,11000.0,House,3.0
+1046,Residential land / Plot in Jayalakshmipuram,₹4.4 Cr,"4,000 sqft",Plot/Land,Jayalakshmipuram,44000000.0,4000,11000.0,Plot,
+1047,Residential land / Plot in Dattagalli,₹1.3 Cr,"2,560 sqft",Plot/Land,Dattagalli,13000000.0,2560,5078.1,Plot,
+1048,3 Bedroom House in 2nd Stage Vijay Nagar,₹2.6 Cr,"2,400 sqft",3 BHK,2nd Stage Vijay Nagar,26000000.0,2400,10833.3,House,3.0
+1049,Residential land / Plot in Bogadi,₹1.25 Cr,"2,400 sqft",Plot/Land,Bogadi,12500000.0,2400,5208.3,Plot,
+1050,Residential land / Plot in Roopa Nagar,₹92 Lac,"2,000 sqft",Plot/Land,Roopa Nagar,9200000.0,2000,4600.0,Plot,
+1051,Residential land / Plot in Siddhartha Layout,₹48 Lac,"1,453 sqft",Plot/Land,Siddhartha Layout,4800000.0,1453,3303.5,Plot,
+1052,2 Bedroom House in JP Nagar,₹88 Lac,"1,200 sqft",2 BHK,JP Nagar,8800000.0,1200,7333.3,House,2.0
+1053,Residential land / Plot in Sree Sapthamathrukha Layout,₹17.99 Lac,"1,200 sqft",Plot/Land,Sree Sapthamathrukha Layout,1799000.0,1200,1499.2,Plot,
+1054,3 BHK Independent Builder Floor in Kuvempunagar,₹2.15 Cr,"3,500 sqft",3 BHK,Kuvempunagar,21500000.0,3500,6142.9,House,3.0
+1055,Residential land / Plot in Dattagalli,₹87.75 Lac,"1,350 sqft",Plot/Land,Dattagalli,8775000.0,1350,6500.0,Plot,
+1056,Residential land / Plot in Hebbal,₹1.31 Cr,"4,355 sqft",Plot/Land,Hebbal,13100000.0,4355,3008.0,Plot,
+1057,4 Bedroom House in Ramakrishna Nagara K Block,₹2.55 Cr,"2,400 sqft",4 BHK,Ramakrishna Nagara K Block,25500000.0,2400,10625.0,House,4.0
+1058,Residential land / Plot in Nagawala,₹10 Lac,"1,200 sqft",Plot/Land,Nagawala,1000000.0,1200,833.3,Plot,
+1059,2 Bedroom House in Kalyanagiri,₹85 Lac,"1,200 sqft",2 BHK,Kalyanagiri,8500000.0,1200,7083.3,House,2.0
+1060,Residential land / Plot in Vijayanagar,₹1.2 Cr,"2,400 sqft",Plot/Land,Vijayanagar,12000000.0,2400,5000.0,Plot,
+1061,2 BHK Flat in Siddhartha Layout,₹85.05 Lac,"1,134 sqft",2 BHK,Siddhartha Layout,8505000.0,1134,7500.0,House,2.0
+1062,Residential land / Plot in Hadinaru,₹15 Lac,"1,200 sqft",Plot/Land,Hadinaru,1500000.0,1200,1250.0,Plot,
+1063,Residential land / Plot in Srirampura 2nd Stage SBM Lay out,₹97 Lac,"1,200 sqft",Plot/Land,Srirampura 2nd Stage SBM Lay out,9700000.0,1200,8083.3,Plot,
+1064,Residential land / Plot in 4th Stage Vijayanagar,₹1.2 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,12000000.0,2400,5000.0,Plot,
+1065,Residential land / Plot in Sathgalli,₹90 Lac,"2,400 sqft",Plot/Land,Sathgalli,9000000.0,2400,3750.0,Plot,
+1066,Residential land / Plot in Dattagalli,₹40 Lac,"1,200 sqft",Plot/Land,Dattagalli,4000000.0,1200,3333.3,Plot,
+1067,Residential land / Plot in Sree Sapthamathrukha Layout,₹5 Lac,"1,320 sqft",Plot/Land,Sree Sapthamathrukha Layout,500000.0,1320,378.8,Plot,
+1068,Residential land / Plot in Rajiv Nagar,₹10 Lac,"2,400 sqft",Plot/Land,Rajiv Nagar,1000000.0,2400,416.7,Plot,
+1069,Residential land / Plot in Manuganahalli,₹40 Lac,"3,042 sqft",Plot/Land,Manuganahalli,4000000.0,3042,1314.9,Plot,
+1070,3 BHK Flat in VV Mohalla,₹1.05 Cr,"1,700 sqft",3 BHK,VV Mohalla,10500000.0,1700,6176.5,House,3.0
+1071,Residential land / Plot in KRS Road,₹60 Lac,"2,000 sqft",Plot/Land,KRS Road,6000000.0,2000,3000.0,Plot,
+1072,Residential land / Plot in Jayapura,₹29 Lac,"1,500 sqft",Plot/Land,Jayapura,2900000.0,1500,1933.3,Plot,
+1073,Residential land / Plot in Hunsur,₹35 Lac,"1,500 sqft",Plot/Land,Hunsur,3500000.0,1500,2333.3,Plot,
+1074,Residential land / Plot in Hinkal,₹54 Lac,"1,800 sqft",Plot/Land,Hinkal,5400000.0,1800,3000.0,Plot,
+1075,3 BHK Flat in JP Nagar,₹80 Lac,"1,300 sqft",3 BHK,JP Nagar,8000000.0,1300,6153.8,House,3.0
+1076,Residential land / Plot in Ilavala Hobli,₹50 Lac,"2,400 sqft",Plot/Land,Ilavala Hobli,5000000.0,2400,2083.3,Plot,
+1077,Residential land / Plot in Ilavala Hobli,₹1.1 Cr,"4,000 sqft",Plot/Land,Ilavala Hobli,11000000.0,4000,2750.0,Plot,
+1078,Residential land / Plot in Hebbal,₹52 Lac,"1,200 sqft",Plot/Land,Hebbal,5200000.0,1200,4333.3,Plot,
+1079,Residential land / Plot in Vijayanagar,₹1.95 Cr,"2,400 sqft",Plot/Land,Vijayanagar,19500000.0,2400,8125.0,Plot,
+1080,Residential land / Plot in Vajamangala,₹30 Lac,"1,233 sqft",Plot/Land,Vajamangala,3000000.0,1233,2433.1,Plot,
+1081,Residential land / Plot in 2nd Stage Vijay Nagar,₹3 Cr,"2,400 sqft",Plot/Land,2nd Stage Vijay Nagar,30000000.0,2400,12500.0,Plot,
+1082,Residential land / Plot in Bogadi,₹34 Lac,"1,200 sqft",Plot/Land,Bogadi,3400000.0,1200,2833.3,Plot,
+1083,Residential land / Plot in Ring Road,₹66 Lac,"1,163 sqft",Plot/Land,Ring Road,6600000.0,1163,5675.0,Plot,
+1084,Residential land / Plot in Bogadi,₹1.7 Cr,"22,870 sqft",Plot/Land,Bogadi,17000000.0,22870,743.3,Plot,
+1085,5 Bedroom House in Elivala ,₹1.1 Cr,"1,290 sqft",5 BHK,Elivala ,11000000.0,1290,8527.1,House,5.0
+1087,5 Bedroom House in Bylakuppe,₹1.1 Cr,"1,500 sqft",5 BHK,Bylakuppe,11000000.0,1500,7333.3,House,5.0
+1088,Residential land / Plot in Alanahalli,₹1.07 Cr,"2,145 sqft",Plot/Land,Alanahalli,10700000.0,2145,4988.3,Plot,
+1089,Residential land / Plot in Vajamangala,₹1.95 Cr,"7,500 sqft",Plot/Land,Vajamangala,19500000.0,7500,2600.0,Plot,
+1090,Residential land / Plot in Vijayanagar,₹1.05 Cr,"2,400 sqft",Plot/Land,Vijayanagar,10500000.0,2400,4375.0,Plot,
+1091,Residential land / Plot in Yelwala,₹45.61 Lac,800 sqft,Plot/Land,Yelwala,4561000.0,800,5701.2,Plot,
+1092,Residential land / Plot in Hunsur,₹1 Cr,"4,000 sqft",Plot/Land,Hunsur,10000000.0,4000,2500.0,Plot,
+1093,Residential land / Plot in Madagalli,₹34 Lac,"1,163 sqft",Plot/Land,Madagalli,3400000.0,1163,2923.5,Plot,
+1094,Residential land / Plot in Vinayakanagara,₹1.75 Cr,"2,422 sqft",Plot/Land,Vinayakanagara,17500000.0,2422,7225.4,Plot,
+1095,Residential land / Plot in Devaraja Mohalla,₹2.5 Cr,"1,520 sqft",Plot/Land,Devaraja Mohalla,25000000.0,1520,16447.4,Plot,
+1096,Residential land / Plot in Hootagalli,₹31 Lac,"11,700 sqft",Plot/Land,Hootagalli,3100000.0,11700,265.0,Plot,
+1097,Residential land / Plot in Vijayanagar,₹1.36 Cr,"2,267 sqft",Plot/Land,Vijayanagar,13600000.0,2267,5999.1,Plot,
+1098,Residential land / Plot in Kergalli,₹25 Lac,"1,200 sqft",Plot/Land,Kergalli,2500000.0,1200,2083.3,Plot,
+1099,Residential land / Plot in Siddhartha Layout,₹86 Lac,"2,400 sqft",Plot/Land,Siddhartha Layout,8600000.0,2400,3583.3,Plot,
+1100,Residential land / Plot in Chamarajapura,₹25 Lac,"1,200 sqft",Plot/Land,Chamarajapura,2500000.0,1200,2083.3,Plot,
+1101,Residential land / Plot in Bogadi,₹90 Lac,"2,400 sqft",Plot/Land,Bogadi,9000000.0,2400,3750.0,Plot,
+1102,Residential land / Plot in Ilavala Hobli,₹39.26 Lac,"2,122 sqft",Plot/Land,Ilavala Hobli,3926000.0,2122,1850.1,Plot,
+1103,Residential land / Plot in Ilavala Hobli,₹60 Lac,"2,400 sqft",Plot/Land,Ilavala Hobli,6000000.0,2400,2500.0,Plot,
+1104,2 Bedroom House in Yelwala,₹1.2 Cr,"2,000 sqft",2 BHK,Yelwala,12000000.0,2000,6000.0,House,2.0
+1105,Residential land / Plot in Elivala ,₹35 Lac,"1,200 sqft",Plot/Land,Elivala ,3500000.0,1200,2916.7,Plot,
+1108,1 Bedroom House in Ramakrishna Nagar,₹38 Lac,900 sqft,1 BHK,Ramakrishna Nagar,3800000.0,900,4222.2,House,1.0
+1109,Residential land / Plot in Madaragalli,₹31 Lac,"1,163 sqft",Plot/Land,Madaragalli,3100000.0,1163,2665.5,Plot,
+1110,Residential land / Plot in Ilavala Hobli,₹19 Lac,"1,200 sqft",Plot/Land,Ilavala Hobli,1900000.0,1200,1583.3,Plot,
+1111,Residential land / Plot in Srinagara Layout,₹1.15 Cr,"2,400 sqft",Plot/Land,Srinagara Layout,11500000.0,2400,4791.7,Plot,
+1112,Residential land / Plot in Bogadi,₹1.42 Cr,"2,542 sqft",Plot/Land,Bogadi,14200000.0,2542,5586.2,Plot,
+1113,Residential land / Plot in Vidyaranyapura,₹96 Lac,"2,400 sqft",Plot/Land,Vidyaranyapura,9600000.0,2400,4000.0,Plot,
+1114,3 Bedroom House in Bogadi,₹72 Lac,600 sqft,3 BHK,Bogadi,7200000.0,600,12000.0,House,3.0
+1115,Residential land / Plot in Hebbal,₹80 Lac,"2,000 sqft",Plot/Land,Hebbal,8000000.0,2000,4000.0,Plot,
+1116,Residential land / Plot in Near TVS Factory,₹35 Lac,"1,200 sqft",Plot/Land,Near TVS Factory,3500000.0,1200,2916.7,Plot,
+1117,3 BHK Flat in JP Nagar,₹80 Lac,"1,291 sqft",3 BHK,JP Nagar,8000000.0,1291,6196.7,House,3.0
+1118,Residential land / Plot in Sriramapura 2nd Stage,₹1 Cr,"1,200 sqft",Plot/Land,Sriramapura 2nd Stage,10000000.0,1200,8333.3,Plot,
+1119,Residential land / Plot in Mahadevapura,₹22 Lac,"1,162 sqft",Plot/Land,Mahadevapura,2200000.0,1162,1893.3,Plot,
+1120,Residential land / Plot in Hebbal,₹91.2 Lac,"2,400 sqft",Plot/Land,Hebbal,9120000.0,2400,3800.0,Plot,
+1121,Residential land / Plot in KRS Road,₹76 Lac,"5,445 sqft",Plot/Land,KRS Road,7600000.0,5445,1395.8,Plot,
+1122,2 BHK Flat in Jayalakshmipuram,₹60 Lac,995 sqft,2 BHK,Jayalakshmipuram,6000000.0,995,6030.2,House,2.0
+1123,2 Bedroom House in Chamundipuram,₹30 Lac,265 sqft,2 BHK,Chamundipuram,3000000.0,265,11320.8,House,2.0
+1124,2 Bedroom House in Narashima Raj Mohalla,₹40 Lac,"1,200 sqft",2 BHK,Narashima Raj Mohalla,4000000.0,1200,3333.3,House,2.0
+1125,2 Bedroom House in Siddalingeshwara Layout 1st Stage,₹73 Lac,600 sqft,2 BHK,Siddalingeshwara Layout 1st Stage,7300000.0,600,12166.7,House,2.0
+1126,Residential land / Plot in Siddhartha Layout,₹1.92 Cr,"2,400 sqft",Plot/Land,Siddhartha Layout,19200000.0,2400,8000.0,Plot,
+1127,Residential land / Plot in Prashanta Chaya Layout,₹30 Lac,"1,200 sqft",Plot/Land,Prashanta Chaya Layout,3000000.0,1200,2500.0,Plot,
+1128,2 BHK Independent Builder Floor in Lalithadripura,₹98 Lac,"1,200 sqft",2 BHK,Lalithadripura,9800000.0,1200,8166.7,House,2.0
+1130,4 Bedroom House in Yelwala,₹65 Lac,"1,200 sqft",4 BHK,Yelwala,6500000.0,1200,5416.7,House,4.0
+1131,Residential land / Plot in Ilavala Hobli,₹62 Lac,"1,200 sqft",Plot/Land,Ilavala Hobli,6200000.0,1200,5166.7,Plot,
+1132,2 Bedroom House in 4th Stage Vijayanagar,₹78 Lac,"1,200 sqft",2 BHK,4th Stage Vijayanagar,7800000.0,1200,6500.0,House,2.0
+1133,Residential land / Plot in 4th Stage Vijayanagar,₹60 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,6000000.0,1200,5000.0,Plot,
+1134,4 Bedroom House in Bogadi,₹3.2 Cr,"2,400 sqft",4 BHK,Bogadi,32000000.0,2400,13333.3,House,4.0
+1135,2 BHK Flat in Chamarajapuram Mohalla,₹50 Lac,830 sqft,2 BHK,Chamarajapuram Mohalla,5000000.0,830,6024.1,House,2.0
+1136,Residential land / Plot in Kuvempunagar,₹3 Cr,"2,400 sqft",Plot/Land,Kuvempunagar,30000000.0,2400,12500.0,Plot,
+1137,2 Bedroom House in Police Layout,₹75 Lac,"1,200 sqft",2 BHK,Police Layout,7500000.0,1200,6250.0,House,2.0
+1138,Residential land / Plot in Maidanahalli,₹39.59 Lac,"1,200 sqft",Plot/Land,Maidanahalli,3959000.0,1200,3299.2,Plot,
+1139,Residential land / Plot in Thaluru,₹72 Lac,"26,135 sqft",Plot/Land,Thaluru,7200000.0,26135,275.5,Plot,
+1140,2 Bedroom House in Vivekananda Nagar,₹1.6 Cr,"1,200 sqft",2 BHK,Vivekananda Nagar,16000000.0,1200,13333.3,House,2.0
+1141,2 Bedroom House in Hebbal,₹65 Lac,600 sqft,2 BHK,Hebbal,6500000.0,600,10833.3,House,2.0
+1142,Residential land / Plot in Parashurama n,₹48 Lac,"1,200 sqft",Plot/Land,Parashurama n,4800000.0,1200,4000.0,Plot,
+1143,Residential land / Plot in 4th Stage Vijayanagar,₹1.15 Cr,"1,800 sqft",Plot/Land,4th Stage Vijayanagar,11500000.0,1800,6388.9,Plot,
+1144,Residential land / Plot in Nagawala,₹30 Lac,"1,500 sqft",Plot/Land,Nagawala,3000000.0,1500,2000.0,Plot,
+1145,Residential land / Plot in 4th Stage Vijayanagar,₹90 Lac,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,9000000.0,2400,3750.0,Plot,
+1146,3 BHK Independent Builder Floor in Sakthi Nagar,₹4.2 Cr,"2,400 sqft",3 BHK,Sakthi Nagar,42000000.0,2400,17500.0,House,3.0
+1147,Residential land / Plot in Roopa Nagar,₹68 Lac,"1,200 sqft",Plot/Land,Roopa Nagar,6800000.0,1200,5666.7,Plot,
+1148,Residential land / Plot in Subhash Nagar,₹45 Lac,800 sqft,Plot/Land,Subhash Nagar,4500000.0,800,5625.0,Plot,
+1149,Residential land / Plot in KRS Road,₹45 Lac,"1,200 sqft",Plot/Land,KRS Road,4500000.0,1200,3750.0,Plot,
+1150,3 Bedroom House in Sharadadevi Nagar,₹90 Lac,"2,000 sqft",3 BHK,Sharadadevi Nagar,9000000.0,2000,4500.0,House,3.0
+1151,Residential land / Plot in Pura,₹13 Lac,"871,200 sqft",Plot/Land,Pura,1300000.0,871200,1.5,Plot,
+1152,Residential land / Plot in Bogadi,₹26.25 Lac,831 sqft,Plot/Land,Bogadi,2625000.0,831,3158.8,Plot,
+1153,Residential land / Plot in Lal Bahadur Shastri Nagar,₹54 Lac,"1,500 sqft",Plot/Land,Lal Bahadur Shastri Nagar,5400000.0,1500,3600.0,Plot,
+1154,3 BHK Independent Builder Floor in Srirampura,₹1.9 Cr,"1,200 sqft",3 BHK,Srirampura,19000000.0,1200,15833.3,House,3.0
+1155,Residential land / Plot in Maidanahalli,₹30 Lac,"1,200 sqft",Plot/Land,Maidanahalli,3000000.0,1200,2500.0,Plot,
+1156,4 Bedroom House in Srinagara Layout,₹75 Lac,600 sqft,4 BHK,Srinagara Layout,7500000.0,600,12500.0,House,4.0
+1157,Residential land / Plot in Nivedita Nagar,₹1.6 Cr,"2,250 sqft",Plot/Land,Nivedita Nagar,16000000.0,2250,7111.1,Plot,
+1158,3 Bedroom House in Shakthinagar,₹1 Cr,"1,200 sqft",3 BHK,Shakthinagar,10000000.0,1200,8333.3,House,3.0
+1159,3 Bedroom House in Bogadi,₹1.65 Cr,"1,200 sqft",3 BHK,Bogadi,16500000.0,1200,13750.0,House,3.0
+1160,Residential land / Plot in Belagola,₹45 Lac,"1,500 sqft",Plot/Land,Belagola,4500000.0,1500,3000.0,Plot,
+1161,3 Bedroom House in Kanakadasa Nagar,₹89 Lac,600 sqft,3 BHK,Kanakadasa Nagar,8900000.0,600,14833.3,House,3.0
+1162,Residential land / Plot in Dattagalli,₹1.9 Cr,"2,400 sqft",Plot/Land,Dattagalli,19000000.0,2400,7916.7,Plot,
+1163,2 BHK Flat in JP Nagar,₹62 Lac,"1,187 sqft",2 BHK,JP Nagar,6200000.0,1187,5223.3,House,2.0
+1164,Residential land / Plot in Srirampura,₹50 Lac,620 sqft,Plot/Land,Srirampura,5000000.0,620,8064.5,Plot,
+1165,Residential land / Plot in Belvata,₹64 Lac,"1,200 sqft",Plot/Land,Belvata,6400000.0,1200,5333.3,Plot,
+1166,Residential land / Plot in Mysore Road,₹15.5 Lac,"12,900 sqft",Plot/Land,Mysore Road,1550000.0,12900,120.2,Plot,
+1167,Residential land / Plot in Uttanahalli,₹4.8 Cr,"3,229 sqft",Plot/Land,Uttanahalli,48000000.0,3229,14865.3,Plot,
+1168,4 Bedroom House in Hebbal 2nd Stage,₹1.6 Cr,"1,720 sqft",4 BHK,Hebbal 2nd Stage,16000000.0,1720,9302.3,House,4.0
+1169,2 Bedroom House in Sriramapura 2nd Stage,₹95 Lac,600 sqft,2 BHK,Sriramapura 2nd Stage,9500000.0,600,15833.3,House,2.0
+1170,1 BHK Independent Builder Floor in Vidyaranyapura,₹54.5 Lac,"1,500 sqft",1 BHK,Vidyaranyapura,5450000.0,1500,3633.3,House,1.0
+1171,Residential land / Plot in Hunsur,₹25 Lac,"1,500 sqft",Plot/Land,Hunsur,2500000.0,1500,1666.7,Plot,
+1172,2 BHK Flat in VV Mohalla,₹58 Lac,810 sqft,2 BHK,VV Mohalla,5800000.0,810,7160.5,House,2.0
+1173,Residential land / Plot in Rajiv Nagar 2nd Stage,₹1.5 Cr,"2,400 sqft",Plot/Land,Rajiv Nagar 2nd Stage,15000000.0,2400,6250.0,Plot,
+1174,2 Bedroom House in Vasanth Nagar,₹95 Lac,"1,200 sqft",2 BHK,Vasanth Nagar,9500000.0,1200,7916.7,House,2.0
+1175,2 BHK Flat in VV Mohalla,₹85 Lac,960 sqft,2 BHK,VV Mohalla,8500000.0,960,8854.2,House,2.0
+1176,Residential land / Plot in Srinagara Layout,₹4.8 Lac,"1,162 sqft",Plot/Land,Srinagara Layout,480000.0,1162,413.1,Plot,
+1177,3 Bedroom House in Bogadi,₹1.18 Cr,"1,200 sqft",3 BHK,Bogadi,11800000.0,1200,9833.3,House,3.0
+1178,Residential land / Plot in Srinagara Layout,₹65 Lac,"1,200 sqft",Plot/Land,Srinagara Layout,6500000.0,1200,5416.7,Plot,
+1179,4 BHK Independent Builder Floor in 4th Stage Vijayanagar,₹82 Lac,600 sqft,4 BHK,4th Stage Vijayanagar,8200000.0,600,13666.7,House,4.0
+1180,2 Bedroom House in Jayanagar,₹1.25 Cr,"1,350 sqft",2 BHK,Jayanagar,12500000.0,1350,9259.3,House,2.0
+1181,Residential land / Plot in KR Mohalla,₹55 Lac,875 sqft,Plot/Land,KR Mohalla,5500000.0,875,6285.7,Plot,
+1182,3 Bedroom House in Srirampura,₹1.45 Cr,"1,200 sqft",3 BHK,Srirampura,14500000.0,1200,12083.3,House,3.0
+1183,Residential land / Plot in Bogadi,₹30 Lac,"1,200 sqft",Plot/Land,Bogadi,3000000.0,1200,2500.0,Plot,
+1184,2 BHK Independent Builder Floor in JP Nagar,₹1.4 Cr,28 sqft,2 BHK,JP Nagar,14000000.0,28,500000.0,House,2.0
+1185,1 BHK Flat in Bogadi,₹24 Lac,411 sqft,1 BHK,Bogadi,2400000.0,411,5839.4,House,1.0
+1186,Residential land / Plot in Siddalingapura,₹55 Lac,"2,565 sqft",Plot/Land,Siddalingapura,5500000.0,2565,2144.2,Plot,
+1187,3 BHK Flat in Chamarajapuram Mohalla,₹1.02 Cr,"1,465 sqft",3 BHK,Chamarajapuram Mohalla,10200000.0,1465,6962.5,House,3.0
+1188,Residential land / Plot in Dasanakoppalu,₹80 Lac,"1,350 sqft",Plot/Land,Dasanakoppalu,8000000.0,1350,5925.9,Plot,
+1189,2 Bedroom House in Lal Bahadur Shastri Nagar,₹48 Lac,600 sqft,2 BHK,Lal Bahadur Shastri Nagar,4800000.0,600,8000.0,House,2.0
+1190,3 BHK Flat in Bogadi,₹62 Lac,"1,174 sqft",3 BHK,Bogadi,6200000.0,1174,5281.1,House,3.0
+1191,Residential land / Plot in Nazarbad Mohalla,₹1.4 Cr,"1,320 sqft",Plot/Land,Nazarbad Mohalla,14000000.0,1320,10606.1,Plot,
+1192,Residential land / Plot in 4th Stage Vijayanagar,₹55 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,5500000.0,1200,4583.3,Plot,
+1193,Residential property in Belawadi,₹1 Cr,4 sqft,Plot/Land,Belawadi,10000000.0,4,2500000.0,Plot,
+1194,Residential land / Plot in Nagarathahalli,₹91.2 Lac,"2,400 sqft",Plot/Land,Nagarathahalli,9120000.0,2400,3800.0,Plot,
+1195,Residential land / Plot in JP Nagar 2nd Stage,₹66 Lac,"1,200 sqft",Plot/Land,JP Nagar 2nd Stage,6600000.0,1200,5500.0,Plot,
+1196,Residential land / Plot in Srirampura,₹1.7 Cr,"4,000 sqft",Plot/Land,Srirampura,17000000.0,4000,4250.0,Plot,
+1197,Residential land / Plot in Ilavala Hobli,₹1 Cr,"3,240 sqft",Plot/Land,Ilavala Hobli,10000000.0,3240,3086.4,Plot,
+1198,Residential land / Plot in Bannimantap,₹1.6 Cr,"2,325 sqft",Plot/Land,Bannimantap,16000000.0,2325,6881.7,Plot,
+1199,3 Bedroom House in Bogadi,₹73 Lac,600 sqft,3 BHK,Bogadi,7300000.0,600,12166.7,House,3.0
+1200,Residential land / Plot in 4th Stage Vijayanagar,₹77.5 Lac,"1,500 sqft",Plot/Land,4th Stage Vijayanagar,7750000.0,1500,5166.7,Plot,
+1201,Residential land / Plot in Belawadi,₹44 Lac,"1,840 sqft",Plot/Land,Belawadi,4400000.0,1840,2391.3,Plot,
+1202,2 Bedroom House in Sriramapura 2nd Stage,₹65 Lac,600 sqft,2 BHK,Sriramapura 2nd Stage,6500000.0,600,10833.3,House,2.0
+1203,Residential land / Plot in RT Nagar,₹50 Lac,"1,162 sqft",Plot/Land,RT Nagar,5000000.0,1162,4302.9,Plot,
+1204,Residential land / Plot in Dattagalli,₹65 Lac,"1,200 sqft",Plot/Land,Dattagalli,6500000.0,1200,5416.7,Plot,
+1205,2 Bedroom House in Ramakrishna Nagar,₹68 Lac,600 sqft,2 BHK,Ramakrishna Nagar,6800000.0,600,11333.3,House,2.0
+1206,2 Bedroom House in Hinkal,₹65 Lac,"1,620 sqft",2 BHK,Hinkal,6500000.0,1620,4012.3,House,2.0
+1207,Residential land / Plot in Jayapura,₹25.5 Lac,"1,500 sqft",Plot/Land,Jayapura,2550000.0,1500,1700.0,Plot,
+1208,3 Bedroom House in Gangothri Layout,₹3.25 Cr,"2,500 sqft",3 BHK,Gangothri Layout,32500000.0,2500,13000.0,House,3.0
+1209,3 Bedroom House in Kuvempunagar,₹3 Cr,"2,400 sqft",3 BHK,Kuvempunagar,30000000.0,2400,12500.0,House,3.0
+1210,2 BHK Independent Builder Floor in Hootagalli,₹1 Cr,"1,200 sqft",2 BHK,Hootagalli,10000000.0,1200,8333.3,House,2.0
+1211,Residential land / Plot in Varuna,₹50 Lac,"2,000 sqft",Plot/Land,Varuna,5000000.0,2000,2500.0,Plot,
+1212,2 Bedroom House in Shakthinagar,₹80 Lac,"1,200 sqft",2 BHK,Shakthinagar,8000000.0,1200,6666.7,House,2.0
+1214,Residential land / Plot in Belagola,₹50 Lac,"6,534 sqft",Plot/Land,Belagola,5000000.0,6534,765.2,Plot,
+1215,Residential land / Plot in Lalithadripura,₹1.15 Cr,"2,400 sqft",Plot/Land,Lalithadripura,11500000.0,2400,4791.7,Plot,
+1216,2 BHK Independent Builder Floor in Bugathagalli,₹90 Lac,"1,200 sqft",2 BHK,Bugathagalli,9000000.0,1200,7500.0,House,2.0
+1217,Residential land / Plot in Periyapatna,₹10 Lac,"1,200 sqft",Plot/Land,Periyapatna,1000000.0,1200,833.3,Plot,
+1218,Residential land / Plot in Ilavala Hobli,₹60 Lac,"1,996 sqft",Plot/Land,Ilavala Hobli,6000000.0,1996,3006.0,Plot,
+1219,Residential land / Plot in Dadadahalli,₹30 Lac,"1,200 sqft",Plot/Land,Dadadahalli,3000000.0,1200,2500.0,Plot,
+1220,2 Bedroom House in Narashima Raj Mohalla,₹35 Lac,300 sqft,2 BHK,Narashima Raj Mohalla,3500000.0,300,11666.7,House,2.0
+1221,Residential land / Plot in Kalyanagiri,₹65 Lac,"1,200 sqft",Plot/Land,Kalyanagiri,6500000.0,1200,5416.7,Plot,
+1222,Residential land / Plot in Bugathagalli,₹55 Lac,"1,200 sqft",Plot/Land,Bugathagalli,5500000.0,1200,4583.3,Plot,
+1223,3 Bedroom House in Vidyaranyapura,₹1.1 Cr,961 sqft,3 BHK,Vidyaranyapura,11000000.0,961,11446.4,House,3.0
+1224,Residential land / Plot in Doora,₹40 Lac,"1,200 sqft",Plot/Land,Doora,4000000.0,1200,3333.3,Plot,
+1226,Residential land / Plot in Nanjangud,₹48 Lac,"1,500 sqft",Plot/Land,Nanjangud,4800000.0,1500,3200.0,Plot,
+1227,3 BHK Flat in Hootagalli,₹1.5 Cr,"1,500 sqft",3 BHK,Hootagalli,15000000.0,1500,10000.0,House,3.0
+1228,Residential land / Plot in Ilavala Hobli,₹25 Lac,"1,200 sqft",Plot/Land,Ilavala Hobli,2500000.0,1200,2083.3,Plot,
+1229,Residential land / Plot in Shyadanahalli,₹63.45 Lac,"1,269 sqft",Plot/Land,Shyadanahalli,6345000.0,1269,5000.0,Plot,
+1230,2 Bedroom House in Shanthaveri Gopal Gowda Nagar,₹53 Lac,600 sqft,2 BHK,Shanthaveri Gopal Gowda Nagar,5300000.0,600,8833.3,House,2.0
+1231,2 Bedroom House in Ramakrishna Nagar,₹55 Lac,600 sqft,2 BHK,Ramakrishna Nagar,5500000.0,600,9166.7,House,2.0
+1232,2 Bedroom House in Ramakrishna Nagar,₹1.3 Cr,"2,400 sqft",2 BHK,Ramakrishna Nagar,13000000.0,2400,5416.7,House,2.0
+1233,Residential land / Plot in Roopa Nagar,₹40 Lac,600 sqft,Plot/Land,Roopa Nagar,4000000.0,600,6666.7,Plot,
+1234,Residential land / Plot in Ilavala Hobli,₹39 Lac,"1,200 sqft",Plot/Land,Ilavala Hobli,3900000.0,1200,3250.0,Plot,
+1235,Residential land / Plot in Nanjangud,₹35 Lac,"1,200 sqft",Plot/Land,Nanjangud,3500000.0,1200,2916.7,Plot,
+1236,Residential land / Plot in 3rd Stage Vijayanagar,₹1.35 Cr,"1,350 sqft",Plot/Land,3rd Stage Vijayanagar,13500000.0,1350,10000.0,Plot,
+1237,Residential land / Plot in Yelwala,₹9.49 Lac,600 sqft,Plot/Land,Yelwala,949000.0,600,1581.7,Plot,
+1239,Residential land / Plot in University Layout,₹1.1 Cr,"2,400 sqft",Plot/Land,University Layout,11000000.0,2400,4583.3,Plot,
+1240,2 BHK Flat in Bogadi,₹65 Lac,929 sqft,2 BHK,Bogadi,6500000.0,929,6996.8,House,2.0
+1241,Residential land / Plot in Jayapura,₹18 Lac,"1,500 sqft",Plot/Land,Jayapura,1800000.0,1500,1200.0,Plot,
+1242,Residential land / Plot in D Block Vijay Nagar 3rd Stage,₹90 Lac,"1,200 sqft",Plot/Land,D Block Vijay Nagar 3rd Stage,9000000.0,1200,7500.0,Plot,
+1243,3 BHK Flat in Hebbal Industrial Area,₹92 Lac,"1,650 sqft",3 BHK,Hebbal Industrial Area,9200000.0,1650,5575.8,House,3.0
+1244,2 Bedroom House in Udayagiri,₹1.5 Cr,"1,914 sqft",2 BHK,Udayagiri,15000000.0,1914,7837.0,House,2.0
+1245,3 Bedroom House in Vasanth Nagar,₹1.62 Cr,"2,400 sqft",3 BHK,Vasanth Nagar,16200000.0,2400,6750.0,House,3.0
+1246,Residential land / Plot in Huyilalu,₹35.5 Lac,"2,000 sqft",Plot/Land,Huyilalu,3550000.0,2000,1775.0,Plot,
+1247,Residential land / Plot in Dattagalli,₹72 Lac,"1,200 sqft",Plot/Land,Dattagalli,7200000.0,1200,6000.0,Plot,
+1248,3 Bedroom House in Dattagalli,₹1.25 Cr,"1,200 sqft",3 BHK,Dattagalli,12500000.0,1200,10416.7,House,3.0
+1249,2 BHK Flat in JP Nagar,₹55 Lac,"1,250 sqft",2 BHK,JP Nagar,5500000.0,1250,4400.0,House,2.0
+1250,3 Bedroom House in Vijayanagar,₹1.3 Cr,"1,200 sqft",3 BHK,Vijayanagar,13000000.0,1200,10833.3,House,3.0
+1251,2 Bedroom House in Nanjangud,₹60 Lac,"1,200 sqft",2 BHK,Nanjangud,6000000.0,1200,5000.0,House,2.0
+1252,1 Bedroom House in Bamboo Bazar,₹75 Lac,400 sqft,1 BHK,Bamboo Bazar,7500000.0,400,18750.0,House,1.0
+1253,3 Bedroom House in Rajendra Nagar,₹45 Lac,"2,150 sqft",3 BHK,Rajendra Nagar,4500000.0,2150,2093.0,House,3.0
+1254,Residential land / Plot in Yelwala,₹12 Lac,800 sqft,Plot/Land,Yelwala,1200000.0,800,1500.0,Plot,
+1255,Residential land / Plot in Udbur,₹18.46 Lac,"1,055 sqft",Plot/Land,Udbur,1846000.0,1055,1749.8,Plot,
+1256,Residential land / Plot in Dadadahalli,₹36 Lac,"1,200 sqft",Plot/Land,Dadadahalli,3600000.0,1200,3000.0,Plot,
+1257,Residential land / Plot in KSRTC layout srirampura,₹60 Lac,"1,200 sqft",Plot/Land,KSRTC layout srirampura,6000000.0,1200,5000.0,Plot,
+1258,2 Bedroom House in Sriramapura 2nd Stage,₹2.25 Cr,"2,400 sqft",2 BHK,Sriramapura 2nd Stage,22500000.0,2400,9375.0,House,2.0
+1259,Residential land / Plot in Madagalli,₹1.06 Cr,"2,400 sqft",Plot/Land,Madagalli,10600000.0,2400,4416.7,Plot,
+1260,2 Bedroom House in Ramakrishna Nagar,₹85 Lac,962 sqft,2 BHK,Ramakrishna Nagar,8500000.0,962,8835.8,House,2.0
+1261,6 Bedroom House in Kuvempunagar,₹3.8 Cr,"4,140 sqft",6 BHK,Kuvempunagar,38000000.0,4140,9178.7,House,6.0
+1262,2 BHK Independent Builder Floor in Vijayanagar,₹88.8 Lac,"1,287 sqft",2 BHK,Vijayanagar,8880000.0,1287,6899.8,House,2.0
+1263,Residential land / Plot in Hampapura,₹33 Lac,"1,200 sqft",Plot/Land,Hampapura,3300000.0,1200,2750.0,Plot,
+1264,4 Bedroom House in M Block Kuvempunagar,₹1.55 Cr,"1,200 sqft",4 BHK,M Block Kuvempunagar,15500000.0,1200,12916.7,House,4.0
+1265,Residential property in Sathagalli Layout,₹16 Lac,"1,200 sqft",Plot/Land,Sathagalli Layout,1600000.0,1200,1333.3,Plot,
+1266,2 Bedroom House in Rajiv Nagar,₹64 Lac,600 sqft,2 BHK,Rajiv Nagar,6400000.0,600,10666.7,House,2.0
+1267,2 Bedroom House in Srinagara Layout,₹82 Lac,"1,200 sqft",2 BHK,Srinagara Layout,8200000.0,1200,6833.3,House,2.0
+1268,4 Bedroom House in 4th Stage Vijayanagar,₹95 Lac,600 sqft,4 BHK,4th Stage Vijayanagar,9500000.0,600,15833.3,House,4.0
+1269,4 Bedroom House in Sriramapura 2nd Stage,₹1.1 Cr,"1,200 sqft",4 BHK,Sriramapura 2nd Stage,11000000.0,1200,9166.7,House,4.0
+1270,Residential land / Plot in RT Nagar,₹96 Lac,"2,400 sqft",Plot/Land,RT Nagar,9600000.0,2400,4000.0,Plot,
+1272,2 Bedroom Farm house in haginavalu,₹1.55 Cr,"108,900 sqft",2 BHK,haginavalu,15500000.0,108900,142.3,House,2.0
+1273,2 BHK Flat in Bogadi,₹52 Lac,890 sqft,2 BHK,Bogadi,5200000.0,890,5842.7,House,2.0
+1274,2 BHK Flat in Bogadi,₹31.22 Lac,890 sqft,2 BHK,Bogadi,3122000.0,890,3507.9,House,2.0
+1275,3 BHK Independent Builder Floor in Deepanagar,₹1.2 Cr,"1,580 sqft",3 BHK,Deepanagar,12000000.0,1580,7594.9,House,3.0
+1276,1 Bedroom Farm house in Nanjangud,₹75 Lac,"66,000 sqft",1 BHK,Nanjangud,7500000.0,66000,113.6,House,1.0
+1277,Residential land / Plot in Near Maharanj Junior College,₹2.44 Cr,"1,625 sqft",Plot/Land,Near Maharanj Junior College,24400000.0,1625,15015.4,Plot,
+1278,3 BHK Flat in JP Nagar,₹95 Lac,"1,450 sqft",3 BHK,JP Nagar,9500000.0,1450,6551.7,House,3.0
+1279,Residential land / Plot in RS Naidu Nagar,₹33 Lac,"1,200 sqft",Plot/Land,RS Naidu Nagar,3300000.0,1200,2750.0,Plot,
+1281,5 Bedroom House in Lashkar Mohalla,₹1.8 Cr,"2,209 sqft",5 BHK,Lashkar Mohalla,18000000.0,2209,8148.5,House,5.0
+1282,3 BHK Independent Builder Floor in Nazarbhad,₹1.6 Cr,"1,700 sqft",3 BHK,Nazarbhad,16000000.0,1700,9411.8,House,3.0
+1283,Residential land / Plot in Bogadi,₹35 Lac,"1,050 sqft",Plot/Land,Bogadi,3500000.0,1050,3333.3,Plot,
+1284,Residential land / Plot in Uttanahalli,₹10 Lac,"6,480 sqft",Plot/Land,Uttanahalli,1000000.0,6480,154.3,Plot,
+1285,Residential land / Plot in University Layout,₹83 Lac,"1,722 sqft",Plot/Land,University Layout,8300000.0,1722,4820.0,Plot,
+1286,Residential land / Plot in H Block Ramakrishnanagar,₹2.65 Cr,"3,000 sqft",Plot/Land,H Block Ramakrishnanagar,26500000.0,3000,8833.3,Plot,
+1287,Residential land / Plot in Sathgalli,₹17 Lac,600 sqft,Plot/Land,Sathgalli,1700000.0,600,2833.3,Plot,
+1288,4 Bedroom House in Nadanahalli,₹1.1 Cr,"2,400 sqft",4 BHK,Nadanahalli,11000000.0,2400,4583.3,House,4.0
+1289,Residential land / Plot in Dadadahalli,₹4.8 Lac,"2,400 sqft",Plot/Land,Dadadahalli,480000.0,2400,200.0,Plot,
+1290,Residential land / Plot in Kumarabeedu,₹25 Lac,"1,200 sqft",Plot/Land,Kumarabeedu,2500000.0,1200,2083.3,Plot,
+1291,2 BHK Flat in Vontikoppal,₹69 Lac,800 sqft,2 BHK,Vontikoppal,6900000.0,800,8625.0,House,2.0
+1292,Residential land / Plot in Dattagalli 3rd Stage,₹65 Lac,"1,200 sqft",Plot/Land,Dattagalli 3rd Stage,6500000.0,1200,5416.7,Plot,
+1294,2 BHK Flat in Hebbal,₹56 Lac,950 sqft,2 BHK,Hebbal,5600000.0,950,5894.7,House,2.0
+1295,Residential land / Plot in Huyilalu,₹57 Lac,"2,400 sqft",Plot/Land,Huyilalu,5700000.0,2400,2375.0,Plot,
+1296,Residential land / Plot in eagleburg golf,₹3 Cr,"10,000 sqft",Plot/Land,eagleburg golf,30000000.0,10000,3000.0,Plot,
+1297,2 BHK Flat in JP Nagar,₹52 Lac,"1,070 sqft",2 BHK,JP Nagar,5200000.0,1070,4859.8,House,2.0
+1298,4 Bedroom House in Bogadi,₹1.6 Cr,"1,342 sqft",4 BHK,Bogadi,16000000.0,1342,11922.5,House,4.0
+1299,3 Bedroom House in KR Mohalla,₹3 Cr,"1,600 sqft",3 BHK,KR Mohalla,30000000.0,1600,18750.0,House,3.0
+1300,Residential land / Plot in Sathgalli,₹45 Lac,"1,200 sqft",Plot/Land,Sathgalli,4500000.0,1200,3750.0,Plot,
+1301,2 Bedroom House in 2nd Stage Gokulam,₹1.4 Cr,"1,200 sqft",2 BHK,2nd Stage Gokulam,14000000.0,1200,11666.7,House,2.0
+1302,2 Bedroom House in Kuvempunagar,₹1.45 Cr,"1,200 sqft",2 BHK,Kuvempunagar,14500000.0,1200,12083.3,House,2.0
+1303,3 Bedroom House in 1st Stage Vijayanagar,₹2.6 Cr,"2,400 sqft",3 BHK,1st Stage Vijayanagar,26000000.0,2400,10833.3,House,3.0
+1304,4 Bedroom House in 2nd Stage Vijay Nagar,₹1.6 Cr,"1,485 sqft",4 BHK,2nd Stage Vijay Nagar,16000000.0,1485,10774.4,House,4.0
+1305,Residential land / Plot in 1st Stage Vijayanagar,₹3.2 Cr,"4,000 sqft",Plot/Land,1st Stage Vijayanagar,32000000.0,4000,8000.0,Plot,
+1306,2 Bedroom House in 1st stage Kuvempunagar,₹1.9 Cr,"1,750 sqft",2 BHK,1st stage Kuvempunagar,19000000.0,1750,10857.1,House,2.0
+1307,4 Bedroom House in 1st Stage Vijayanagar,₹2.3 Cr,"2,400 sqft",4 BHK,1st Stage Vijayanagar,23000000.0,2400,9583.3,House,4.0
+1308,3 Bedroom House in 1st Stage Vijayanagar,₹1.8 Cr,"1,800 sqft",3 BHK,1st Stage Vijayanagar,18000000.0,1800,10000.0,House,3.0
+1309,Residential land / Plot in 1st Stage Vijayanagar,₹2.1 Cr,"2,400 sqft",Plot/Land,1st Stage Vijayanagar,21000000.0,2400,8750.0,Plot,
+1310,Residential land / Plot in Vivekananda Nagar,₹1 Cr,"1,200 sqft",Plot/Land,Vivekananda Nagar,10000000.0,1200,8333.3,Plot,
+1311,2 Bedroom House in 4th Stage Vijayanagar,₹1.1 Cr,"1,200 sqft",2 BHK,4th Stage Vijayanagar,11000000.0,1200,9166.7,House,2.0
+1312,2 Bedroom House in Kuvempunagar 2nd Stage,₹2 Cr,"2,400 sqft",2 BHK,Kuvempunagar 2nd Stage,20000000.0,2400,8333.3,House,2.0
+1313,2 Bedroom House in Jayanagar,₹2.1 Cr,"2,400 sqft",2 BHK,Jayanagar,21000000.0,2400,8750.0,House,2.0
+1314,Residential land / Plot in 2nd Stage Vijay Nagar,₹1.25 Cr,"1,200 sqft",Plot/Land,2nd Stage Vijay Nagar,12500000.0,1200,10416.7,Plot,
+1315,2 Bedroom House in Saraswathipuram,₹1.89 Cr,"2,100 sqft",2 BHK,Saraswathipuram,18900000.0,2100,9000.0,House,2.0
+1316,Residential land / Plot in Kuvempunagar,₹2.5 Cr,"2,400 sqft",Plot/Land,Kuvempunagar,25000000.0,2400,10416.7,Plot,
+1317,2 BHK Flat in Bannimantap,₹58 Lac,"1,275 sqft",2 BHK,Bannimantap,5800000.0,1275,4549.0,House,2.0
+1318,Residential land / Plot in Yelwala,₹62.4 Lac,"2,400 sqft",Plot/Land,Yelwala,6240000.0,2400,2600.0,Plot,
+1319,Residential land / Plot in 4th Stage Vijayanagar,₹85.5 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,8550000.0,1200,7125.0,Plot,
+1320,2 BHK Flat in JP Nagar,₹40 Lac,941 sqft,2 BHK,JP Nagar,4000000.0,941,4250.8,House,2.0
+1321,3 BHK Independent Builder Floor in Bogadi,₹58 Lac,"1,350 sqft",3 BHK,Bogadi,5800000.0,1350,4296.3,House,3.0
+1322,2 BHK Independent Builder Floor in Hebbal,₹62 Lac,600 sqft,2 BHK,Hebbal,6200000.0,600,10333.3,House,2.0
+1323,2 Bedroom House in Shyadanahalli,₹22 Lac,"248,293,306 sqft",2 BHK,Shyadanahalli,2200000.0,248293306,0.0,House,2.0
+1324,2 Bedroom House in JP Nagar,₹82 Lac,"1,200 sqft",2 BHK,JP Nagar,8200000.0,1200,6833.3,House,2.0
+1325,4 Bedroom House in Jayapura,₹95 Lac,"3,000 sqft",4 BHK,Jayapura,9500000.0,3000,3166.7,House,4.0
+1326,2 Bedroom House in Lal Bahadur Shastri Nagar,₹53 Lac,600 sqft,2 BHK,Lal Bahadur Shastri Nagar,5300000.0,600,8833.3,House,2.0
+1327,3 BHK Flat in Bogadi,₹65 Lac,"1,475 sqft",3 BHK,Bogadi,6500000.0,1475,4406.8,House,3.0
+1328,Residential land / Plot in Kuvempunagar,₹1.85 Cr,"2,400 sqft",Plot/Land,Kuvempunagar,18500000.0,2400,7708.3,Plot,
+1329,Residential land / Plot in Jantagalli,₹20 Lac,"1,200 sqft",Plot/Land,Jantagalli,2000000.0,1200,1666.7,Plot,
+1330,Residential land / Plot in 3rd Stage Sriramapura,₹50 Lac,"1,163 sqft",Plot/Land,3rd Stage Sriramapura,5000000.0,1163,4299.2,Plot,
+1331,Residential land / Plot in Manuganahalli,₹30 Lac,"1,500 sqft",Plot/Land,Manuganahalli,3000000.0,1500,2000.0,Plot,
+1332,Residential land / Plot in Ring Road,₹45 Lac,"1,200 sqft",Plot/Land,Ring Road,4500000.0,1200,3750.0,Plot,
+1333,Residential land / Plot in Vijayanagar,₹86 Lac,"1,520 sqft",Plot/Land,Vijayanagar,8600000.0,1520,5657.9,Plot,
+1334,Residential land / Plot in Kesare,₹65 Lac,"1,560 sqft",Plot/Land,Kesare,6500000.0,1560,4166.7,Plot,
+1335,3 BHK Flat in Kuvempunagar,₹99.54 Lac,"1,659 sqft",3 BHK,Kuvempunagar,9954000.0,1659,6000.0,House,3.0
+1336,Residential land / Plot in Hebbal,₹34.8 Lac,"1,200 sqft",Plot/Land,Hebbal,3480000.0,1200,2900.0,Plot,
+1337,Residential land / Plot in 3rd Stage Sriramapura,₹65 Lac,"1,200 sqft",Plot/Land,3rd Stage Sriramapura,6500000.0,1200,5416.7,Plot,
+1339,Residential land / Plot in Devalapura,₹75 Lac,"21,780 sqft",Plot/Land,Devalapura,7500000.0,21780,344.4,Plot,
+1340,Residential land / Plot in Nanjangud,₹60 Lac,"3,325 sqft",Plot/Land,Nanjangud,6000000.0,3325,1804.5,Plot,
+1341,Residential land / Plot in Sree Sapthamathrukha Layout,₹75 Lac,"4,000 sqft",Plot/Land,Sree Sapthamathrukha Layout,7500000.0,4000,1875.0,Plot,
+1342,Residential land / Plot in Metagalli,₹75 Lac,"2,400 sqft",Plot/Land,Metagalli,7500000.0,2400,3125.0,Plot,
+1343,Residential land / Plot in T Narsipura Road,₹17 Lac,"1,200 sqft",Plot/Land,T Narsipura Road,1700000.0,1200,1416.7,Plot,
+1344,3 Bedroom House in Dattagalli,₹1.85 Cr,"1,200 sqft",3 BHK,Dattagalli,18500000.0,1200,15416.7,House,3.0
+1345,Residential land / Plot in Roopa Nagar,₹60 Lac,"2,200 sqft",Plot/Land,Roopa Nagar,6000000.0,2200,2727.3,Plot,
+1347,Residential land / Plot in Bogadi 2nd Stage,₹1.3 Cr,"2,400 sqft",Plot/Land,Bogadi 2nd Stage,13000000.0,2400,5416.7,Plot,
+1348,Residential land / Plot in Varuna,₹33 Lac,"1,453 sqft",Plot/Land,Varuna,3300000.0,1453,2271.2,Plot,
+1349,4 Bedroom House in Kuvempunagar,₹85.1 Lac,700 sqft,4 BHK,Kuvempunagar,8510000.0,700,12157.1,House,4.0
+1350,3 Bedroom House in Sathgalli,₹73 Lac,600 sqft,3 BHK,Sathgalli,7300000.0,600,12166.7,House,3.0
+1351,Residential land / Plot in Ilavala Hobli,₹65 Lac,"2,400 sqft",Plot/Land,Ilavala Hobli,6500000.0,2400,2708.3,Plot,
+1352,Residential land / Plot in Yelwala,₹19 Lac,"1,200 sqft",Plot/Land,Yelwala,1900000.0,1200,1583.3,Plot,
+1353,Residential land / Plot in Hunsur,₹22 Lac,"1,200 sqft",Plot/Land,Hunsur,2200000.0,1200,1833.3,Plot,
+1354,Residential land / Plot in Metagalli,₹72 Lac,"2,400 sqft",Plot/Land,Metagalli,7200000.0,2400,3000.0,Plot,
+1355,2 BHK Independent Builder Floor in Kuvempunagar,₹71 Lac,"1,080 sqft",2 BHK,Kuvempunagar,7100000.0,1080,6574.1,House,2.0
+1356,Residential land / Plot in Sindhuvalli,₹33 Lac,"1,500 sqft",Plot/Land,Sindhuvalli,3300000.0,1500,2200.0,Plot,
+1357,3 Bedroom House in Dattagalli,₹89 Lac,"1,100 sqft",3 BHK,Dattagalli,8900000.0,1100,8090.9,House,3.0
+1358,3 Bedroom House in 4th Stage Vijayanagar,₹1.25 Cr,"1,200 sqft",3 BHK,4th Stage Vijayanagar,12500000.0,1200,10416.7,House,3.0
+1359,Residential land / Plot in Maidanahalli,₹32 Lac,"1,200 sqft",Plot/Land,Maidanahalli,3200000.0,1200,2666.7,Plot,
+1360,3 BHK Independent Builder Floor in M Block Kuvempunagar,₹1.45 Cr,"1,350 sqft",3 BHK,M Block Kuvempunagar,14500000.0,1350,10740.7,House,3.0
+1361,Residential land / Plot in Kenchalagudu,₹68 Lac,"2,200 sqft",Plot/Land,Kenchalagudu,6800000.0,2200,3090.9,Plot,
+1362,Residential land / Plot in 4th Stage Vijayanagar,₹43 Lac,600 sqft,Plot/Land,4th Stage Vijayanagar,4300000.0,600,7166.7,Plot,
+1363,3 Bedroom House in 4th Stage Vijayanagar,₹86 Lac,"1,200 sqft",3 BHK,4th Stage Vijayanagar,8600000.0,1200,7166.7,House,3.0
+1364,3 Bedroom House in KRS Road,₹99 Lac,"1,850 sqft",3 BHK,KRS Road,9900000.0,1850,5351.4,House,3.0
+1365,Residential land / Plot in Gohalli,₹30 Lac,"1,200 sqft",Plot/Land,Gohalli,3000000.0,1200,2500.0,Plot,
+1366,Residential land / Plot in Gohalli,₹36 Lac,"1,200 sqft",Plot/Land,Gohalli,3600000.0,1200,3000.0,Plot,
+1367,Residential land / Plot in Yelwala,₹18 Lac,"1,200 sqft",Plot/Land,Yelwala,1800000.0,1200,1500.0,Plot,
+1368,2 BHK Flat in JP Nagar,₹68 Lac,"1,128 sqft",2 BHK,JP Nagar,6800000.0,1128,6028.4,House,2.0
+1369,Residential land / Plot in Manuganahalli,₹12 Lac,"1,200 sqft",Plot/Land,Manuganahalli,1200000.0,1200,1000.0,Plot,
+1370,3 BHK Independent Builder Floor in M Block Kuvempunagar,₹1.65 Cr,"1,500 sqft",3 BHK,M Block Kuvempunagar,16500000.0,1500,11000.0,House,3.0
+1371,2 Bedroom House in Yelwala,₹70 Lac,"1,200 sqft",2 BHK,Yelwala,7000000.0,1200,5833.3,House,2.0
+1374,3 Bedroom House in JP Nagar,₹1.05 Cr,"1,200 sqft",3 BHK,JP Nagar,10500000.0,1200,8750.0,House,3.0
+1375,3 Bedroom House in Kuvempunagar,₹1.45 Cr,"1,200 sqft",3 BHK,Kuvempunagar,14500000.0,1200,12083.3,House,3.0
+1376,Residential land / Plot in Ramachandra Agrahara,₹1.66 Cr,"6,400 sqft",Plot/Land,Ramachandra Agrahara,16600000.0,6400,2593.8,Plot,
+1377,Residential land / Plot in 4th Stage Vijayanagar,₹2.8 Cr,"4,000 sqft",Plot/Land,4th Stage Vijayanagar,28000000.0,4000,7000.0,Plot,
+1378,2 Bedroom House in Srinagara Layout,₹62.5 Lac,"1,260 sqft",2 BHK,Srinagara Layout,6250000.0,1260,4960.3,House,2.0
+1380,3 BHK Flat in 2nd Stage Vijay Nagar,₹99 Lac,"1,576 sqft",3 BHK,2nd Stage Vijay Nagar,9900000.0,1576,6281.7,House,3.0
+1381,Residential land / Plot in Rajiv Nagar,₹62 Lac,"1,200 sqft",Plot/Land,Rajiv Nagar,6200000.0,1200,5166.7,Plot,
+1382,Residential land / Plot in 3rd Stage Sriramapura,₹88 Lac,"1,200 sqft",Plot/Land,3rd Stage Sriramapura,8800000.0,1200,7333.3,Plot,
+1384,Residential land / Plot in Sree Sapthamathrukha Layout,₹30 Lac,"2,400 sqft",Plot/Land,Sree Sapthamathrukha Layout,3000000.0,2400,1250.0,Plot,
+1385,Residential land / Plot in Thaluru,₹65 Lac,"2,400 sqft",Plot/Land,Thaluru,6500000.0,2400,2708.3,Plot,
+1386,Residential land / Plot in Gohalli,₹52 Lac,"1,834 sqft",Plot/Land,Gohalli,5200000.0,1834,2835.3,Plot,
+1387,3 Bedroom House in Kuvempunagar,₹1.2 Cr,"1,100 sqft",3 BHK,Kuvempunagar,12000000.0,1100,10909.1,House,3.0
+1388,Residential land / Plot in Bogadi,₹91.49 Lac,"2,033 sqft",Plot/Land,Bogadi,9149000.0,2033,4500.2,Plot,
+1389,Residential land / Plot in Ilavala Hobli,₹1.2 Cr,"4,000 sqft",Plot/Land,Ilavala Hobli,12000000.0,4000,3000.0,Plot,
+1390,5 Bedroom House in Bank Employees Colony,₹2.5 Cr,"2,400 sqft",5 BHK,Bank Employees Colony,25000000.0,2400,10416.7,House,5.0
+1391,3 Bedroom House in 4th Stage Vijayanagar,₹95 Lac,600 sqft,3 BHK,4th Stage Vijayanagar,9500000.0,600,15833.3,House,3.0
+1392,3 Bedroom House in Dattagalli,₹90 Lac,600 sqft,3 BHK,Dattagalli,9000000.0,600,15000.0,House,3.0
+1394,2 Bedroom House in Srinagara Layout,₹61 Lac,"1,260 sqft",2 BHK,Srinagara Layout,6100000.0,1260,4841.3,House,2.0
+1395,2 Bedroom House in Srinagara Layout,₹60 Lac,"1,260 sqft",2 BHK,Srinagara Layout,6000000.0,1260,4761.9,House,2.0
+1396,Residential land / Plot in Bamboo Bazar,₹1.75 Cr,"3,200 sqft",Plot/Land,Bamboo Bazar,17500000.0,3200,5468.8,Plot,
+1397,Residential land / Plot in Hampapura,₹18 Lac,600 sqft,Plot/Land,Hampapura,1800000.0,600,3000.0,Plot,
+1398,2 Bedroom House in Lal Bahadur Shastri Nagar,₹52 Lac,600 sqft,2 BHK,Lal Bahadur Shastri Nagar,5200000.0,600,8666.7,House,2.0
+1399,Residential land / Plot in Sree Sapthamathrukha Layout,₹20 Lac,"1,200 sqft",Plot/Land,Sree Sapthamathrukha Layout,2000000.0,1200,1666.7,Plot,
+1400,3 Bedroom House in Bogadi,₹1.1 Cr,"1,800 sqft",3 BHK,Bogadi,11000000.0,1800,6111.1,House,3.0
+1402,3 Bedroom House in Sriramapura 2nd Stage,₹88 Lac,600 sqft,3 BHK,Sriramapura 2nd Stage,8800000.0,600,14666.7,House,3.0
+1403,Residential land / Plot in M Block Kuvempunagar,₹1.2 Cr,"1,040 sqft",Plot/Land,M Block Kuvempunagar,12000000.0,1040,11538.5,Plot,
+1404,3 Bedroom House in Kuvempunagar,₹1.35 Cr,"1,200 sqft",3 BHK,Kuvempunagar,13500000.0,1200,11250.0,House,3.0
+1405,4 Bedroom House in Kuvempunagar,₹2.65 Cr,"2,400 sqft",4 BHK,Kuvempunagar,26500000.0,2400,11041.7,House,4.0
+1406,Residential land / Plot in Yelwala,₹27.91 Lac,"1,163 sqft",Plot/Land,Yelwala,2791000.0,1163,2399.8,Plot,
+1407,Residential land / Plot in 4th Stage Vijayanagar,₹85 Lac,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,8500000.0,2400,3541.7,Plot,
+1408,3 Bedroom House in Srirampura,₹1.25 Cr,"1,200 sqft",3 BHK,Srirampura,12500000.0,1200,10416.7,House,3.0
+1409,3 Bedroom House in Dattagalli,₹1.5 Cr,"1,200 sqft",3 BHK,Dattagalli,15000000.0,1200,12500.0,House,3.0
+1410,Residential land / Plot in Saraswathipuram,₹2.25 Cr,"2,400 sqft",Plot/Land,Saraswathipuram,22500000.0,2400,9375.0,Plot,
+1411,8 Bedroom House in Saraswathipuram,₹2.6 Cr,"1,320 sqft",8 BHK,Saraswathipuram,26000000.0,1320,19697.0,House,8.0
+1412,Residential property in Elivala ,₹15.6 Lac,"1,200 sqft",Plot/Land,Elivala ,1560000.0,1200,1300.0,Plot,
+1413,4 Bedroom House in 3rd Stage Vijayanagar,₹2.1 Cr,"1,200 sqft",4 BHK,3rd Stage Vijayanagar,21000000.0,1200,17500.0,House,4.0
+1414,Residential land / Plot in Railway Layout,₹75 Lac,"2,380 sqft",Plot/Land,Railway Layout,7500000.0,2380,3151.3,Plot,
+1415,Residential land / Plot in Kesare,₹72 Lac,"2,400 sqft",Plot/Land,Kesare,7200000.0,2400,3000.0,Plot,
+1416,Residential land / Plot in Kenchalagudu,₹36 Lac,"1,200 sqft",Plot/Land,Kenchalagudu,3600000.0,1200,3000.0,Plot,
+1417,Residential land / Plot in 4th Stage Vijayanagar,₹73.8 Lac,"1,800 sqft",Plot/Land,4th Stage Vijayanagar,7380000.0,1800,4100.0,Plot,
+1418,2 Bedroom House in Dattagalli 3rd Stage,₹1.5 Lac,100 sqft,2 BHK,Dattagalli 3rd Stage,150000.0,100,1500.0,House,2.0
+1419,Residential land / Plot in Varuna,₹91 Lac,"13,000 sqft",Plot/Land,Varuna,9100000.0,13000,700.0,Plot,
+1420,Residential land / Plot in Ilavala Hobli,₹25 Lac,"1,500 sqft",Plot/Land,Ilavala Hobli,2500000.0,1500,1666.7,Plot,
+1421,Residential land / Plot in Huyilalu,₹45 Lac,"1,200 sqft",Plot/Land,Huyilalu,4500000.0,1200,3750.0,Plot,
+1422,Residential land / Plot in Manuganahalli,₹15 Lac,"1,200 sqft",Plot/Land,Manuganahalli,1500000.0,1200,1250.0,Plot,
+1423,2 Bedroom House in Thandavapura,₹38 Lac,"1,200 sqft",2 BHK,Thandavapura,3800000.0,1200,3166.7,House,2.0
+1424,Residential land / Plot in Bogadi,₹36 Lac,"1,200 sqft",Plot/Land,Bogadi,3600000.0,1200,3000.0,Plot,
+1425,Residential land / Plot in Hebbal 1st Stage,₹1.9 Cr,"2,400 sqft",Plot/Land,Hebbal 1st Stage,19000000.0,2400,7916.7,Plot,
+1426,Residential land / Plot in Srirampura,₹98 Lac,"11,980 sqft",Plot/Land,Srirampura,9800000.0,11980,818.0,Plot,
+1427,3 Bedroom House in Belawadi,₹90 Lac,"1,600 sqft",3 BHK,Belawadi,9000000.0,1600,5625.0,House,3.0
+1428,2 BHK Flat in Hinkal,₹72 Lac,"1,126 sqft",2 BHK,Hinkal,7200000.0,1126,6394.3,House,2.0
+1429,3 BHK Flat in SBM colony srirampura 2nd stage,₹1.1 Cr,"1,400 sqft",3 BHK,SBM colony srirampura 2nd stage,11000000.0,1400,7857.1,House,3.0
+1430,5 Bedroom House in Police Layout,₹2.14 Cr,"2,200 sqft",5 BHK,Police Layout,21400000.0,2200,9727.3,House,5.0
+1431,1 Bedroom Farm house in Block D JP Nagar,₹60 Lac,"65,340 sqft",1 BHK,Block D JP Nagar,6000000.0,65340,91.8,House,1.0
+1432,2 Bedroom House in Dattagalli,₹1.1 Cr,"1,280 sqft",2 BHK,Dattagalli,11000000.0,1280,8593.8,House,2.0
+1433,Residential land / Plot in Yelwala,₹30 Lac,800 sqft,Plot/Land,Yelwala,3000000.0,800,3750.0,Plot,
+1434,2 BHK Flat in VV Mohalla,₹75 Lac,900 sqft,2 BHK,VV Mohalla,7500000.0,900,8333.3,House,2.0
+1435,2 BHK Flat in 2nd Stage Vijay Nagar,₹1 Cr,"1,280 sqft",2 BHK,2nd Stage Vijay Nagar,10000000.0,1280,7812.5,House,2.0
+1436,Residential land / Plot in Bogadi,₹49 Lac,"1,500 sqft",Plot/Land,Bogadi,4900000.0,1500,3266.7,Plot,
+1437,Residential land / Plot in Vidyashankara Nagar,₹1.5 Cr,"2,400 sqft",Plot/Land,Vidyashankara Nagar,15000000.0,2400,6250.0,Plot,
+1438,Residential property in Vidyashankara Nagar,₹1.5 Cr,"2,400 sqft",Plot/Land,Vidyashankara Nagar,15000000.0,2400,6250.0,Plot,
+1439,Residential land / Plot in Kenchalagudu,₹63 Lac,"4,000 sqft",Plot/Land,Kenchalagudu,6300000.0,4000,1575.0,Plot,
+1440,Residential land / Plot in Nanjangud,₹14.4 Lac,"1,200 sqft",Plot/Land,Nanjangud,1440000.0,1200,1200.0,Plot,
+1441,2 BHK Flat in Hebbal,₹60 Lac,"1,250 sqft",2 BHK,Hebbal,6000000.0,1250,4800.0,House,2.0
+1442,Residential land / Plot in RT Nagar,₹26 Lac,"1,162 sqft",Plot/Land,RT Nagar,2600000.0,1162,2237.5,Plot,
+1443,Residential land / Plot in Roopa Nagar,₹1.35 Cr,"2,400 sqft",Plot/Land,Roopa Nagar,13500000.0,2400,5625.0,Plot,
+1444,Residential land / Plot in Hunsur,₹10 Lac,"2,800 sqft",Plot/Land,Hunsur,1000000.0,2800,357.1,Plot,
+1445,2 Bedroom House in Yelwala,₹55 Lac,"2,939 sqft",2 BHK,Yelwala,5500000.0,2939,1871.4,House,2.0
+1447,2 Bedroom House in Srinagara Layout,₹85 Lac,"1,200 sqft",2 BHK,Srinagara Layout,8500000.0,1200,7083.3,House,2.0
+1448,Residential land / Plot in RMP Layout,₹30 Lac,"1,200 sqft",Plot/Land,RMP Layout,3000000.0,1200,2500.0,Plot,
+1449,Residential land / Plot in Sathgalli,₹40 Lac,"1,200 sqft",Plot/Land,Sathgalli,4000000.0,1200,3333.3,Plot,
+1450,2 BHK Flat in 3rd Stage Vijayanagar,₹60 Lac,"1,122 sqft",2 BHK,3rd Stage Vijayanagar,6000000.0,1122,5347.6,House,2.0
+1451,Residential land / Plot in Manuganahalli,₹16.58 Lac,"1,200 sqft",Plot/Land,Manuganahalli,1658000.0,1200,1381.7,Plot,
+1452,2 BHK Flat in VV Mohalla,₹75 Lac,900 sqft,2 BHK,VV Mohalla,7500000.0,900,8333.3,House,2.0
+1453,Residential land / Plot in University Layout,₹1.5 Cr,"2,400 sqft",Plot/Land,University Layout,15000000.0,2400,6250.0,Plot,
+1454,Residential land / Plot in Teachers Layout 1st Stage,₹96 Lac,"1,200 sqft",Plot/Land,Teachers Layout 1st Stage,9600000.0,1200,8000.0,Plot,
+1455,Residential land / Plot in Yelwala,₹52 Lac,"1,374 sqft",Plot/Land,Yelwala,5200000.0,1374,3784.6,Plot,
+1456,6 Bedroom House in Lal Bahadur Shastri Nagar,₹1.1 Cr,600 sqft,6 BHK,Lal Bahadur Shastri Nagar,11000000.0,600,18333.3,House,6.0
+1457,3 Bedroom House in Ashokapuram,₹1.4 Cr,30 sqft,3 BHK,Ashokapuram,14000000.0,30,466666.7,House,3.0
+1458,Residential land / Plot in Hootagalli,₹43.5 Lac,"1,200 sqft",Plot/Land,Hootagalli,4350000.0,1200,3625.0,Plot,
+1459,4 Bedroom Farm house in Hosaveedu,₹75 Lac,"40,000 sqft",4 BHK,Hosaveedu,7500000.0,40000,187.5,House,4.0
+1460,4 BHK Independent Builder Floor in Aravinda Nagar,₹65 Lac,"1,200 sqft",4 BHK,Aravinda Nagar,6500000.0,1200,5416.7,House,4.0
+1461,Residential land / Plot in Bogadi,₹30 Lac,"1,200 sqft",Plot/Land,Bogadi,3000000.0,1200,2500.0,Plot,
+1462,Residential land / Plot in Karle Habitat,₹65 Lac,"1,200 sqft",Plot/Land,Karle Habitat,6500000.0,1200,5416.7,Plot,
+1463,4 Bedroom House in Nivedita Nagar,₹3 Cr,"3,000 sqft",4 BHK,Nivedita Nagar,30000000.0,3000,10000.0,House,4.0
+1464,Residential land / Plot in Yelwala,₹66 Lac,"2,400 sqft",Plot/Land,Yelwala,6600000.0,2400,2750.0,Plot,
+1465,Residential property in Bogadi,₹70 Lac,"1,200 sqft",Plot/Land,Bogadi,7000000.0,1200,5833.3,Plot,
+1466,Residential land / Plot in Hebbal,₹60 Lac,"6,534 sqft",Plot/Land,Hebbal,6000000.0,6534,918.3,Plot,
+1467,Residential land / Plot in Yelwala,₹48 Lac,"2,400 sqft",Plot/Land,Yelwala,4800000.0,2400,2000.0,Plot,
+1468,Residential property in Nanjangud,₹40 Lac,800 sqft,Plot/Land,Nanjangud,4000000.0,800,5000.0,Plot,
+1469,3 Bedroom House in Vidyaranyapura,₹1.2 Cr,961 sqft,3 BHK,Vidyaranyapura,12000000.0,961,12487.0,House,3.0
+1470,2 BHK Flat in JP Nagar,₹68 Lac,"1,308 sqft",2 BHK,JP Nagar,6800000.0,1308,5198.8,House,2.0
+1471,2 BHK Flat in 4th Stage Vijayanagar,₹95 Lac,"1,163 sqft",2 BHK,4th Stage Vijayanagar,9500000.0,1163,8168.5,House,2.0
+1472,2 BHK Flat in Gokulam,₹60 Lac,"1,100 sqft",2 BHK,Gokulam,6000000.0,1100,5454.5,House,2.0
+1473,Residential land / Plot in Kesare,₹1 Cr,"1,873 sqft",Plot/Land,Kesare,10000000.0,1873,5339.0,Plot,
+1474,4 Bedroom House in Dattagalli,₹1.85 Cr,"1,200 sqft",4 BHK,Dattagalli,18500000.0,1200,15416.7,House,4.0
+1475,Residential land / Plot in JP Nagar,₹35 Lac,"1,162 sqft",Plot/Land,JP Nagar,3500000.0,1162,3012.0,Plot,
+1476,Residential land / Plot in Hanchya,₹75 Lac,"13,068 sqft",Plot/Land,Hanchya,7500000.0,13068,573.9,Plot,
+1477,Residential land / Plot in Bogadi,₹1.88 Cr,"4,000 sqft",Plot/Land,Bogadi,18800000.0,4000,4700.0,Plot,
+1478,Residential property in JP Nagar,₹2 Cr,"1,750 sqft",Plot/Land,JP Nagar,20000000.0,1750,11428.6,Plot,
+1479,Residential land / Plot in Gungralchatra,₹42 Lac,"1,278 sqft",Plot/Land,Gungralchatra,4200000.0,1278,3286.4,Plot,
+1480,4 Bedroom House in Kalyanagiri,₹1.5 Cr,"2,050 sqft",4 BHK,Kalyanagiri,15000000.0,2050,7317.1,House,4.0
+1481,Residential land / Plot in RT Nagar,₹95 Lac,"2,300 sqft",Plot/Land,RT Nagar,9500000.0,2300,4130.4,Plot,
+1482,Residential land / Plot in Near Infosys,₹60 Lac,"6,534 sqft",Plot/Land,Near Infosys,6000000.0,6534,918.3,Plot,
+1483,Residential land / Plot in Madhuvana Layout,₹95 Lac,"2,300 sqft",Plot/Land,Madhuvana Layout,9500000.0,2300,4130.4,Plot,
+1484,3 Bedroom House in CFTRI layout,₹1.5 Cr,"1,200 sqft",3 BHK,CFTRI layout,15000000.0,1200,12500.0,House,3.0
+1485,Residential land / Plot in Ilavala Hobli,₹45 Lac,"1,500 sqft",Plot/Land,Ilavala Hobli,4500000.0,1500,3000.0,Plot,
+1486,2 Bedroom House in Lal Bahadur Shastri Nagar,₹51 Lac,600 sqft,2 BHK,Lal Bahadur Shastri Nagar,5100000.0,600,8500.0,House,2.0
+1487,Residential land / Plot in Dadadahalli,₹68 Lac,"2,400 sqft",Plot/Land,Dadadahalli,6800000.0,2400,2833.3,Plot,
+1488,Residential land / Plot in Huyilalu,₹30 Lac,"1,200 sqft",Plot/Land,Huyilalu,3000000.0,1200,2500.0,Plot,
+1489,Residential land / Plot in Chamundipuram,₹84 Lac,"1,200 sqft",Plot/Land,Chamundipuram,8400000.0,1200,7000.0,Plot,
+1490,2 Bedroom House in Gejjagalli,₹38 Lac,900 sqft,2 BHK,Gejjagalli,3800000.0,900,4222.2,House,2.0
+1491,3 BHK Flat in JP Nagar,₹98 Lac,"1,707 sqft",3 BHK,JP Nagar,9800000.0,1707,5741.1,House,3.0
+1492,3 Bedroom House in Srirampura,₹90 Lac,"1,200 sqft",3 BHK,Srirampura,9000000.0,1200,7500.0,House,3.0
+1493,4 Bedroom House in 2nd Stage Vijay Nagar,₹1.29 Cr,600 sqft,4 BHK,2nd Stage Vijay Nagar,12900000.0,600,21500.0,House,4.0
+1494,3 Bedroom House in Lalithadripura,₹1.15 Cr,"1,200 sqft",3 BHK,Lalithadripura,11500000.0,1200,9583.3,House,3.0
+1495,Residential land / Plot in Belawadi,₹60 Lac,"1,500 sqft",Plot/Land,Belawadi,6000000.0,1500,4000.0,Plot,
+1496,Residential land / Plot in Ilavala Hobli,₹49.99 Lac,"1,295 sqft",Plot/Land,Ilavala Hobli,4999000.0,1295,3860.2,Plot,
+1497,5 Bedroom House in Sindhuvalli,₹95 Lac,"1,200 sqft",5 BHK,Sindhuvalli,9500000.0,1200,7916.7,House,5.0
+1498,Residential land / Plot in Yelwala,₹60 Lac,"1,200 sqft",Plot/Land,Yelwala,6000000.0,1200,5000.0,Plot,
+1499,3 Bedroom House in Dattagalli,₹2.05 Cr,"1,440 sqft",3 BHK,Dattagalli,20500000.0,1440,14236.1,House,3.0
+1500,Residential land / Plot in Ilavala Hobli,₹38.39 Lac,"1,200 sqft",Plot/Land,Ilavala Hobli,3839000.0,1200,3199.2,Plot,
+1501,3 Bedroom House in Shakthinagar,₹1 Cr,"1,200 sqft",3 BHK,Shakthinagar,10000000.0,1200,8333.3,House,3.0
+1502,Residential land / Plot in Rajiv Nagar,₹70 Lac,"1,200 sqft",Plot/Land,Rajiv Nagar,7000000.0,1200,5833.3,Plot,
+1503,Residential land / Plot in Dadadahalli,₹72 Lac,"2,400 sqft",Plot/Land,Dadadahalli,7200000.0,2400,3000.0,Plot,
+1504,2 Bedroom House in Bannur Road,₹65 Lac,"1,250 sqft",2 BHK,Bannur Road,6500000.0,1250,5200.0,House,2.0
+1505,2 Bedroom House in Bannur Rural,₹65 Lac,"1,200 sqft",2 BHK,Bannur Rural,6500000.0,1200,5416.7,House,2.0
+1506,2 Bedroom House in JP Nagar,₹78 Lac,"1,200 sqft",2 BHK,JP Nagar,7800000.0,1200,6500.0,House,2.0
+1507,Residential land / Plot in KR Nagar,₹13.5 Lac,"15,000 sqft",Plot/Land,KR Nagar,1350000.0,15000,90.0,Plot,
+1508,3 Bedroom House in Srirampura,₹1.35 Cr,"1,200 sqft",3 BHK,Srirampura,13500000.0,1200,11250.0,House,3.0
+1509,Residential land / Plot in JP Nagar,₹35 Lac,"1,035 sqft",Plot/Land,JP Nagar,3500000.0,1035,3381.6,Plot,
+1510,Residential land / Plot in JP Nagar 2nd Stage,₹1.05 Cr,"2,600 sqft",Plot/Land,JP Nagar 2nd Stage,10500000.0,2600,4038.5,Plot,
+1511,Residential land / Plot in Gejjagalli,₹35 Lac,"2,100 sqft",Plot/Land,Gejjagalli,3500000.0,2100,1666.7,Plot,
+1512,Residential land / Plot in Ilavala Hobli,₹72 Lac,"2,400 sqft",Plot/Land,Ilavala Hobli,7200000.0,2400,3000.0,Plot,
+1513,3 BHK Independent Builder Floor in 4th Stage Vijayanagar,₹65 Lac,600 sqft,3 BHK,4th Stage Vijayanagar,6500000.0,600,10833.3,House,3.0
+1514,Residential land / Plot in Gohalli,₹38 Lac,"1,200 sqft",Plot/Land,Gohalli,3800000.0,1200,3166.7,Plot,
+1515,Residential land / Plot in Sathagalli Layout,₹97 Lac,"3,240 sqft",Plot/Land,Sathagalli Layout,9700000.0,3240,2993.8,Plot,
+1516,3 Bedroom House in Dattagalli 3rd Stage,₹71 Lac,600 sqft,3 BHK,Dattagalli 3rd Stage,7100000.0,600,11833.3,House,3.0
+1517,Residential land / Plot in Uttanahalli,₹20 Lac,581 sqft,Plot/Land,Uttanahalli,2000000.0,581,3442.3,Plot,
+1519,Residential land / Plot in Allanahalli Layout,₹60 Lac,"1,350 sqft",Plot/Land,Allanahalli Layout,6000000.0,1350,4444.4,Plot,
+1520,Residential land / Plot in Elivala ,₹17 Lac,"1,200 sqft",Plot/Land,Elivala ,1700000.0,1200,1416.7,Plot,
+1521,Residential land / Plot in Rajiv Nagar,₹38 Lac,600 sqft,Plot/Land,Rajiv Nagar,3800000.0,600,6333.3,Plot,
+1522,Residential land / Plot in Mandakalli,₹1 Cr,"2,400 sqft",Plot/Land,Mandakalli,10000000.0,2400,4166.7,Plot,
+1523,Residential land / Plot in Hunsur,₹12 Lac,"1,200 sqft",Plot/Land,Hunsur,1200000.0,1200,1000.0,Plot,
+1524,Residential land / Plot in Ramakrishna Nagar,₹1.22 Cr,"1,200 sqft",Plot/Land,Ramakrishna Nagar,12200000.0,1200,10166.7,Plot,
+1525,3 Bedroom House in Mahalakshmi hill veiw,₹1.5 Cr,"2,400 sqft",3 BHK,Mahalakshmi hill veiw,15000000.0,2400,6250.0,House,3.0
+1526,5 Bedroom House in Nanjangud,₹2.5 Cr,"2,401 sqft",5 BHK,Nanjangud,25000000.0,2401,10412.3,House,5.0
+1527,Residential land / Plot in Rajiv Nagar,₹30 Lac,"2,400 sqft",Plot/Land,Rajiv Nagar,3000000.0,2400,1250.0,Plot,
+1528,2 Bedroom House in 2nd Stage Vijay Nagar,₹10 Lac,"1,200 sqft",2 BHK,2nd Stage Vijay Nagar,1000000.0,1200,833.3,House,2.0
+1529,Residential land / Plot in Vajamangala,₹34 Lac,"1,201 sqft",Plot/Land,Vajamangala,3400000.0,1201,2831.0,Plot,
+1530,Residential land / Plot in Maratikyatana Halli,₹26.4 Lac,"1,200 sqft",Plot/Land,Maratikyatana Halli,2640000.0,1200,2200.0,Plot,
+1531,4 BHK Independent Builder Floor in Block D JP Nagar,₹85 Lac,550 sqft,4 BHK,Block D JP Nagar,8500000.0,550,15454.5,House,4.0
+1532,3 BHK Flat in Bogadi,₹67 Lac,"1,256 sqft",3 BHK,Bogadi,6700000.0,1256,5334.4,House,3.0
+1533,Residential land / Plot in Thaluru,₹38.4 Lac,"1,200 sqft",Plot/Land,Thaluru,3840000.0,1200,3200.0,Plot,
+1534,2 Bedroom House in Prashanta Chaya Layout,₹35 Lac,600 sqft,2 BHK,Prashanta Chaya Layout,3500000.0,600,5833.3,House,2.0
+1535,Residential land / Plot in 4th Stage Vijayanagar,₹1.25 Cr,"19,602 sqft",Plot/Land,4th Stage Vijayanagar,12500000.0,19602,637.7,Plot,
+1536,5 Bedroom House in Nandagokula,₹72 Lac,660 sqft,5 BHK,Nandagokula,7200000.0,660,10909.1,House,5.0
+1537,Residential land / Plot in Huyilalu,₹33 Lac,"1,200 sqft",Plot/Land,Huyilalu,3300000.0,1200,2750.0,Plot,
+1538,1 Bedroom House in Srirampura,₹31 Lac,"1,200 sqft",1 BHK,Srirampura,3100000.0,1200,2583.3,House,1.0
+1539,Residential land / Plot in Neelana Koppalu,₹66 Lac,"43,560 sqft",Plot/Land,Neelana Koppalu,6600000.0,43560,151.5,Plot,
+1540,Residential land / Plot in Hampapura,₹28.92 Lac,"1,157 sqft",Plot/Land,Hampapura,2892000.0,1157,2499.6,Plot,
+1541,Residential land / Plot in Deepanagar,₹60 Lac,"1,162 sqft",Plot/Land,Deepanagar,6000000.0,1162,5163.5,Plot,
+1542,Residential land / Plot in Nanjangud,₹33 Lac,"1,500 sqft",Plot/Land,Nanjangud,3300000.0,1500,2200.0,Plot,
+1543,Residential land / Plot in 4th Stage Vijayanagar,₹90 Lac,"1,287 sqft",Plot/Land,4th Stage Vijayanagar,9000000.0,1287,6993.0,Plot,
+1544,Residential land / Plot in Bogadi,₹38 Lac,600 sqft,Plot/Land,Bogadi,3800000.0,600,6333.3,Plot,
+1545,Residential land / Plot in Bogadi,₹35 Lac,600 sqft,Plot/Land,Bogadi,3500000.0,600,5833.3,Plot,
+1546,3 Bedroom House in Alanahalli,₹82 Lac,600 sqft,3 BHK,Alanahalli,8200000.0,600,13666.7,House,3.0
+1547,3 Bedroom House in Tk Layout,₹2.2 Cr,"2,200 sqft",3 BHK,Tk Layout,22000000.0,2200,10000.0,House,3.0
+1548,3 Bedroom House in Vidyaranyapura,₹1.65 Cr,"1,400 sqft",3 BHK,Vidyaranyapura,16500000.0,1400,11785.7,House,3.0
+1550,3 Bedroom House in 3rd Stage Vijayanagar,₹1 Cr,600 sqft,3 BHK,3rd Stage Vijayanagar,10000000.0,600,16666.7,House,3.0
+1551,Residential land / Plot in Hunsur,₹1.25 Cr,"217,800 sqft",Plot/Land,Hunsur,12500000.0,217800,57.4,Plot,
+1552,3 BHK Flat in Bogadi,₹72 Lac,"1,470 sqft",3 BHK,Bogadi,7200000.0,1470,4898.0,House,3.0
+1553,Residential land / Plot in 4th Stage Vijayanagar,₹95 Lac,"1,200 sqft",Plot/Land,4th Stage Vijayanagar,9500000.0,1200,7916.7,Plot,
+1554,Residential land / Plot in Sree Sapthamathrukha Layout,₹65 Lac,"4,000 sqft",Plot/Land,Sree Sapthamathrukha Layout,6500000.0,4000,1625.0,Plot,
+1555,Residential land / Plot in Bogadi,₹60 Lac,"1,200 sqft",Plot/Land,Bogadi,6000000.0,1200,5000.0,Plot,
+1556,2 BHK Flat in Hinkal,₹60 Lac,"1,100 sqft",2 BHK,Hinkal,6000000.0,1100,5454.5,House,2.0
+1557,2 Bedroom Farm house in Nanjangud,₹87 Lac,"87,120 sqft",2 BHK,Nanjangud,8700000.0,87120,99.9,House,2.0
+1558,Residential land / Plot in Bannur Road,₹40 Lac,"2,400 sqft",Plot/Land,Bannur Road,4000000.0,2400,1666.7,Plot,
+1559,Residential land / Plot in Yelwala,₹24 Lac,"1,200 sqft",Plot/Land,Yelwala,2400000.0,1200,2000.0,Plot,
+1560,Residential land / Plot in Hootagalli,₹56 Lac,"1,625 sqft",Plot/Land,Hootagalli,5600000.0,1625,3446.2,Plot,
+1561,Residential land / Plot in Yelwala,₹19.2 Lac,"1,200 sqft",Plot/Land,Yelwala,1920000.0,1200,1600.0,Plot,
+1562,4 Bedroom House in Bogadi,₹1.95 Cr,"1,200 sqft",4 BHK,Bogadi,19500000.0,1200,16250.0,House,4.0
+1563,Residential land / Plot in Huyilalu,₹30 Lac,"50,529 sqft",Plot/Land,Huyilalu,3000000.0,50529,59.4,Plot,
+1566,Residential land / Plot in Vajamangala,₹30 Lac,"1,230 sqft",Plot/Land,Vajamangala,3000000.0,1230,2439.0,Plot,
+1567,Residential land / Plot in Yelwala,₹24 Lac,"1,200 sqft",Plot/Land,Yelwala,2400000.0,1200,2000.0,Plot,
+1568,2 Bedroom House in JP Nagar,₹1.1 Cr,"1,200 sqft",2 BHK,JP Nagar,11000000.0,1200,9166.7,House,2.0
+1569,2 Bedroom House in Rajiv Nagar,₹48 Lac,600 sqft,2 BHK,Rajiv Nagar,4800000.0,600,8000.0,House,2.0
+1570,2 Bedroom House in Ramachandra Agrahara,₹52 Lac,750 sqft,2 BHK,Ramachandra Agrahara,5200000.0,750,6933.3,House,2.0
+1571,Residential land / Plot in Varuna,₹30 Lac,"1,200 sqft",Plot/Land,Varuna,3000000.0,1200,2500.0,Plot,
+1572,2 BHK Flat in Hebbal 1st Stage,₹58 Lac,"1,150 sqft",2 BHK,Hebbal 1st Stage,5800000.0,1150,5043.5,House,2.0
+1573,Residential land / Plot in 4th Stage Vijayanagar,₹1.62 Cr,"2,400 sqft",Plot/Land,4th Stage Vijayanagar,16200000.0,2400,6750.0,Plot,
+1574,3 BHK Flat in Srirampura,₹85 Lac,"1,305 sqft",3 BHK,Srirampura,8500000.0,1305,6513.4,House,3.0
+1575,Residential land / Plot in Dasanakoppalu,₹64 Lac,"1,200 sqft",Plot/Land,Dasanakoppalu,6400000.0,1200,5333.3,Plot,
+1576,3 Bedroom House in Sriramapura 2nd Stage,₹1.35 Cr,"1,200 sqft",3 BHK,Sriramapura 2nd Stage,13500000.0,1200,11250.0,House,3.0
+1577,2 Bedroom House in Hebbal 2nd Stage,₹67 Lac,600 sqft,2 BHK,Hebbal 2nd Stage,6700000.0,600,11166.7,House,2.0
+1578,6 Bedroom House in 4th Stage Vijayanagar,₹1.36 Cr,"1,000 sqft",6 BHK,4th Stage Vijayanagar,13600000.0,1000,13600.0,House,6.0
+1579,5 Bedroom House in Vishweshwara Nagar ,₹1.3 Cr,"1,500 sqft",5 BHK,Vishweshwara Nagar ,13000000.0,1500,8666.7,House,5.0
+1580,1 Bedroom Farm house in Devalapura,₹62.9 Lac,"18,512 sqft",1 BHK,Devalapura,6290000.0,18512,339.8,House,1.0
+1581,1 BHK Independent Builder Floor in Gokulam 3rd Stage,₹36 Lac,"3,300 sqft",1 BHK,Gokulam 3rd Stage,3600000.0,3300,1090.9,House,1.0
+1582,Residential land / Plot in Netaji Nagar,₹50 Lac,"87,120 sqft",Plot/Land,Netaji Nagar,5000000.0,87120,57.4,Plot,
+1583,3 BHK Flat in Yadavagiri,₹1.49 Cr,"1,800 sqft",3 BHK,Yadavagiri,14900000.0,1800,8277.8,House,3.0
+1584,2 BHK Flat in Hebbal,₹58 Lac,"1,150 sqft",2 BHK,Hebbal,5800000.0,1150,5043.5,House,2.0
+1585,4 Bedroom House in Sathagalli Layout,₹65 Lac,600 sqft,4 BHK,Sathagalli Layout,6500000.0,600,10833.3,House,4.0
+1587,3 Bedroom House in Ilavala Hobli,₹69 Lac,600 sqft,3 BHK,Ilavala Hobli,6900000.0,600,11500.0,House,3.0
+1588,Residential land / Plot in Sathgalli,₹83.13 Lac,"4,750 sqft",Plot/Land,Sathgalli,8313000.0,4750,1750.1,Plot,
+1589,Residential land / Plot in Rajarajeshwari Nagar,₹34.79 Lac,"1,200 sqft",Plot/Land,Rajarajeshwari Nagar,3479000.0,1200,2899.2,Plot,
+1591,Residential land / Plot in big baniyan tree,₹34.79 Lac,"1,200 sqft",Plot/Land,big baniyan tree,3479000.0,1200,2899.2,Plot,
+1592,3 BHK Flat in Yadavagiri,₹1.1 Cr,"1,635 sqft",3 BHK,Yadavagiri,11000000.0,1635,6727.8,House,3.0
+1593,3 Bedroom House in Brindavan Extension,₹3.3 Cr,"3,660 sqft",3 BHK,Brindavan Extension,33000000.0,3660,9016.4,House,3.0
+1594,2 Bedroom House in Ramakrishna Nagar,₹90 Lac,600 sqft,2 BHK,Ramakrishna Nagar,9000000.0,600,15000.0,House,2.0
+1595,3 Bedroom House in Bogadi,₹1.3 Cr,"1,200 sqft",3 BHK,Bogadi,13000000.0,1200,10833.3,House,3.0
+1596,3 Bedroom House in Aravinda Nagar,₹72 Lac,600 sqft,3 BHK,Aravinda Nagar,7200000.0,600,12000.0,House,3.0
+1597,Residential land / Plot in Belawadi,₹19 Lac,600 sqft,Plot/Land,Belawadi,1900000.0,600,3166.7,Plot,
+1598,Residential land / Plot in Bannur Road,₹45 Lac,"1,200 sqft",Plot/Land,Bannur Road,4500000.0,1200,3750.0,Plot,
+1599,2 BHK Flat in Shardha apartment,₹30 Lac,700 sqft,2 BHK,Shardha apartment,3000000.0,700,4285.7,House,2.0
+1600,Residential land / Plot in Railway Layout,₹1.08 Cr,"2,400 sqft",Plot/Land,Railway Layout,10800000.0,2400,4500.0,Plot,
+1601,2 BHK Independent Builder Floor in Ramakrishna Nagar,₹85 Lac,600 sqft,2 BHK,Ramakrishna Nagar,8500000.0,600,14166.7,House,2.0
+1602,Residential land / Plot in Lalithadripura,₹26 Lac,600 sqft,Plot/Land,Lalithadripura,2600000.0,600,4333.3,Plot,
+1603,3 Bedroom House in 3rd Stage RS Naidu Nagar,₹80 Lac,"1,200 sqft",3 BHK,3rd Stage RS Naidu Nagar,8000000.0,1200,6666.7,House,3.0
+1604,Residential land / Plot in Dadadahalli,₹35 Lac,"1,200 sqft",Plot/Land,Dadadahalli,3500000.0,1200,2916.7,Plot,
+1605,Residential land / Plot in Mandi Mohalla,₹79 Lac,"1,350 sqft",Plot/Land,Mandi Mohalla,7900000.0,1350,5851.9,Plot,
+1606,Residential land / Plot in Halalu,₹26 Lac,"1,800 sqft",Plot/Land,Halalu,2600000.0,1800,1444.4,Plot,
+1607,2 Bedroom House in Krishnarajasagara KRS,₹30 Lac,"2,178 sqft",2 BHK,Krishnarajasagara KRS,3000000.0,2178,1377.4,House,2.0
+1608,Residential land / Plot in Bogadi,₹45 Lac,600 sqft,Plot/Land,Bogadi,4500000.0,600,7500.0,Plot,
+1609,3 Bedroom House in JP Nagar,₹1.05 Cr,"1,400 sqft",3 BHK,JP Nagar,10500000.0,1400,7500.0,House,3.0
+1610,Residential land / Plot in Huyilalu,₹1.1 Cr,"4,000 sqft",Plot/Land,Huyilalu,11000000.0,4000,2750.0,Plot,
+1611,3 Bedroom House in Hebbal 2nd Stage,₹85 Lac,600 sqft,3 BHK,Hebbal 2nd Stage,8500000.0,600,14166.7,House,3.0
+1612,2 Bedroom House in JP Nagar,₹1.05 Cr,"1,200 sqft",2 BHK,JP Nagar,10500000.0,1200,8750.0,House,2.0
+1613,3 BHK Independent Builder Floor in Sriramapura 2nd Stage,₹75 Lac,950 sqft,3 BHK,Sriramapura 2nd Stage,7500000.0,950,7894.7,House,3.0
+1614,Residential land / Plot in KRS Road,₹53 Lac,"1,200 sqft",Plot/Land,KRS Road,5300000.0,1200,4416.7,Plot,
+1615,2 Bedroom House in Thandavapura,₹40 Lac,"1,800 sqft",2 BHK,Thandavapura,4000000.0,1800,2222.2,House,2.0
+1616,Residential land / Plot in Lal Bahadur Shastri Nagar,₹35 Lac,600 sqft,Plot/Land,Lal Bahadur Shastri Nagar,3500000.0,600,5833.3,Plot,
+1617,3 BHK Flat in Jayalakshmipuram,₹1.5 Cr,"1,730 sqft",3 BHK,Jayalakshmipuram,15000000.0,1730,8670.5,House,3.0
+1618,2 Bedroom House in Independent House,₹50 Lac,"1,500 sqft",2 BHK,Independent House,5000000.0,1500,3333.3,House,2.0
+1619,2 Bedroom House in Gururaja Layout,₹85 Lac,"1,200 sqft",2 BHK,Gururaja Layout,8500000.0,1200,7083.3,House,2.0
+1620,Residential land / Plot in Yelwala,₹25 Lac,"1,200 sqft",Plot/Land,Yelwala,2500000.0,1200,2083.3,Plot,
+1621,3 Bedroom House in JP Nagar 2nd Stage,₹2.6 Cr,"2,700 sqft",3 BHK,JP Nagar 2nd Stage,26000000.0,2700,9629.6,House,3.0
+1622,Residential land / Plot in Chikkalli,₹49.5 Lac,"1,192 sqft",Plot/Land,Chikkalli,4950000.0,1192,4152.7,Plot,
+1623,4 Bedroom House in Hebbal,₹90 Lac,600 sqft,4 BHK,Hebbal,9000000.0,600,15000.0,House,4.0
+1624,Residential land / Plot in Yelwala,₹28.2 Lac,"1,200 sqft",Plot/Land,Yelwala,2820000.0,1200,2350.0,Plot,
+1625,4 BHK Independent Builder Floor in Mandi Mohalla,₹65 Lac,981 sqft,4 BHK,Mandi Mohalla,6500000.0,981,6625.9,House,4.0
+1626,Residential land / Plot in Shankara Nagar,₹35 Lac,"1,163 sqft",Plot/Land,Shankara Nagar,3500000.0,1163,3009.5,Plot,
+1627,Residential land / Plot in Bilikere,₹3.7 Cr,"54,885 sqft",Plot/Land,Bilikere,37000000.0,54885,674.1,Plot,
+1628,6 BHK Independent Builder Floor in Vidyaranyapura,₹2.5 Cr,"2,160 sqft",6 BHK,Vidyaranyapura,25000000.0,2160,11574.1,House,6.0
+1629,1 Bedroom House in Gokulam 3rd Stage,₹75 Lac,600 sqft,1 BHK,Gokulam 3rd Stage,7500000.0,600,12500.0,House,1.0
+1630,3 Bedroom House in Lingambudhi Kere,₹87 Lac,600 sqft,3 BHK,Lingambudhi Kere,8700000.0,600,14500.0,House,3.0
+1631,Residential land / Plot in Bogadi,₹1.05 Cr,"1,500 sqft",Plot/Land,Bogadi,10500000.0,1500,7000.0,Plot,
+1632,2 Bedroom House in Bogadi,₹1.35 Cr,"1,200 sqft",2 BHK,Bogadi,13500000.0,1200,11250.0,House,2.0
+1633,Residential land / Plot in K Hemmanahalli,₹1.45 Cr,"4,010 sqft",Plot/Land,K Hemmanahalli,14500000.0,4010,3616.0,Plot,
+1634,"2 BHK Independent Builder Floor in 2nd Stage, Rajiv Nagar",₹80 Lac,668 sqft,2 BHK,"2nd Stage, Rajiv Nagar",8000000.0,668,11976.0,House,2.0
+1635,2 Bedroom House in Raghavendra Nagar,₹80 Lac,"1,500 sqft",2 BHK,Raghavendra Nagar,8000000.0,1500,5333.3,House,2.0
+1636,Residential land / Plot in Srinagara Layout,₹48 Lac,"1,200 sqft",Plot/Land,Srinagara Layout,4800000.0,1200,4000.0,Plot,
+1637,Residential land / Plot in Vajamangala,₹24 Lac,"1,200 sqft",Plot/Land,Vajamangala,2400000.0,1200,2000.0,Plot,
+1638,Residential property in Nanjangud,₹80 Lac,"114,300 sqft",Plot/Land,Nanjangud,8000000.0,114300,70.0,Plot,
+1639,2 Bedroom House in Koorgalli,₹75 Lac,"1,200 sqft",2 BHK,Koorgalli,7500000.0,1200,6250.0,House,2.0
+1640,Residential land / Plot in Huyilalu,₹27 Lac,"1,040 sqft",Plot/Land,Huyilalu,2700000.0,1040,2596.2,Plot,
+1641,Residential land / Plot in Hosahundi,₹90 Lac,"2,400 sqft",Plot/Land,Hosahundi,9000000.0,2400,3750.0,Plot,
+1642,5 Bedroom House in Allanahalli Layout,₹65 Lac,620 sqft,5 BHK,Allanahalli Layout,6500000.0,620,10483.9,House,5.0
+1643,Residential land / Plot in JC Nagar,₹74.25 Lac,"1,350 sqft",Plot/Land,JC Nagar,7425000.0,1350,5500.0,Plot,
+1644,Residential land / Plot in Hootagalli,₹42 Lac,"1,200 sqft",Plot/Land,Hootagalli,4200000.0,1200,3500.0,Plot,
+1645,Residential land / Plot in Kadakola,₹5 Lac,600 sqft,Plot/Land,Kadakola,500000.0,600,833.3,Plot,
+1646,2 BHK Flat in Hebbal,₹65 Lac,"1,151 sqft",2 BHK,Hebbal,6500000.0,1151,5647.3,House,2.0
+1647,2 Bedroom House in Mandi Mohalla,₹50 Lac,35 sqft,2 BHK,Mandi Mohalla,5000000.0,35,142857.1,House,2.0
+1648,Residential land / Plot in Ring Road,₹2 Cr,"4,000 sqft",Plot/Land,Ring Road,20000000.0,4000,5000.0,Plot,
+1649,3 Bedroom House in NR Mohalla,₹40 Lac,500 sqft,3 BHK,NR Mohalla,4000000.0,500,8000.0,House,3.0
+1650,Residential land / Plot in Elivala ,₹33 Lac,"1,200 sqft",Plot/Land,Elivala ,3300000.0,1200,2750.0,Plot,
+1651,3 Bedroom House in Kuvempunagar,₹2.2 Cr,"1,500 sqft",3 BHK,Kuvempunagar,22000000.0,1500,14666.7,House,3.0
+1652,Residential land / Plot in 4th Stage Vijayanagar,₹1.5 Cr,"2,325 sqft",Plot/Land,4th Stage Vijayanagar,15000000.0,2325,6451.6,Plot,
+1653,3 Bedroom House in Bank Employees Colony,₹1.85 Cr,"1,200 sqft",3 BHK,Bank Employees Colony,18500000.0,1200,15416.7,House,3.0
+1654,Residential land / Plot in KR Mohalla,₹98 Lac,784 sqft,Plot/Land,KR Mohalla,9800000.0,784,12500.0,Plot,
+1655,3 Bedroom House in Vasanth Nagar,₹15 Lac,600 sqft,3 BHK,Vasanth Nagar,1500000.0,600,2500.0,House,3.0
+1656,Residential land / Plot in 3rd Stage Vijayanagar,₹86 Lac,"1,200 sqft",Plot/Land,3rd Stage Vijayanagar,8600000.0,1200,7166.7,Plot,
+1657,2 BHK Flat in Vishweshwara Nagar ,₹65 Lac,"1,280 sqft",2 BHK,Vishweshwara Nagar ,6500000.0,1280,5078.1,House,2.0
+1658,Residential land / Plot in Vijaynagar,₹1 Cr,"1,200 sqft",Plot/Land,Vijaynagar,10000000.0,1200,8333.3,Plot,
+1659,Residential land / Plot in Srinagara Layout,₹90 Lac,"2,400 sqft",Plot/Land,Srinagara Layout,9000000.0,2400,3750.0,Plot,
+1660,2 BHK Flat in JP Nagar,₹58 Lac,"1,130 sqft",2 BHK,JP Nagar,5800000.0,1130,5132.7,House,2.0
+1661,Residential land / Plot in RT Nagar,₹75 Lac,"1,200 sqft",Plot/Land,RT Nagar,7500000.0,1200,6250.0,Plot,
+1662,6 Bedroom House in Siddalingeshwara Layout 1st Stage,₹2.5 Cr,"2,400 sqft",6 BHK,Siddalingeshwara Layout 1st Stage,25000000.0,2400,10416.7,House,6.0
+1663,Residential land / Plot in Srirampura,₹65 Lac,"1,500 sqft",Plot/Land,Srirampura,6500000.0,1500,4333.3,Plot,
+1664,2 Bedroom House in Hebbal 2nd Stage,₹62 Lac,520 sqft,2 BHK,Hebbal 2nd Stage,6200000.0,520,11923.1,House,2.0
+1665,2 Bedroom House in Belawadi,₹70 Lac,"1,200 sqft",2 BHK,Belawadi,7000000.0,1200,5833.3,House,2.0
+1666,Residential land / Plot in Ankanahalli,₹21 Lac,"1,500 sqft",Plot/Land,Ankanahalli,2100000.0,1500,1400.0,Plot,
+1667,Residential land / Plot in Sardar Vallabh Bhai Patel Nagar,₹65 Lac,"1,200 sqft",Plot/Land,Sardar Vallabh Bhai Patel Nagar,6500000.0,1200,5416.7,Plot,
+1668,2 Bedroom House in KR Mohalla,₹35.5 Lac,440 sqft,2 BHK,KR Mohalla,3550000.0,440,8068.2,House,2.0
+1669,Residential land / Plot in Maidanahalli,₹32.39 Lac,"1,200 sqft",Plot/Land,Maidanahalli,3239000.0,1200,2699.2,Plot,
+1670,3 Bedroom House in Christian Colony,₹1.66 Cr,"2,160 sqft",3 BHK,Christian Colony,16600000.0,2160,7685.2,House,3.0
+1671,Residential land / Plot in Alanahalli,₹1.4 Cr,"2,800 sqft",Plot/Land,Alanahalli,14000000.0,2800,5000.0,Plot,
+1672,Residential land / Plot in Elivala ,₹27 Lac,"1,200 sqft",Plot/Land,Elivala ,2700000.0,1200,2250.0,Plot,
+1673,3 Bedroom House in 4th Stage Vijayanagar,₹98 Lac,"1,500 sqft",3 BHK,4th Stage Vijayanagar,9800000.0,1500,6533.3,House,3.0
+1674,Residential land / Plot in Hebbal Industrial Area,₹40 Lac,"1,500 sqft",Plot/Land,Hebbal Industrial Area,4000000.0,1500,2666.7,Plot,
+1675,Residential land / Plot in near survey training institute,₹27 Lac,"1,500 sqft",Plot/Land,near survey training institute,2700000.0,1500,1800.0,Plot,
+1676,3 Bedroom House in Bogadi,₹48 Lac,900 sqft,3 BHK,Bogadi,4800000.0,900,5333.3,House,3.0
+1677,4 Bedroom House in Rajiv Nagar,₹1.1 Cr,600 sqft,4 BHK,Rajiv Nagar,11000000.0,600,18333.3,House,4.0
+1680,Residential land / Plot in Bogadi,₹80 Lac,"2,400 sqft",Plot/Land,Bogadi,8000000.0,2400,3333.3,Plot,
+1681,Residential land / Plot in Kenchalagudu,₹64 Lac,"2,400 sqft",Plot/Land,Kenchalagudu,6400000.0,2400,2666.7,Plot,
+1682,2 Bedroom Farm house in Heggadadevankote,₹45 Lac,"2,400 sqft",2 BHK,Heggadadevankote,4500000.0,2400,1875.0,House,2.0
+1683,3 BHK Flat in Hebbal,₹82 Lac,"1,780 sqft",3 BHK,Hebbal,8200000.0,1780,4606.7,House,3.0
+1684,Residential land / Plot in Dattagalli 3rd Stage,₹1.2 Cr,"1,200 sqft",Plot/Land,Dattagalli 3rd Stage,12000000.0,1200,10000.0,Plot,
+1685,Residential land / Plot in Choranahalli,₹59.99 Lac,"1,500 sqft",Plot/Land,Choranahalli,5999000.0,1500,3999.3,Plot,
+1686,Residential land / Plot in Choranahalli,₹52 Lac,"1,200 sqft",Plot/Land,Choranahalli,5200000.0,1200,4333.3,Plot,
+1687,Residential land / Plot in Police Layout,₹60 Lac,"1,200 sqft",Plot/Land,Police Layout,6000000.0,1200,5000.0,Plot,
+1688,3 Bedroom House in Saraswathipuram,₹2.85 Cr,"2,580 sqft",3 BHK,Saraswathipuram,28500000.0,2580,11046.5,House,3.0
+1689,Residential land / Plot in Teachers Layout 1st Stage,₹1.6 Cr,"2,000 sqft",Plot/Land,Teachers Layout 1st Stage,16000000.0,2000,8000.0,Plot,
+1690,4 Bedroom House in JSS Layout 2nd Stage,₹75 Lac,6 sqft,4 BHK,JSS Layout 2nd Stage,7500000.0,6,1250000.0,House,4.0
+1691,5 Bedroom House in Roopa Nagar,₹2.75 Cr,"4,000 sqft",5 BHK,Roopa Nagar,27500000.0,4000,6875.0,House,5.0
+1692,Residential land / Plot in Gangothri Layout,₹62 Lac,700 sqft,Plot/Land,Gangothri Layout,6200000.0,700,8857.1,Plot,
+1693,Residential land / Plot in Bogadi,₹70 Lac,"1,162 sqft",Plot/Land,Bogadi,7000000.0,1162,6024.1,Plot,
+1694,4 Bedroom House in Bogadi,₹1.3 Cr,"1,200 sqft",4 BHK,Bogadi,13000000.0,1200,10833.3,House,4.0
+1695,5 Bedroom House in Kuvempunagar,₹1.78 Cr,"1,200 sqft",5 BHK,Kuvempunagar,17800000.0,1200,14833.3,House,5.0
+1696,Residential land / Plot in Hunsur,₹30 Lac,"1,500 sqft",Plot/Land,Hunsur,3000000.0,1500,2000.0,Plot,
+1697,4 Bedroom House in Dattagalli 3rd Stage,₹65 Lac,600 sqft,4 BHK,Dattagalli 3rd Stage,6500000.0,600,10833.3,House,4.0
+1699,Residential land / Plot in Sathgalli,₹50 Lac,"1,200 sqft",Plot/Land,Sathgalli,5000000.0,1200,4166.7,Plot,
+1700,2 BHK Flat in Siddharthanagar,₹70 Lac,785 sqft,2 BHK,Siddharthanagar,7000000.0,785,8917.2,House,2.0
+1701,Residential land / Plot in Sharadadevi Nagar,₹1.5 Cr,"1,782 sqft",Plot/Land,Sharadadevi Nagar,15000000.0,1782,8417.5,Plot,
+1702,Residential land / Plot in Hebbal 2nd Stage,₹1.15 Cr,"1,900 sqft",Plot/Land,Hebbal 2nd Stage,11500000.0,1900,6052.6,Plot,
+1703,Residential land / Plot in Hanchya,₹1.3 Cr,"2,400 sqft",Plot/Land,Hanchya,13000000.0,2400,5416.7,Plot,
+1704,3 Bedroom House in Sriramapura 2nd Stage,₹1.75 Cr,"1,200 sqft",3 BHK,Sriramapura 2nd Stage,17500000.0,1200,14583.3,House,3.0
+1705,3 Bedroom House in Hampapura,₹70 Lac,"1,500 sqft",3 BHK,Hampapura,7000000.0,1500,4666.7,House,3.0
+1706,Residential land / Plot in Ilavala Hobli,₹1.2 Cr,"4,000 sqft",Plot/Land,Ilavala Hobli,12000000.0,4000,3000.0,Plot,
+1708,5 Bedroom House in Vijayanagar,₹85 Lac,750 sqft,5 BHK,Vijayanagar,8500000.0,750,11333.3,House,5.0
+1709,Residential land / Plot in Periyapatna,₹20 Lac,"2,400 sqft",Plot/Land,Periyapatna,2000000.0,2400,833.3,Plot,
+1710,4 BHK Flat in KRS Road,₹2.35 Cr,"2,150 sqft",4 BHK,KRS Road,23500000.0,2150,10930.2,House,4.0
+1711,3 BHK Independent Builder Floor in Dattagalli 3rd Stage,₹65 Lac,600 sqft,3 BHK,Dattagalli 3rd Stage,6500000.0,600,10833.3,House,3.0
+1712,Residential land / Plot in Bogadi,₹91 Lac,"2,033 sqft",Plot/Land,Bogadi,9100000.0,2033,4476.1,Plot,
+1713,2 BHK Flat in Gokulam,₹60 Lac,"1,030 sqft",2 BHK,Gokulam,6000000.0,1030,5825.2,House,2.0
+1714,Residential land / Plot in Jettihundi,₹29 Lac,"1,200 sqft",Plot/Land,Jettihundi,2900000.0,1200,2416.7,Plot,
+1715,3 Bedroom House in 4th Stage Vijayanagar,₹1.15 Cr,"1,200 sqft",3 BHK,4th Stage Vijayanagar,11500000.0,1200,9583.3,House,3.0
+1716,1 BHK Independent Builder Floor in Lakshmikanth Nagar,₹62 Lac,"1,600 sqft",1 BHK,Lakshmikanth Nagar,6200000.0,1600,3875.0,House,1.0
+1717,Residential land / Plot in Maidanahalli,₹42 Lac,"1,050 sqft",Plot/Land,Maidanahalli,4200000.0,1050,4000.0,Plot,
+1718,2 BHK Flat in KRS Road,₹1.3 Cr,"1,420 sqft",2 BHK,KRS Road,13000000.0,1420,9154.9,House,2.0
+1719,3 Bedroom House in 4th Stage Vijayanagar,₹1.32 Cr,"1,200 sqft",3 BHK,4th Stage Vijayanagar,13200000.0,1200,11000.0,House,3.0
+1720,Residential land / Plot in Bogadi,₹1.5 Cr,"2,400 sqft",Plot/Land,Bogadi,15000000.0,2400,6250.0,Plot,
+1721,Residential land / Plot in Nanjangud,₹40 Lac,"1,200 sqft",Plot/Land,Nanjangud,4000000.0,1200,3333.3,Plot,
+1722,Residential land / Plot in Hebbal,₹55 Lac,"1,200 sqft",Plot/Land,Hebbal,5500000.0,1200,4583.3,Plot,
+1723,Residential land / Plot in Dattagalli,₹47 Lac,"1,200 sqft",Plot/Land,Dattagalli,4700000.0,1200,3916.7,Plot,
+1724,Residential land / Plot in Agrahara,₹27 Lac,680 sqft,Plot/Land,Agrahara,2700000.0,680,3970.6,Plot,
+1725,Residential land / Plot in Hebbal,₹40 Lac,"1,318 sqft",Plot/Land,Hebbal,4000000.0,1318,3034.9,Plot,
+1726,Residential land / Plot in Halalu,₹1.2 Cr,"4,000 sqft",Plot/Land,Halalu,12000000.0,4000,3000.0,Plot,
+1727,3 Bedroom House in Mandakalli,₹75 Lac,600 sqft,3 BHK,Mandakalli,7500000.0,600,12500.0,House,3.0
+1728,3 BHK Flat in Jayalakshmipuram,₹1.3 Cr,"1,713 sqft",3 BHK,Jayalakshmipuram,13000000.0,1713,7589.0,House,3.0
+1729,Residential land / Plot in Kuvempunagar,₹2.5 Cr,"4,000 sqft",Plot/Land,Kuvempunagar,25000000.0,4000,6250.0,Plot,
+1730,4 Bedroom House in 4th Stage Vijayanagar,₹1.49 Cr,"1,560 sqft",4 BHK,4th Stage Vijayanagar,14900000.0,1560,9551.3,House,4.0
+1731,Residential land / Plot in Sathagalli Layout,₹70 Lac,"1,200 sqft",Plot/Land,Sathagalli Layout,7000000.0,1200,5833.3,Plot,
+1732,Residential land / Plot in Vijaynagar,₹1.75 Cr,"1,200 sqft",Plot/Land,Vijaynagar,17500000.0,1200,14583.3,Plot,
+1733,Residential land / Plot in Hebbal,₹2.88 Cr,"9,600 sqft",Plot/Land,Hebbal,28800000.0,9600,3000.0,Plot,
+1734,3 Bedroom House in Srinagara Layout,₹98.25 Lac,"1,200 sqft",3 BHK,Srinagara Layout,9825000.0,1200,8187.5,House,3.0
+1735,3 Bedroom House in Dattagalli,₹70 Lac,600 sqft,3 BHK,Dattagalli,7000000.0,600,11666.7,House,3.0
+1736,Residential land / Plot in Nandini Layout 2nd Stage,₹38 Lac,600 sqft,Plot/Land,Nandini Layout 2nd Stage,3800000.0,600,6333.3,Plot,
+1737,Residential land / Plot in Gungralchatra,₹11.4 Lac,"1,200 sqft",Plot/Land,Gungralchatra,1140000.0,1200,950.0,Plot,
+1738,3 Bedroom House in KRS Road,₹95 Lac,"1,850 sqft",3 BHK,KRS Road,9500000.0,1850,5135.1,House,3.0
+1739,Residential land / Plot in JP Nagar,₹1.8 Cr,"2,400 sqft",Plot/Land,JP Nagar,18000000.0,2400,7500.0,Plot,
+1740,Residential land / Plot in Ashokapuram,₹1.08 Cr,"1,200 sqft",Plot/Land,Ashokapuram,10800000.0,1200,9000.0,Plot,
+1741,Residential land / Plot in Danagalli,₹21 Lac,"1,598 sqft",Plot/Land,Danagalli,2100000.0,1598,1314.1,Plot,
+1742,Residential land / Plot in KRS Road,₹48 Lac,"1,500 sqft",Plot/Land,KRS Road,4800000.0,1500,3200.0,Plot,
+1743,Residential land / Plot in NR Mohalla,₹96.6 Lac,"2,100 sqft",Plot/Land,NR Mohalla,9660000.0,2100,4600.0,Plot,
+1744,3 Bedroom House in Vijaynagar,₹80 Lac,"1,850 sqft",3 BHK,Vijaynagar,8000000.0,1850,4324.3,House,3.0
+1745,Residential land / Plot in Bannur Road,₹3 Cr,"10,000 sqft",Plot/Land,Bannur Road,30000000.0,10000,3000.0,Plot,
+1746,Residential land / Plot in Yelwala,₹25 Lac,800 sqft,Plot/Land,Yelwala,2500000.0,800,3125.0,Plot,
+1747,3 BHK Flat in Bogadi,₹85 Lac,"1,710 sqft",3 BHK,Bogadi,8500000.0,1710,4970.8,House,3.0
+1748,6 Bedroom House in Vidyaranyapura,₹1.2 Cr,"1,100 sqft",6 BHK,Vidyaranyapura,12000000.0,1100,10909.1,House,6.0
+1749,4 Bedroom House in Vijaynagar,₹1.5 Cr,"3,230 sqft",4 BHK,Vijaynagar,15000000.0,3230,4644.0,House,4.0
