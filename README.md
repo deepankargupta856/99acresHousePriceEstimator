@@ -1,41 +1,24 @@
-\documentclass{article}
-\usepackage{hyperref}
-\usepackage{xcolor}
+# 🏡 Real Estate Price Estimator  
 
-\title{\textbf{Real Estate Price Estimator}}
-\date{}
+This project builds a **real estate price estimator** by scraping, processing, and analyzing property data from **99acres.com** to predict prices using machine learning.  
 
-\begin{document}
+## 📌 Project Workflow  
 
-\maketitle
+### 1️⃣ Web Scraping 🕵️‍♂️  
+- Collected property listings from **99acres.com** using **Selenium** and **BeautifulSoup**.  
 
-\section*{📌 Project Workflow}
+### 2️⃣ Data Cleaning & Preprocessing 🛠️  
+- Processed raw data for correctness and consistency.  
+- Converted numeric values, handled missing data, and formatted key features.  
 
-\textbf{1️⃣ Web Scraping} 🕵️‍♂️  
-\begin{itemize}
-    \item Used \textbf{Selenium} and \textbf{BeautifulSoup} to scrape property listings from \href{https://www.99acres.com}{99acres.com}.
-\end{itemize}
+### 3️⃣ Market Insights 📊  
+- Extracted **top locations** and analyzed **price variance** across localities.  
 
-\textbf{2️⃣ Data Cleaning \& Feature Engineering} 🛠️  
-\begin{itemize}
-    \item Processed raw data to ensure correctness and consistency.
-    \item Engineered features for better model performance (e.g., numeric conversion, missing value handling).
-\end{itemize}
+### 4️⃣ Machine Learning Model 🤖  
+- Trained a **Random Forest Regressor** for price prediction.  
+- Applied **One-Hot Encoding** to handle categorical data.  
 
-\textbf{3️⃣ Market Analysis} 📊  
-\begin{itemize}
-    \item Extracted \textbf{hottest locations} and \textbf{variance in property prices} within localities.
-\end{itemize}
+### 5️⃣ Model Performance 🎯  
+- Achieved an **R² score of ~60%**, capturing key price determinants.  
 
-\textbf{4️⃣ Machine Learning Model} 🤖  
-\begin{itemize}
-    \item Trained a \textbf{Random Forest Regressor} to predict property prices.
-    \item Applied \textbf{One-Hot Encoding} for categorical data.
-\end{itemize}
-
-\textbf{5️⃣ Model Performance} 🎯  
-\begin{itemize}
-    \item Achieved an \textbf{R² score of ~60\%}, explaining a significant portion of price variance.
-\end{itemize}
-
-\end{document}
+This model provides **data-driven insights** into real estate pricing, helping buyers, sellers, and investors make informed decisions. 🚀
